@@ -1,0 +1,2470 @@
+﻿aop_elements,aop_elements_id,sort,mark1,mark2,mark3,mark4,mark5,Acronym,Trendency,Label
+"Reduction, 17beta-estradiol synthesis by ovarian granulosa cells",3,KE,Reduction,17beta-estradiol,ovarian granulosa cells,,,,Reduction,Y
+"Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity",8,KE,Decrease,3-hydroxyacyl-CoA dehydrogenase type-2 activity,,,,,Decrease,Y
+"Activation, 5HT2c",9,MIE,Activation,5HT2c,,,,,Activation,Y
+Acetylcholine accumulation in synapses,10,KE,Accumulation,Acetylcholine,synapses,,,Ach,Accumulation,Y
+Acetylcholinesterase (AchE) Inhibition,12,MIE,Inhibition,Acetylcholinesterase,,,,AchE,Inhibition,Y
+"Activation, AhR",18,MIE,Activation,AhR,,,,AhR,Activation,Y
+"Altered regulation, Alpha hemoglobin",21,KE,Altered regulation,Alpha hemoglobin,,,,,Altered regulation,Y
+"Agonism, Androgen receptor",25,MIE,Agonism,Androgen receptor,,,,AR,Agonism,Y
+"Antagonism, Androgen receptor",26,MIE,Antagonism,Androgen receptor,,,,AR,Antagonism,Y
+"N/A, Androgen receptor, Antagonism",27,MIE,Antagonism,Androgen receptor,,,,AR,Antagonism,Y
+"Reduction, Angiogenesis",28,KE,Reduction,Angiogenesis,,,,,Reduction,Y
+"Inhibition, Aromatase",36,MIE,Inhibition,Aromatase,,,,,Inhibition,Y
+Increased Cholinergic Signaling,39,KE,Increase,Cholinergic Signaling,,,,,Increase,Y
+"Decrease, Mitochondrial ATP production",40,KE,Decrease,Mitochondrial ATP ,,,,ATP,Decrease,Y
+"Inhibition, Bile Salt Export Pump (ABCB11)",41,MIE,Inhibition,Bile Salt Export Pump ,ABCB11,,,,Inhibition,Y
+"Accumulation, Biological membranes",46,MIE,Accumulation,Biological membranes,,,,,Accumulation,Y
+"Reduction, Ca and HCO3 transport to shell gland",49,KE,Reduction,Ca and HCO3,shell gland,,,,Reduction,Y
+"Increase, Ca++ (intracellular)",50,KE,Increase,Ca++ (intracellular),,,,Ca,Increase,Y
+"Inhibition, Ca++ ATPase",51,MIE,Inhibition,Ca++ ATPase,,,,Ca,Inhibition,Y
+"Decreased, Calcium influx",52,KE,Decrease,Calcium influx,,,,Ca,Decrease,Y
+"Up Regulation, CD36",54,KE,Up Regulation,CD36,,,,,Up Regulation,Y
+"N/A, Cell injury/death",55,KE,,Cell injury,Cell death,,,,injury/death,Y
+"Reduction, Ionotropic GABA receptor chloride channel conductance",64,KE,Reduction,Ionotropic GABA receptor,chloride channel ,,,GABA,Reduction,Y
+"Activation, ChREBP",66,KE,Activation,ChREBP,,,,ChREBP,Activation,Y
+"Accumulation, Collagen",68,KE,Accumulation,Collagen,,,,,Accumulation,Y
+"N/A, Covalent binding to protein, possibly lysine residue",75,MIE,,Covalent binding,lysine residue,,,,Covalent Binding,Y
+"Production, Critical Metabolites (CGA 330050 and CGA 265307)",77,KE,Production,Critical Metabolites,CGA 330050,CGA 265307,,,Production,Y
+"Reduction, Cumulative fecundity and spawning",78,KE,Reduction,Cumulative fecundity,spawning,,,,Reduction,Y
+"Reduction, Cumulative fecundity and spawning",78,AO,Reduction,Cumulative fecundity,spawning,,,,Reduction,Y
+"Inhibition, Cyclooxygenase activity",79,MIE,Inhibition,Cyclooxygenase ,,,,,Inhibition,Y
+"Release, Cytokine",87,KE,Release,Cytokine,,,,,Release,Y
+"Alkylation, DNA",97,MIE,Alkylation,DNA,,,,DNA,Alkylation,Y
+"Increase, Ecdysone receptor agonism",103,MIE,Increase,Ecdysone receptor ,agonism,,,ER,Increase,Y
+"Reduction, Eggshell thickness",106,KE,Reduction,Eggshell thickness,,,,,Reduction,Y
+"Impairment, Endothelial network",110,KE,Impairment,Endothelial network,,,,,Impairment,Y
+"Agonism, Estrogen receptor",111,MIE,Agonism,Estrogen receptor,,,,ER,Agonism,Y
+"Antagonism, Estrogen receptor",112,MIE,Antagonism,Estrogen receptor,,,,ER,Antagonism,Y
+"Increase, FA Influx",115,KE,Increase,FA Influx,,,,FA,Increase,Y
+"Activation, FAS",116,KE,Activation,FAS,,,,FAS,Activation,Y
+"Formation, Formation of hemoglobin adducts",118,KE,Formation,hemoglobin adducts,,,,,Formation,Y
+"N/A, Gap",119,KE,,Gap,,,,,,Y
+"Activation, Glucocorticoid Receptor",122,MIE,Activation,Glucocorticoid Receptor,,,,GR,Activation,Y
+"Reduction, Gonadotropins, circulating concentrations",129,KE,Reduction,Gonadotropins,circulating,,,,Reduction,Y
+"Down Regulation, Gulcose-6-phosphate dehydrogenase",131,KE,Down Regulation,Gulcose-6-phosphate dehydrogenase,,,,,Down Regulation,Y
+"N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects",139,KE,,Hepatotoxicity,Hepatopathy,,,,,Y
+"Decreased, HSD17B10 expression",140,KE,Decrease,HSD17B10 expression,,,,,Decrease,Y
+"Induction, IKB inhibitory protein",145,KE,Induction,IKB inhibitory protein,,,,,Induction,Y
+"Inhibition, Inducible Nitric Oxide Synthase by Metabolite CGA 265307",147,KE,Inhibition,Nitric Oxide Synthase,CGA 265307,,,,Inhibition,Y
+"Increase, Inflammation",149,KE,Increase,Inflammation,,,,,Increase,Y
+"Activation, Inflammatory cytokines, chemokines, cytoprotective gene pathways",151,KE,Activation,Inflammatory cytokines,chemokines,cytoprotective gene pathways,,,Activation,Y
+"Suppression, Inflammatory cytokines",152,KE,Suppression,Inflammatory cytokines,,,,,Suppression,Y
+"N/A, Inadequate DNA repair",155,KE,,Inadequate DNA repair,,,,DNA,,Y
+"Induction, Liver “Dysfunctional” Changes by CGA 330050",164,KE,Induction,CGA 330050,Dysfunctional,Liver,,,Induction,Y
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes",165,MIE,Activation,Long term AHR receptor,,,,AhR,Activation,Y
+"Decreased, Long-term potentiation (LTP)",166,KE,Decrease,Long-term potentiation ,,,,LTP,Decrease,Y
+"Activation, LXR",167,MIE,Activation,LXR,,,,LXR,Activation,Y
+"Decreased, Lymphocytes",168,KE,Decrease,Lymphocytes,,,,,Decrease,Y
+"Disruption, Membrane integrity",169,KE,Disruption,Membrane integrity,,,,,Disruption,Y
+"Damaging, Mitochondria",176,KE,Damage,Mitochondria,,,,,Damage,Y
+"N/A, Mitochondrial dysfunction 1",177,KE,,Mitochondrial dysfunction 1,,,,,,Y
+"Disruption, Mitochondrial electron transport chain",178,KE,Disruption,Mitochondrial electron transport chain,,,,,Disruption,Y
+"Decreased, Mitochondrial fatty acid beta-oxidation",179,KE,Decrease,Mitochondrial fatty acid beta-oxidation,,,,,Decrease,Y
+"Increase, Mutations",185,KE,Increase,Mutations,,,,,Increase,Y
+"Increase, Mutations",185,AO,Increase,Mutations,,,,,Increase,Y
+"N/A, Neuroinflammation",188,KE,,Neuroinflammation,,,,,,Y
+"Decreased, Nitric Oxide",193,KE,Decrease,Nitric Oxide,,,,,Decrease,Y
+"Inhibition, NMDARs",195,KE,Inhibition,NMDARs,,,,NMDARs,Inhibition,Y
+"Binding of antagonist, NMDA receptors",201,MIE,Antagonism,NMDA receptors,,,,NMDARs,Antagonism,Y
+"Inhibition, Nuclear factor kappa B (NF-kB)",202,KE,Inhibition,Nuclear factor kappa B,,,,,Inhibition,Y
+Peptide Oxidation,209,MIE,,Peptide Oxidation,,,,,,Y
+Peptide Oxidation,209,KE,,Peptide Oxidation,,,,,,Y
+"Propagation, Oxidative stress",211,KE,Propagation,Oxidative stress,,,,,Propagation,Y
+"N/A, Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III)",213,MIE,,oxidation,Parent compound,free radicals,reactive metabolite,,,Y
+"Bile accumulation, Pathological condition",214,KE,Accumulation,Bile,Pathological,,,,Accumulation,Y
+"Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)",216,KE,Decrease,PCK1,glycolysis,gluconeogenesis,,PCK1,Decrease,Y
+"Reduction, Plasma 17beta-estradiol concentrations",219,KE,Reduction,17beta-estradiol,Plasma,,,,Reduction,Y
+"Increase, Plasma vitellogenin concentrations",220,KE,Increase,Plasma vitellogenin,,,,VTG,Increase,Y
+"Reduction, Plasma vitellogenin concentrations",221,KE,Reduction,Plasma vitellogenin,,,,VTG,Reduction,Y
+"Activation, PPARα",227,MIE,Activation,PPARα,,,,PPAR,Activation,Y
+"Activation, PPARα",227,KE,Activation,PPARα,,,,PPAR,Activation,Y
+peroxisome proliferator activated receptor promoter demethylation,228,MIE,Demethylation,peroxisome proliferator activated receptor,,,,PPAR,Demethylation,Y
+"Decreased, PPAR-alpha activation",231,MIE,Decrease,PPAR-alpha,,,,PPAR,Decrease,Y
+"Decreased, PPAR-alpha activation",231,KE,Decrease,PPAR-alpha,,,,PPAR,Decrease,Y
+"Decreased, PPAR-beta activation",232,MIE,Decrease,PPAR-beta,,,,PPAR,Decrease,Y
+"Decreased, PPAR-gamma activation",233,MIE,Decrease,PPAR-gamma,,,,PPAR,Decrease,Y
+"Activation, Pregnane-X receptor, NR1l2",239,MIE,Activation,Pregnane-X receptor,NR1l2,,,PXR,Activation,Y
+"Feminisation or incomplete development, Primary and accessory male sex organs",240,KE,Feminisation,incomplete development,male sex organs,,,,Feminisation,Y
+"Reduction, Prostaglandin E2 concentration",243,KE,Reduction,Prostaglandin E2 concentration,,,,,Reduction,Y
+"Alkylation, Protein",244,MIE,Alkylation,Protein,,,,,Alkylation,Y
+"Activation, PXR/SXR",245,MIE,Activation,PXR,SXR,,,PXR,Activation,Y
+"Increase, RBC congestion in liver",246,KE,Increase,RBC,liver,,,,Increase,Y
+"Production, Reactive oxygen species",249,KE,Production,Reactive oxygen species,,,,ROS,Production,Y
+"Damaging, Red blood cells; hemolysis",250,KE,Damage,Red blood cells,hemolysis,,,,Damage,Y
+"Increase, Renal pathology due to VTG deposition",252,KE,Increase,Renal pathology,VTG deposition,,,VTG,Increase,Y
+"N/A, Reproductive failure",253,AO,,Reproductive failure,,,,,,Y
+"Increase, Reactive oxygen species production",257,MIE,Increase,Reactive oxygen species production,,,,ROS,Increase,Y
+"Increase, Reactive oxygen species production",257,KE,Increase,Reactive oxygen species production,,,,ROS,Increase,Y
+"Activation, SCD-1",258,KE,Activation,SCD-1,,,,SCD-1,Activation,Y
+"Activation, SREBP-1c",264,KE,Activation,SREBP-1c,,,,SREBP-1c,Activation,Y
+"Activation, Stellate cells",265,KE,Activation,Stellate cells,,,,,Activation,Y
+"Decrease, Steroidogenic acute regulatory protein (STAR)",266,KE,Decrease,Steroidogenic acute regulatory protein,STAR,,,STAR,Decrease,Y
+"Induction, Sustained Cell Proliferation",269,KE,Induction,Sustained Cell Proliferation,,,,,Induction,Y
+"Induction, Sustained Hepatotoxicity",270,KE,Induction,Sustained Hepatotoxicity,,,,,Induction,Y
+"Activation/Proliferation, T-cells",272,KE,Activation,Proliferation,T-cells,,,,Activation,Y
+"Reduction, Testosterone synthesis by ovarian theca cells",274,KE,Reduction,Testosterone,ovarian theca cells,,,,Reduction,Y
+"Thyroid hormone synthesis, Decreased",277,MIE,Decrease,Thyroid hormone,,,,,Decrease,Y
+"Thyroid hormone synthesis, Decreased",277,KE,Decrease,Thyroid hormone,,,,,Decrease,Y
+"Thyroperoxidase, Inhibition",279,MIE,Inhibition,Thyroperoxidase,,,,,Inhibition,Y
+"Thyroxine (T4) in neuronal tissue, Decreased ",280,KE,Decrease,Thyroxine,T4,neuronal tissue,,T4,Decrease,Y
+" Thyroxine (T4) in serum, Decreased",281,KE,Decrease,Thyroxine,T4,serum,,T4,Decrease,Y
+"Reduction, Vitellogenin synthesis in liver",285,KE,Reduction,Vitellogenin,liver,,,VTG,Reduction,Y
+"Decreased, Transcription of genes by AR",286,KE,Decrease,Transcription genes of AR,AR,,,AR,Decrease,Y
+"Activation of specific nuclear receptors, Transcriptional change",288,KE,Activation,specific nuclear receptors,Transcriptional change,,,,Activation,Y
+"Decrease, Translocator protein (TSPO)",289,KE,Decrease,Translocator protein,,,,TSPO,Decrease,Y
+"Accumulation, Triglyceride",291,KE,Accumulation,Triglyceride,,,,,Accumulation,Y
+"N/A, Unknown",294,KE,,Unknown,,,,,,Y
+"Induction, Upregulation of glucuronyltransferase activity",295,KE,Induction,Upregulation,glucuronyltransferase activity,,,,Induction,Y
+"Insufficiency, Vascular",298,KE,Insufficiency,Vascular,,,,,Insufficiency,Y
+"Inhibition, VegfR2",305,MIE,Inhibition,VegfR2,,,,VegfR2,Inhibition,Y
+"Increase, Vitellogenin synthesis in liver",307,KE,Increase,Vitellogenin ,liver,,,VTG,Increase,Y
+"Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development",309,KE,Reduction,Vitellogenin ,oocyte growth,development,,VTG,Reduction,Y
+"Alteration, Wnt pathway",310,KE,Alteration,Wnt pathway,,,,,Alteration,Y
+"Increase, Allergic Respiratory Hypersensitivity Response",313,AO,Increase,Allergic Respiratory Hypersensitivity Response,,,,,Increase,Y
+"Altered, Cardiovascular development/function",317,KE,Alteration,Cardiovascular development,Cardiovascular function,,,,Alteration,Y
+"Loss, Cochlear function",319,AO,Loss,Cochlear function,,,,,Loss,Y
+"N/A, Cyanosis occurs",321,AO,,Cyanosis occurs,,,,,,Y
+"Increased, Disease susceptibility",323,AO,Increase,Disease susceptibility,,,,,Increase,Y
+"Accumulation, Fatty acid",327,KE,Accumulation,Fatty acid,,,,,Accumulation,Y
+"Decrease, Fecundity",328,AO,Decrease,Fecundity,,,,,Decrease,Y
+"Decrease, Fertility",330,AO,Decrease,Fertility,,,,,Decrease,Y
+"Increase, Heritable mutations in offspring",336,AO,Increase,Heritable mutations,offspring,,,,Increase,Y
+"N/A, Impairment of reproductive capacity",337,AO,,reproductive capacity,,,,,,Y
+"Altered, Larval development",339,AO,Alteration,Larval development,,,,,Alteration,Y
+"Impairment, Learning and memory",341,KE,Impairment,Learning,memory,,,,Impairment,Y
+"Impairment, Learning and memory",341,AO,Impairment,Learning,memory,,,,Impairment,Y
+"N/A, Liver fibrosis",344,AO,,Liver fibrosis,,,,,,Y
+"N/A, Liver Steatosis",345,AO,,Liver Steatosis,,,,,,Y
+"Formation, Liver tumor",347,KE,Formation,Liver tumor,,,,,Formation,Y
+"Malformation, Male reproductive tract",348,AO,Malformation,Male reproductive tract,,,,,Malformation,Y
+"Increase, Mortality",350,AO,Increase,Mortality,,,,,Increase,Y
+Increased Mortality,351,AO,Increase,Mortality,,,,,Increase,Y
+"N/A, Neurodegeneration",352,KE,,Neurodegeneration,,,,,Degeneration,Y
+"N/A, Neurodegeneration",352,AO,,Neurodegeneration,,,,,Degeneration,Y
+"Increased, Oxidative damage",356,AO,Increase,Oxidative damage,,,,,Increase,Y
+"Cholestasis, Pathology",357,AO,Cholestasis,Pathology,,,,,Cholestasis,Y
+"Decrease, Population trajectory",360,AO,Decrease,Population trajectory,,,,,Decrease,Y
+"Decline, Population",361,AO,Decline,Population,,,,,Decline,Y
+"Altered, Reproductive behaviour",363,AO,Alteration,Reproductive behaviour,,,,,Alteration,Y
+Uroporphyria,369,AO,,Uroporphyria,,,,,,Y
+"Formation, Pro-mutagenic DNA Adducts",373,MIE,Formation,Pro-mutagenic DNA Adducts,,,,DNA,Formation,Y
+"Increased, Induced Mutations in Critical Genes",376,KE,Increase,Induced Mutations,Critical Genes,,,,Increase,Y
+"Tumorigenesis, Hepatocellular carcinoma",378,AO,Tumorigenesis,Hepatocellular carcinoma,,,,,Tumorigenesis,Y
+Reduced levels of BDNF,381,KE,Reduction,BDNF,,,,BDNF,Reduction,Y
+"Aberrant, Dendritic morphology",382,KE,Aberration,Dendritic morphology,,,,,Aberration,Y
+Decrease of synaptogenesis,385,KE,Decrease,synaptogenesis,,,,,Decrease,Y
+Decrease of neuronal network function,386,KE,Decrease,neuronal network function,,,,,Decrease,Y
+"Overactivation, NMDARs",388,KE,Overactivation,NMDARs,,,,NMDARs,Overactivation,Y
+"Increased, Intracellular Calcium overload",389,KE,Increase,Intracellular Calcium overload,,,,,Increase,Y
+"Covalent Binding, Protein",396,MIE,Covalent Binding,Protein,,,,,Covalent Binding,Y
+"Activation, Dendritic Cells",398,KE,Activation,Dendritic Cells,,,,,Activation,Y
+"Increase, Biliary excretion TH glucuronide",401,KE,Increase,TH glucuronide,Biliary,,,,Increase,Y
+"Cognitive Function, Decreased ",402,AO,Decrease,Cognitive Function,,,,,Decrease,Y
+"Suppression, Immune system",403,KE,Suppression,Immune system,,,,,Suppression,Y
+"irregularities, ovarian cycle",405,AO,irregularities,ovarian cycle,,,,,irregularities,Y
+"impaired, Fertility",406,AO,impairment,Fertility,,,,,impairment,Y
+"reduction in ovarian granulosa cells, Aromatase (Cyp19a1)",408,MIE,Reduction,ovarian granulosa cells,Aromatase,Cyp19a1,,Cyp19a1,Reduction,Y
+"Metabolism of AFB1, Production of Reactive Electrophiles",409,KE,Metabolism ,AFB1,Reactive Electrophiles,,,AFB1,,Y
+"Reduction, Testosterone synthesis in Leydig cells",413,KE,Reduction,Testosterone,Leydig cells,,,,Reduction,Y
+"Increase, Luteinizing hormone (LH) ",414,KE,Increase,Luteinizing hormone ,,,,,Increase,Y
+"Hyperplasia, Leydig cell",415,KE,Hyperplasia,Leydig cell ,,,,,Hyperplasia,Y
+"Increase proliferation, Leydig cell ",416,KE,Increase,proliferation,Leydig cell ,,,,Increase,Y
+"skewed, sex ratio",417,AO,skewness,sex ratio,,,,,skewness,Y
+"Increased, Vitellogenin synthesis",418,KE,Increase,Vitellogenin,,,,VTG,Increase,Y
+"Increased, renal vitellogenin deposition",419,KE,Increase,renal vitellogenin,,,,VTG,Increase,Y
+"Increased, glomerular rupture and renal hemorrhaging",421,KE,Increase,glomerular rupture,renal hemorrhaging,,,,Increase,Y
+"Increased, nephropathy",422,KE,Increase,nephropathy,,,,,Increase,Y
+"Inhibition, Na+/I- symporter (NIS)",424,MIE,Inhibition,Na+ symporter,NIS,I- symporter,,NIS,Inhibition,Y
+Decrease of Thyroidal iodide,425,KE,Decrease,Thyroidal iodide,,,,,Decrease,Y
+"Decreased, Thyroxine (T4) in serum",426,KE,Decrease,Thyroxine,T4,serum,,T4,Decrease,Y
+"Decreased, Population trajectory",442,AO,Decrease,Population trajectory,,,,,Decrease,Y
+"Increased, Atrioventricular block and bradycardia",444,KE,Increase,Atrioventricular block,bradycardia,,,,Increase,Y
+Respiratory distress/arrest,445,KE,,Respiratory distress,arrest,,,,Respiratory distress,Y
+"Reduction, testosterone level",446,KE,Reduction,testosterone level,,,,,Reduction,Y
+"Reduction, Cholesterol transport in mitochondria",447,KE,Reduction,Cholesterol,mitochondria,,,,Reduction,Y
+"Suppression, VLDL secretion",450,KE,Suppression,VLDL secretion,,,,VLDL,Suppression,Y
+"Inhibition, Mitochondrial fatty acid beta-oxidation",451,KE,Inhibition,Mitochondrial fatty acid beta-oxidation,,,,,Inhibition,Y
+"Increased, Triglyceride formation",454,KE,Increase,Triglyceride,,,,,Increase,Y
+"Accumulation, Liver lipid",455,AO,Accumulation,Liver lipid,,,,,Accumulation,Y
+"Suppression, Constitutive androstane receptor, NR1l3",456,MIE,Suppression,Constitutive androstane receptor,NR1l3,,,,Suppression,Y
+"Activation, SREBF1",457,KE,Activation,SREBF1,,,,SREBF1,Activation,Y
+"Increased, De Novo FA synthesis",458,KE,Increase,De Novo FA,,,,,Increase,Y
+"Increased, Liver Steatosis",459,KE,Increase,Liver Steatosis,,,,,Increase,Y
+"Increased, Liver Steatosis",459,AO,Increase,Liver Steatosis,,,,,Increase,Y
+"Suppression, HNF4alpha",461,MIE,Suppression,HNF4alpha,,,,,Suppression,Y
+"Up Regulation, SCD-1",462,KE,Up Regulation,SCD-1,,,,SCD-1,Up Regulation,Y
+"Inhibition, PPAR alpha",468,MIE,Inhibition,PPAR alpha,,,,PPAR ,Inhibition,Y
+"Inhibition, FoxA2",471,KE,Inhibition,FoxA2,,,,FoxA2,Inhibition,Y
+"Down Regulation, CPT1A",472,KE,Down Regulation,CPT1A,,,,CPT1A,Down Regulation,Y
+"Down Regulation, HMGCS2",474,KE,Down Regulation,HMGCS2,,,,HMGCS2,Down Regulation,Y
+"Activation, NRF2",478,MIE,Activation,NRF2,,,,NRF2,Activation,Y
+"Activation, NR1H4",479,MIE,Activation,NR1H4,,,,NR1H4,Activation,Y
+"Activation, SHP",480,KE,Activation,SHP,,,,SHP,Activation,Y
+"Decreased, DHB4/HSD17B4",482,KE,Decrease,DHB4,HSD17B4,,,DHB4/HSD17B4,Decrease,Y
+"Activation, LXR alpha",483,KE,Activation,LXR alpha,,,,LXR ,Activation,Y
+"Activation, AKT2",484,KE,Activation,AKT2,,,,AKT2,Activation,Y
+systemic inflammation leading to hepatic steatosis,486,MIE,,inflammation,hepatic steatosis,,,,Hepatic steatosis,Y
+"Decrease, Ovulation",488,KE,Decrease,Ovulation,,,,,Decrease,Y
+"Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)",491,KE,Clonal Expansion,Cell Proliferation,Altered Hepatic Foci,AHF,,AHF,Clonal Expansion,Y
+"Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts",493,KE,Increase,pro-mutagenic DNA adducts,,,,DNA,Increase,Y
+"Glucocorticoid Receptor Agonist, Activation",494,MIE,Activation,Glucocorticoid Receptor,,,,GR,Activation,Y
+Repressed expression of steroidogenic enzymes ,495,KE,Repressed expression,steroidogenic enzymes ,,,,,Repressed expression,Y
+"Increased apoptosis, decreased number of adult Leydig Cells ",496,KE,Increase,apoptosis,Decrease,adult Leydig Cells ,,,Increase,Y
+"Decreased sperm quantity / quality in the adult, Decreased fertility ",505,AO,Decrease,sperm quantity,fertility ,sperm quality,,*,Decrease,Y
+"Decreased sperm quantity or quality in the adult, Decreased fertility ",520,KE,Decrease,sperm quantity,fertility ,sperm quality,,*,Decrease,Y
+"Decreased sperm quantity or quality in the adult, Decreased fertility ",520,AO,Decrease,sperm quantity,fertility ,sperm quality,,*,Decrease,Y
+"Apoptosis of adult Leydig cells, Decreased testosterone by adult Leydig cells",525,KE,Decrease,testosterone,adult Leydig cells,Apoptosis,,,Decrease,Y
+"Inhibition, Inhibition of Dopamine-beta-hydroxylase",526,MIE,Inhibition,Dopamine-beta-hydroxylase,,,,,Inhibition,Y
+"Decreased, Decreased fecundity ",527,AO,Decrease,fecundity ,,,,,Decrease,Y
+"Decreased, Synthesis of NE",528,KE,Decrease,NE,,,,NE,Decrease,Y
+"Decreased, GnRH cfos activity",529,KE,Decrease,GnRH cfos,,,,GnRH ,Decrease,Y
+"Decreased, GnRH pulsatility/release",530,KE,Decrease,GnRH pulsatility,GnRH release,,,GnRH ,Decrease,Y
+"Decreased, LH Surge",531,KE,Decrease,LH surge,,,,LH,Decrease,Y
+"Delayed, Ovulation",532,KE,Delay,Ovulation,,,,,Decrease,Y
+"Decreased, Cortical granule release/distribution upon fertilization",533,KE,Decrease,Cortical granule,fertilization,,,,Increase,Y
+"Decreased testosterone by the fetal Leydig cells, Dysgensis of fetal Leydig cells",540,KE,Decrease,testosterone,fetal Leydig cells,Dysgensis,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Decreased COUP-TFII stem Leydig cells",541,KE,Decrease,testosterone,fetal Leydig cells,COUP-TFII,,,Antagonism,Y
+"Decreased fertility in the adult, Decreased sperm quantity and/or quality in the adult testis",543,AO,Decrease,fertility ,sperm quantity,sperm quality,,*,Decrease,Y
+"Activation, Nicotinic acetylcholine receptor",559,MIE,Activation,Nicotinic acetylcholine receptor,,,,,Activation,Y
+"Abnormal, Foraging activity and behavior",560,KE,abnormality,Foraging,,,,,abnormality,Y
+"Reduced, Food storage",561,KE,Reduction,Food storage,,,,,Reduction,Y
+"Death/Failure, Colony",563,AO,Death,Failure,Colony,,,,Death,Y
+"Abnormal, Roll change within caste",564,KE,abnormality,caste,Roll,,,,abnormality,Y
+"Reduced, Brood care",565,KE,Reduction,Brood care,,,,,Reduction,Y
+"impaired, Larval development",566,AO,impairement,Larval development,,,,,impairement,Y
+"impaired, Hive thermoregulation",568,KE,impairement,Hive thermoregulation,,,,,impairement,Y
+"impaired, Hive thermoregulation",568,AO,impairement,Hive thermoregulation,,,,,impairement,Y
+"Accumulation, Damaged mitochondrial DNA",570,KE,Accumulation,mitochondrial DNA,,,,DNA,Accumulation,Y
+"Accelerated, Aging",571,KE,Acceleration,Aging,,,,,Acceleration,Y
+"Decrease, Number of worker bees",572,AO,Decrease,worker bees,,,,,Decrease,Y
+"Increase, Energetic demands and therefore metabolic stress",573,KE,Increase,Energetic demands,metabolic stress,,,,Increase,Y
+"Increased, Appetite and hunger",574,KE,Increase,Appetite,hunger,,,,Increase,Y
+"Increased, Viral susceptibility",576,KE,Increase,Viral,,,,,Increase,Y
+"impaired, Development",577,KE,impairement,Development,,,,,impairement,Y
+"Decreased, Glucose oxidase enzyme activity",578,KE,Decrease,Glucose oxidase enzyme,,,,,Decrease,Y
+"Decreased, Hydrogen peroxide production",579,KE,Decrease,Hydrogen peroxide,,,,,Decrease,Y
+"Reduced, Antiseptic incorporated in food",580,KE,Reduction,Antiseptic,food,,,,Reduction,Y
+"Inhibition, sodium channel",584,MIE,Inhibition,sodium channel,,,,,Inhibition,Y
+"Decreased, Sodium conductance 1",585,KE,Decrease,Sodium conductance 1,,,,,Decrease,Y
+"Reduced, swimming speed",586,KE,Reduction,swimming speed,,,,,Reduction,Y
+"Reduced, feeding 1",587,KE,Reduction,feeding 1,,,,,Reduction,Y
+"Reduced, feeding 1",587,AO,Reduction,feeding 1,,,,,Reduction,Y
+"Increased, predation",588,KE,Increase,predation,,,,,Increase,Y
+"Increased, predation",588,AO,Increase,predation,,,,,Increase,Y
+"N/A, hypoxia",590,KE,,hypoxia,,,,,Hypoxia,Y
+"Increased, amputations",591,AO,Increase,amputations,,,,,Increase,Y
+"Reduced, survival",592,AO,Reduction,survival,,,,,Reduction,Y
+"Reduced, survival",592,AO,Reduction,survival,,,,,Reduction,Y
+"Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel ",593,MIE,Inhibition,Ether-a-go-go,,potassium channel ,,ERG,Inhibition,Y
+"modulation, sodium channel",598,MIE,modulation,sodium channel,,,,,modulation,Y
+"prolonged, Depolarization of neuronal membrane",599,KE,Prolongation,Depolarization,neuronal membrane,,,,Prolongation,Y
+"Overactivation, Neuronotransmitter release",600,KE,Overactivation,Neuronotransmitter,,,,,Overactivation,Y
+"Overactivation, muscle contraction",601,KE,Overactivation,muscle contraction,,,,,Overactivation,Y
+"Increased, Ataxia, paralysis, or hyperactivity",602,KE,Increase,Ataxia,paralysis,hyperactivity,,,Increase,Y
+"Occurrence, Epileptic seizure",613,AO,Occurrence,Epileptic seizure,,,,,Occurrence,Y
+"Occurrence, A paroxysmal depolarizing shift",616,KE,Occurrence,A paroxysmal depolarizing,,,,,Occurrence,Y
+"Decreased, Neuronal network function in adult brain",618,KE,Decrease,Neuronal network,adult brain,,,,Decrease,Y
+"Inhibition, 5-hydroxytryptamine transporter (5-HTT; SERT)",619,MIE,Inhibition,5-hydroxytryptamine transporter,,SERT,,5-HTT,Inhibition,Y
+"Increase, cilia movement",621,KE,Increase,cilia movement,,,,,Increase,Y
+"Increased, locomotion",622,KE,Increase,locomotion,,,,,Increase,Y
+"Increase, predation",623,AO,Increase,predation,,,,,Increase,Y
+"Increased, foot detachment",624,KE,Increase,foot detachment,,,,,Increase,Y
+"Increased, muscular waves in foot",625,KE,Increase,muscular waves,,,,,Increase,Y
+"Increased, serotonin (5-HT) ",626,KE,Increase,serotonin,,,,5-HT,Increase,Y
+"Decreased, anxiety",627,KE,Decrease,anxiety,,,,,Decrease,Y
+"Decreased, sheltering",629,KE,Decrease,sheltering,,,,,Decrease,Y
+"Decrease, histaminergic neuron excitation",633,KE,Decrease,histaminergic neuron,excitation,,,,Decrease,Y
+"N/A, sedation",634,KE,,sedation,,,,,Sedation,Y
+"Decreased, locomotion",635,KE,Decrease,locomotion,,,,,Decrease,Y
+"Decreased, survival",636,AO,Decrease,survival,,,,,Decrease,Y
+"Antagonism, Histamine Receptor (H2)",638,MIE,Antagonism,Antagonism,H2,,,H2,Antagonism,Y
+"Decreased steroidogenesis, Proteomic alterations in the adult Leydig cell",640,MIE,Decrease,steroidogenesis,Proteomic,adult Leydig cell,,,Decrease,Y
+"Decreased Cholesterol, Decreased De Novo Biosynthesis of Choleseterol",642,MIE,Decrease,Cholesterol,Choleseterol,,,,Decrease,Y
+"Decreased Cholesterol, Decreased Uptake of Lipoproteins",643,MIE,Decrease,Cholesterol,Lipoproteins,,,,Decrease,Y
+"Decreased Cholesterol, Decreased Transport of Cholesterol to the Inner Mitochondrial Membrane",644,MIE,Decrease,Cholesterol,Inner Mitochondrial Membrane,,,,Decrease,Y
+"Decreased Cholesterol, Decreased Testosterone Production by Adult Leydig Cells",645,KE,Decrease,Cholesterol,Testosterone,Adult Leydig Cells,,,Decrease,Y
+"Decreased Cholesterol, Decreased sperm quantity and/or quality in the adult testis",646,AO,Decrease,Cholesterol,sperm quantity,adult testis,,,Decrease,Y
+"Decreased steroidogenesis, Decreased Activity of Steroidogenic Enzymes in Adult Leydig cells",647,KE,Decrease,steroidogenesis,Steroidogenic Enzymes,Adult Leydig cells,,,Decrease,Y
+"Decreased steroidogenesis, Increased Apoptosis of Adult Leydig Cells",648,KE,Decrease,steroidogenesis,Apoptosis ,Adult Leydig Cells,,,Decrease,Y
+"Decreased steroidogenesis, Alterations in the Leydig Cell Cytoskeleton",649,KE,Decrease,steroidogenesis,Leydig Cell Cytoskeleton,,,,Decrease,Y
+"Stimulation of adult Leydig cells via the Adrenal Corticosterone, Increased Glucocorticoid",650,MIE,Increase,Glucocorticoid,Adrenal Corticosterone,adult Leydig cells,,,Increase,Y
+"Glucocorticoid Receptor mediated alterations in steriodogenic enzymes, Decreased testosterone by adult Leydig cells",651,KE,Decrease,testosterone,adult Leydig cells,Glucocorticoid Receptor,Glucocorticoid Receptor,,Decrease,Y
+"Direct effects of Corticosterone on steroidogenesis, Decreased testosterone by adult Leydig cells",652,KE,Decrease,testosterone,adult Leydig cells,Direct effects of Corticosterone on steroidogenesis,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Increased corticosterone",653,MIE,Decrease,testosterone,fetal Leydig cells,corticosterone,,,,Y
+"Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists",654,MIE,Decrease,testosterone,fetal Leydig cells,glucocorticoid receptor agonists,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Increased COUP-TFII in fetal Leydig cells",655,KE,Decrease,testosterone,fetal Leydig cells,COUP-TFII,,,,Y
+"Decreased number and function of adult Leydig cells, Decreased COUP-TFII stem Leydig cells",656,KE,Decrease,adult Leydig cells,COUP-TFII stem Leydig cells,,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Dysgenesis of fetal Leydig cells",657,KE,Decrease,testosterone,fetal Leydig cells,Dysgenesis,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Increased estradiol",658,MIE,Decrease,testosterone,fetal Leydig cells,estradiol,,,,Y
+"Decreased testosterone by the fetal Leydig cells, Activation by other estradiol agonists",659,MIE,Decrease,testosterone,fetal Leydig cells,estradiol agonists,,,Decrease,Y
+"decreased testosterone by fetal Leydig cells, Dysgenesis of fetal Leydig cells",660,KE,Decrease,testosterone,fetal Leydig cells,Dysgenesis,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Alterations in the fetal testis proteome",661,MIE,Decrease,testosterone,fetal Leydig cells,fetal testis proteome,,,Decrease,Y
+"Decreased testosterone by the fetal Leydig cells, Hypermethylation in the fetal testis",662,MIE,Decrease,testosterone,fetal Leydig cells,fetal testis,,,Decrease,Y
+"Desensitization, Nicotinic acetylcholine receptor",663,KE,Desensitization,Nicotinic acetylcholine receptor,,,,,Desensitization,Y
+"Overwhelmed, Mitochondrial DNA repair mechanisms",664,KE,Overwhelm,Mitochondrial DNA,,,,DNA,Overwhelm,Y
+"Binding at picrotoxin site, iGABAR chloride channel",667,MIE,Binding,picrotoxin site,iGABAR chloride channel,,,,Binding,Y
+"Reduction, Neuronal synaptic inhibition",669,KE,Reduction,inhibition,Neuronal synaptic,,,,Reduction,Y
+"Reduced, Prostaglandin F2alpha concentration, plasma ",671,KE,Reduction,plasma ,Prostaglandin F2alpha,,,,Reduction,Y
+"Reduced, Prostaglandin F2alpha synthesis, ovary  ",672,KE,Reduction,ovary  ,Prostaglandin F2alpha,,,,Reduction,Y
+"Reduced, Spawning behavior",673,KE,Reduction,Spawning behavior,,,,,Reduction,Y
+"Reduced, Ability to attract spawning mates",674,KE,Reduction,attract spawning mates,,,,,Reduction,Y
+"Reduced, Reproductive Success",675,AO,Reduction,Reproductive Success,,,,,Reduction,Y
+"Reduced, Pheromone release",678,KE,Reduction,Pheromone,,,,,Reduction,Y
+"Decline, Population trajectory",679,AO,Decline,Population trajectory,,,,,Decline,Y
+"Decreased, Prostaglandin F2alpha synthesis, ovary  ",681,KE,Decrease,ovary,Prostaglandin F2alpha,,,,Decrease,Y
+"Generation, Amplified excitatory postsynaptic potential (EPSP)",682,KE,Generation,Amplification,excitatory postsynaptic potential ,,,EPSP,Generation,Y
+"Reduced, Prostaglandins, ovary",685,KE,Reduction,ovary,Prostaglandins,,,,Reduction,Y
+"Reduced, Prostaglandin E2 concentration, hypothalamus",687,KE,Reduction,hypothalamus,Prostaglandin E2,,,,Reduction,Y
+"Reduced, Gonadotropin releasing hormone, hypothalamus",689,KE,Reduction,hypothalamus,Gonadotropin,hormone,,,Reduction,Y
+"Reduced, Luteinizing hormone (LH), plasma ",690,KE,Reduction,plasma,Luteinizing hormone,,,LH,Reduction,Y
+"Reduced, Maturation inducing steroid, plasma",691,KE,Reduction,plasma,Maturation inducing,steroid,,,Reduction,Y
+"Reduced, Maturation inducing steroid receptor signalling, oocyte",692,KE,Reduction,oocyte,Maturation inducing,steroid receptor,,,Reduction,Y
+"Reduced, Meiotic prophase I/metaphase I transition, oocyte",694,KE,Reduction,oocyte,Meiotic metaphase I,Meiotic prophase I,,*,Reduction,Y
+"Upregulated, Spindle assembly checkpoint protein Mad2-oocyte",695,KE,Upregulatation,assembly,Spindle,Mad2-oocyte,,,Upregulatation,Y
+"impaired, ion channels",697,MIE,impairment,ion channels,,,,,impairment,Y
+"Altered, Action Potential",698,KE,Alteration,Action Potential,,,,,Alteration,Y
+"Increased, cardiac arrthymia",699,KE,Increase,cardiac arrthymia,,,,,Increase,Y
+"Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)",708,KE,Increase,Accumulation,alpha2u microglobulin,proximal tubular epithelium,,,Increase,Y
+"Increase, Cytotoxicity (renal tubular cell)",709,KE,Increase,Cytotoxicity,renal tubular cell,,,,Increase,Y
+"Increase, Regenerative cell proliferation (tubular epithelial cells)",710,KE,Increase,proliferation,Regenerative cell,tubular epithelial cells,,,Increase,Y
+"Increase, Adenomas/carcinomas (renal tubular)",713,AO,Increase,Adenomas,carcinomas,renal tubular,,,Increase,Y
+"Increased, Binding of chemicals to 2u (serum)",714,MIE,Increase,Binding,2u,serum,,,Increase,Y
+"Activation, Constitutive androstane receptor",715,MIE,Activation,Constitutive androstane receptor,,,,,Activation,Y
+"Increase, Mitogenic cell proliferation (hepatocytes)",716,KE,Increase,proliferation,Mitogenic cell,hepatocytes,,,Increase,Y
+"Binding, Tubulin",718,MIE,Binding,Tubulin,,,,,Binding,Y
+"Increase, Adenomas/carcinomas (hepatocellular)",719,AO,Increase,Adenomas,carcinomas,hepatocellular,,,Increase,Y
+"Disruption, Microtubule dynamics",720,KE,Disruption,Microtubule dynamics,,,,,Disruption,Y
+"Disorganization, Spindle",721,KE,Disorganization,Spindle,,,,,Disorganization,Y
+"Altered, Chromosome number",723,KE,Alteration,Chromosome,,,,,Alteration,Y
+"Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme",724,MIE,Inhibition,Pyruvate dehydrogenase kinase,,,,PDK,Inhibition,Y
+"Increased, Induction of pyruvate dehydrogenase (PDH)",726,KE,Increase,Induction,pyruvate dehydrogenase,,,PDH,Increase,Y
+"Increase, Aneuploid offspring",728,AO,Increase,Aneuploid offspring,,,,,Increase,Y
+"Increase, Necrosis (terminal bronchiolar cells)",733,KE,Increase,Necrosis,terminal bronchiolar cells,,,,Increase,Y
+"Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)",734,KE,Increase,proliferation,Regenerative cell,terminal bronchiolar epithelial cells,,,Increase,Y
+"Increase, Hyperplasia (terminal bronchiolar cells)",735,KE,Increase,Hyperplasia,terminal bronchiolar cells,,,,Increase,Y
+"Increase, Adenomas/carcinomas (bronchioloalveolar)",736,AO,Increase,Adenomas,carcinomas,bronchioloalveolar,,,Increase,Y
+"Decreased, Uptake of inorganic iodide",737,MIE,Decrease,Uptake,inorganic iodide,,,,Decrease,Y
+"Increase, Hypertrophy and proliferation (follicular cell)",739,KE,Increase,Hypertrophy,proliferation,follicular cell,,,Increase,Y
+"Increase, Hyperplasia (follicular cells)",740,KE,Increase,Hyperplasia,follicular cells,,,,Increase,Y
+"Increase, Adenomas/carcinomas (follicular cell)",741,AO,Increase,Adenomas,carcinomas,follicular cell,,,Increase,Y
+"Decreased, Androgen receptor activity",742,MIE,Decrease,Androgen receptor,,,,AR,Decrease,Y
+"Decreased, Testosterone binding to androgen receptor (hypothalamus)",743,KE,Decrease,binding,Testosterone,androgen receptor ,hypothalamus,AR,Decrease,Y
+"Increase, Hyperplasia (Leydig cells)",744,KE,Increase,Hyperplasia,Leydig cells,,,,Increase,Y
+"Increase, Leydig cell tumors",745,AO,Increase,Leydig cell tumors,,,,,Increase,Y
+"Increase, Dopaminergic activity",746,MIE,Increase,Dopaminergic,,,,,Increase,Y
+"Decreased, Prolactin",747,KE,Decrease,Prolactin,,,,,Decrease,Y
+"Increased, Estrogen receptor (ER) activity",748,KE,Increase,Estrogen receptor,,,,ER,Increase,Y
+"Decreased, Progesterone from corpus luteum",749,KE,Decrease,Progesterone from corpus luteum,,,,,Decrease,Y
+"Altered, Meiotic chromosome dynamics",752,KE,Alteration,Meiotic chromosome dynamics,,,,,Alteration,Y
+"Increase, Thyroid-stimulating hormone (TSH)",753,KE,Increase,Thyroid-stimulating hormone,,,,TSH,Increase,Y
+"Increased, Luteinizing hormone (LH) ",754,KE,Increase,Luteinizing hormone,,,,LH,Increase,Y
+"Hippocampal gene expression, Altered ",756,KE,Alteration,Hippocampal gene,,,,,Alteration,Y
+"Hippocampal anatomy, Altered ",757,KE,Alteration,Hippocampal anatomy,,,,,Alteration,Y
+"Hippocampal Physiology, Altered",758,KE,Alteration,Hippocampal Physiology,,,,,Alteration,Y
+"Increased, Kidney Failure",759,AO,Increase,Kidney Failure,,,,,Increase,Y
+"Activation, Glutamate-gated chloride channel",760,MIE,Activation,Glutamate-gated chloride channel,,,,,Activation,Y
+"Increased, Chloride conductance",761,KE,Increase,conductance,Chloride,,,,Increase,Y
+"Activation, ionotropic GABA Receptor chloride channel",762,MIE,Activation,ionotropic GABA Receptor chloride channel,,,,GABA ,Activation,Y
+"hyperpolarisation, neuron",763,KE,Hyperpolarisation,neuron,,,,,Hyperpolarisation,Y
+"N/A, Ataxia, paralysis, or hyperactivity",764,KE,Ataxia,paralysis,hyperactivity,,,,Ataxia,Y
+"Decreased, population 1",765,AO,Decrease,population 1,,,,,Decrease,Y
+"Inhibition, 4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme",766,MIE,Inhibition,4-hydroxyphenyl-pyruvate dioxygenase,,,,HPPD,Inhibition,Y
+"Increase, Hyperplasia (renal tubular cells)",767,KE,Increase,Hyperplasia,renal tubular cells,,,,Increase,Y
+"Increase, Cytotoxicity",768,KE,Increase,Cytotoxicity,,,,,Increase,Y
+"Increase, Oxidative metabolism",769,KE,Increase,Oxidative metabolism,,,,,Increase,Y
+"Increase, Cytotoxicity (club cells)",770,MIE,Increase,Cytotoxicity,club cells,,,,Increase,Y
+"Decrease, Serum thyroid hormone (T4/T3)",771,KE,Decrease,Serum thyroid hormone,T4,T3,,T4/T3,Decrease,Y
+"Increase, Hyperplasia (glandular epithelial cells of endometrium)",772,KE,Increase,Hyperplasia ,glandular epithelial cells of endometrium,,,,Increase,Y
+"Increase, Endometrial adenocarcinomas",773,AO,Increase,Endometrial adenocarcinomas,,,,,Increase,Y
+"Increase, Preneoplastic foci (hepatocytes)",774,KE,Increase,Preneoplastic foci,hepatocytes,,,,Increase,Y
+"Increased, Plasma tyrosine",775,KE,Increase,Plasma tyrosine,,,,,Increase,Y
+"Increase, Cytotoxicity (corneal cells)",776,KE,Increase,Cytotoxicity,corneal cells,,,,Increase,Y
+"Increase, Inflammation (corneal cells)",777,KE,Increase,Inflammation,corneal cells,,,,Increase,Y
+"Increase, Regenerative cell proliferation (corneal cells)",778,KE,Increase,proliferation,Regenerative cell ,corneal cells,,,Increase,Y
+"Increase, Papillomas/carcinomas (squamous cells)",779,AO,Increase,Papillomas,carcinomas,squamous cells,,,Increase,Y
+"Increase, Cytotoxicity (epithelial cells)",780,MIE,Increase,Cytotoxicity,epithelial cells,,,,Increase,Y
+"Increase, Regenerative cell proliferation (forestomach epithelial cells)",781,KE,Increase,proliferation,Regenerative cell,forestomach epithelial cells,,,Increase,Y
+"Increase, Hyperplasia (forestomach epithelial cells)",782,KE,Increase,Hyperplasia,forestomach epithelial cells,,,,Increase,Y
+"Increase, Cytotoxicity (tubular epithelial cells)",783,MIE,Increase,Cytotoxicity,tubular epithelial cells,,,,Increase,Y
+"Increase, Hyperplasia (tubular epithelial cells)",784,KE,Increase,Hyperplasia,tubular epithelial cells,,,,Increase,Y
+"Activation, Androgen receptor",785,MIE,Activation,Androgen receptor,,,,AR,Activation,Y
+"Increase, Cytotoxicity (hepatocytes)",786,MIE,Increase,Cytotoxicity,hepatocytes,,,,Increase,Y
+"Increase, Regenerative cell proliferation (hepatocytes)",787,KE,Increase,proliferation,Regenerative cell,hepatocytes,,,Increase,Y
+"Decrease, Incorporation of active iodide into iodotyrosines",788,KE,Decrease,Incorporation,active iodide,iodotyrosines,,,Decrease,Y
+"Inhibition, 5α-reductase activity",790,MIE,Inhibition,5α-reductase,,,,,Inhibition,Y
+"Increased, Leutinizing hormone (LH)",791,KE,Increase,Leutinizing hormone,,,,LH,Increase,Y
+"Decrease, Bioactivation of testosterone",792,KE,Decrease,Bioactivation of testosterone,,,,,Decrease,Y
+"Increase, Urinary bladder calculi",793,MIE,Increase,Urinary bladder calculi,,,,,Increase,Y
+"Increase, Cytotoxicity (urothelial cells)",794,KE,Increase,Cytotoxicity,urothelial cells,,,,Increase,Y
+"Increase, Regenerative cell proliferation (urothelial cells)",795,KE,Increase,proliferation,Regenerative cell,urothelial cells,,,Increase,Y
+"Increase, Hyperplasia (urothelial)",796,KE,Increase,Hyperplasia,urothelial,,,,Increase,Y
+"Increase, Adenomas/carcinomas (urothelial)",797,AO,Increase,Adenomas,carcinomas,urothelial,,,Increase,Y
+"Inhibition, Prolyl hydroxylases",798,MIE,Inhibition,Prolyl hydroxylases,,,,,Inhibition,Y
+"Increased, HIF-1 heterodimer",799,KE,Increase,HIF-1 heterodimer,,,,HIF-1,Increase,Y
+"Decreased, Aromatase (Cyp19a1) mRNA",800,KE,Decrease,Aromatase,Cyp19a1,mRNA,,Cyp19a1,Decrease,Y
+"modulation, Unknown",801,MIE,,modulation,,,,,Modulation,Y
+"Increased, HIF-1 alpha transcription",802,KE,Increase,HIF-1 alpha,,,,HIF-1,Increase,Y
+"Inhibition, HMG-CoA reductase",804,MIE,Inhibition,HMG-CoA reductase,,,,,Inhibition,Y
+"Decreased, mevalonate",805,KE,Decrease,mevalonate,,,,,Decrease,Y
+"Decreased, cholesterol",807,KE,Decrease,cholesterol,,,,,Decrease,Y
+"Decreased, Testosterone",808,KE,Decrease,Testosterone,,,,,Decrease,Y
+"malformed, Male reproductive tract",809,KE,malformation,Male reproductive tract,,,,,malformation,Y
+"Increased, Serum creatinine",813,KE,Increase,Serum creatinine,,,,,Increase,Y
+"Occurrence, Kidney toxicity",814,AO,Occurrence,Kidney,,,,,Occurrence,Y
+"Decreased, Glomerular filtration",819,KE,Decrease,Glomerular ,,,,,Decrease,Y
+"Decreased, Renal plasma flow",820,KE,Decrease,Renal plasma flow,,,,,Decrease,Y
+"Decreased, Sodium reabsorption",821,KE,Decrease,Sodium reabsorption,,,,,Decrease,Y
+"Occurrence, Cystic dilatation (renal tubule)",823,KE,Occurrence,Cystic dilatation,Renal tubule,,,,Occurrence,Y
+"Activation, Keratinocytes",826,KE,Activation,Keratinocytes,,,,,Activation,Y
+"sensitisation, skin",827,AO,Sensitisation,Skin,,,,,Sensitisation,Y
+"Inhibition, Phospholipase A",828,MIE,Inhibition,Phospholipase A,,,,,Inhibition,Y
+"Damage, Lipid bilayer",829,KE,Damage,Lipid bilayer,,,,,Damage,Y
+"Disturbance, Lysosomal function",831,KE,Disturbance,Lysosomal function,,,,,Disturbance,Y
+"Injury, Mitochondria",832,KE,Injury,Mitochondria,,,,,Injury,Y
+"Occurrence, Cytoplasmic vacuolization (hepatocyte)",833,KE,Occurrence,Cytoplasmic vacuolization,hepatocyte,,,, Vacuolization,Y
+"Occurrence, Ballooning degeneration (hepatocyte)",835,KE,Occurrence,Ballooning degeneration,hepatocyte,,,,Degeneration,Y
+"Occurrence, Cytoplasmic vacuolization (kupffer cell)",837,KE,Occurrence,Cytoplasmic vacuolization,kupffer cell,,,, Vacuolization,Y
+"Formation, Liver fibrosis",840,AO,Formation,Liver fibrosis,,,,,Formation,Y
+"Oxidation, Uroporphyrinogen",844,KE,Oxidation,Uroporphyrinogen,,,,,Oxidation,Y
+"Inhibition, UROD",845,KE,Inhibition,UROD,,,,UROD,Inhibition,Y
+"Accumulation, Highly carboxylated porphyrins",846,KE,Accumulation,Highly carboxylated porphyrins,,,,,Accumulation,Y
+"Decreased, Binding of NE to NE receptors on GnRH neurons",848,KE,Decrease,Binding of NE,NE receptors,GnRH neurons,,,Decrease,Y
+"Inhibition, Antgonism of NE receptor",849,MIE,Inhibition,Antgonism,NE receptor,,,,Inhibition,Y
+"Induction, CYP1A2/CYP1A5",850,KE,Induction,CYP1A2,CYP1A5,,,CYP1A2/CYP1A5,Induction,Y
+Decrease of GABAergic interneurons,851,KE,Decrease,GABAergic interneurons,,,,GABA,Decrease,Y
+"Changes/Inhibition, Cellular Homeostasis and Apoptosis",853,KE,Change,Inhibition,Cellular Homeostasis,Cellular Apoptosis,,,Inhibition,Y
+"Alterations, Cellular proliferation / hyperplasia",854,KE,Alteration,Cellular proliferation,Cellular hyperplasia,,,,Alteration,Y
+"Formation, Hepatocellular and Bile duct tumors",856,AO,Formation,Hepatocellular,Bile duct tumors,,,,Formation,Y
+"Decreased, PPARalpha transactivation of gene expression",858,KE,Decrease,PPARalpha transactivation,gene expression,,,PPAR ,Decrease,Y
+"Decreased, Mitochondrial Fatty Acid Beta Oxidation",860,KE,Decrease,Mitochondrial Fatty Acid Beta Oxidation,,,,,Decrease,Y
+"Decreased, Ketogenesis (production of ketone bodies)",861,KE,Decrease,Ketogenesis,production of ketone bodies,,,,Decrease,Y
+"Not Increased, Circulating Ketone Bodies",862,KE,Not Increase,Circulating Ketone Bodies,,,,,Increase,Y
+"Increased, Catabolism of Muscle Protein",863,KE,Increase,Catabolism,Muscle Protein,,,,Increase,Y
+"Decreased, Body Weight",864,AO,Decrease,Body Weight,,,,,Decrease,Y
+"Decrease, Intracellular pH",867,MIE,Decrease,Intracellular pH,,,,,Decrease,Y
+"Increase, Tissue Degeneration, Necrosis & Atrophy ",868,KE,Increase,Tissue Degeneration,Tissue Necrosis,Tissue Atrophy ,,,Increase,Y
+"Increase, Respiratory or Squamous Metaplasia",869,KE,Increase,Respiratory,Squamous Metaplasia,,,,Increase,Y
+"Increase, Cell Proliferation",870,KE,Increase,Cell Proliferation,,,,,Increase,Y
+"Increase, Site of Contact Nasal Tumors",872,AO,Increase,Contact Nasal Tumors,,,,,Increase,Y
+"Binding of agonist, Ionotropic glutamate receptors",875,MIE,Binding,agonist receptors,Ionotropic glutamate receptors,,,,Binding,Y
+"Increase, Mutations in Critical Genes",876,KE,Increase,Mutation,Critical Gene,,,,Increase,Y
+"Inhibition, organic anion transporter 1 (OAT1)",877,MIE,Inhibition,organic anion transporter 1,,,,OAT1,Inhibition,Y
+"Inhibition, SREBP1c",878,KE,Inhibition,SREBP1c,,,,SREBP1c,Inhibition,Y
+"Increase, Cancer",885,AO,Increase,Cancer,,,,,Increase,Y
+"Inhibition, NADH-ubiquinone oxidoreductase  (complex I)",887,MIE,Inhibition,NADH-ubiquinone oxidoreductase,complex I,,,,Inhibition,Y
+"Inhibition, NADH-ubiquinone oxidoreductase  (complex I)",887,KE,Inhibition,NADH-ubiquinone oxidoreductase,complex I,,,,Inhibition,Y
+"Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)",888,MIE,Binding,inhibitor,NADH-ubiquinone oxidoreductase,complex I,,,Binding,Y
+"Impaired, Proteostasis",889,KE,Impairment,Proteostasis,,,,,Impairment,Y
+Degeneration of dopaminergic neurons of the nigrostriatal pathway,890,KE,Degeneration,dopaminergic neurons,nigrostriatal pathway,,,,Degeneration,Y
+Parkinsonian motor deficits,896,AO,Parkinsonian motor deficits,Parkinsonian motor deficits,,,,,,Y
+"Disruption, Lysosome",898,KE,Disruption,Lysosome,,,,,Disruption,Y
+"Decrease, Apoptosis of ciliated epithelial cells",914,KE,Decrease,Apoptosis,ciliated epithelial cells,,,,Decrease,Y
+"Occurrence, Transdifferentiation of ciliated epithelial cells",919,KE,Occurrence,Transdifferentiation,ciliated epithelial cells,,,,Occurrence,Y
+"Occurrence, Metaplasia of goblet cells",920,KE,Occurrence,Metaplasia,goblet cells,,,,Occurrence,Y
+"Occurrence, Hyperplasia of goblet cells",921,KE,Occurrence,Hyperplasia,goblet cells,,,,Occurrence,Y
+"Increase, Proliferation of goblet cells",923,KE,Increase,Proliferation,goblet cells,,,,Increase,Y
+"Activation, Sp1",924,KE,Activation,Sp1,,,,Sp1,Activation,Y
+"Oxidation, Glutathione (To be considered with MIE)",926,KE,Oxidation,Glutathione,,,,,Oxidation,Y
+"KE1 : S-Glutathionylation, eNOS",927,KE,S-Glutathionylation,eNOS,,,,eNOS,S-Glutathionylation,Y
+"KE4 : Uncoupling, eNOS",932,KE,Uncoupling,eNOS,,,,,Uncoupling,Y
+"KE6 : Depletion, Nitric Oxide",933,KE,Depletion,Nitric Oxide,,,,,Depletion,Y
+"KE3 : Decrease, Tetrahydrobiopterin",934,KE,Decrease,Tetrahydrobiopterin,,,,,Decrease,Y
+"KE2 : Decrease, GTPCH-1",935,KE,Decrease,GTPCH-1,,,,GTPCH-1,Decrease,Y
+"KE7 : Impaired, Vasodilation",937,KE,Impairment,Vasodilation,,,,,Impairment,Y
+"Activation, EGFR",941,MIE,Activation,EGFR,,,,EGFR,Activation,Y
+"dimerization, AHR/ARNT",944,KE,Dimerization,AHR,ARNT,,,AHR/ARNT,Dimerization,Y
+"reduced dimerization, ARNT/HIF1-alpha",945,KE,reduction,dimerization,ARNT,HIF1-alpha,,HIF1,Reduction,Y
+"Increase, Early Life Stage Mortality",947,KE,Increase,Early Life Stage,Mortality,,,,Increase,Y
+"Increase, Early Life Stage Mortality",947,AO,Increase,Early Life Stage,Mortality,,,,Increase,Y
+"reduced production, VEGF",948,KE,reduction,VEGF,,,,VEGF,Reduction,Y
+Hypertension,952,AO,Hypertension,,,,,,Hypertension,Y
+"Binding, Transthyretin in serum",957,MIE,Binding,Transthyretin,serum,,,,Binding,Y
+"Displacement, Serum thyroxine (T4) from transthyretin",958,KE,Displacement,Serum thyroxine,transthyretin,,,T4,Displacement,Y
+"Increased, Free serum thyroxine (T4)",959,KE,Increase,Free serum thyroxine,T4,,,T4,Increase,Y
+"Increased, Uptake of thyroxine into tissue",960,KE,Increase,thyroxine,Uptake,,,,Increase,Y
+"Increased, Clearance of thyroxine from tissues",961,KE,Increase,thyroxine,Clearance,,,,Increase,Y
+"Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol",964,MIE,Inhibition,Aromatase Enzyme,Chemical exposure during critical window of estrous cycle between diestrus 2,proestrus inhibits aromatase conversion of testosterone to estradiol,,,Inhibition,Y
+"reduction in ovarian granulosa cells synthesis of estradiol, Reduced steroidogenic production of estradiol in granulosa cells",965,KE,reduction,ovarian granulosa cells synthesis of estradiol,steroidogenic production of estradiol in granulosa cells,,,,Reduction,Y
+"Reduced Estradiol in Circulation, Reduced steroidogenic production of estradiol in granulosa cells leading to decreased estradiol in circulation",966,KE,reduction,Estradiol in Circulation,steroidogenic production of estradiol in granulosa cells,decreased estradiol in circulation,,,Reduction,Y
+"Decreased positive estrogenic feedback on hypothalamus, Reduced estradiol in circulation decreases estrogen concentration at hypothalamus",967,KE,Decrease,positive estrogenic feedback on hypothalamus,Reduction,estradiol in circulation decreases estrogen concentration at hypothalamus,,,Decrease,Y
+"Decreased Kisspeptin release from neurons in AVPV, Decreased hypothalamic estrogen reduces kisspeptinergic neuron response ",968,KE,Decrease,Kisspeptin release from neurons in AVPV,hypothalamic estrogen reduces kisspeptinergic neuron response,,,,Decrease,Y
+"Decreased GnRH Release, Decreased Kisspeptin stimulation of GnRH neurons ",969,KE,Decrease,GnRH Release,Kisspeptin stimulation of GnRH neurons,,,,Decrease,Y
+"Decreased LH release from Anterior Pituitary, Decreased GnRH stimulation of Anterior Pituitary Gonadotrophs",970,KE,Decrease,LH release from Anterior Pituitary,GnRH stimulation of Anterior Pituitary Gonadotrophs,,,LH,Decrease,Y
+"Ovulation of oocytes Reduced, Delayed, or Blocked, Decrease or delay in LH surge required for ovulation ",971,KE,reduction,delay,blocking,Ovulation of oocytes,LH surge required for ovulation,,Decrease,Y
+"Decreased fertility, Reduced number of oocytes ovulated ",972,AO,Decreased fertility,Reduced number of oocytes ovulated ,,,,,Decrease,Y
+"Interference, nuclear localization of NFAT",979,KE,Interference,NFAT,nuclear localization,,,,Antagonism,Y
+"Inhibition, Calcineurin Activity",980,MIE,Inhibition,Calcineurin Activity,,,,,Inhibition,Y
+"Reduction, NFAT/AP-1 complex formation",981,KE,Reduction,NFAT,complex formation,AP-1,,NFAT/AP-1,Reduction,Y
+"Impairment, T-cell dependent antibody response",984,AO,Impairment,T-cell dependent antibody response,,,,,Impairment,Y
+"Increase, Increased susceptibility to infection",986,AO,Increase,susceptibility,infection,,,,Increase,Y
+"Decrease, Circulating ecdysis triggering hormone",988,KE,Decrease,Circulating ecdysis triggering hormone,,,,,Decrease,Y
+"Binding of antagonist, PPAR alpha",998,MIE,Binding,antagonist,PPAR alpha,,,PPAR ,Binding,Y
+"stabilization, PPAR alpha co-repressor",1000,KE,stabilization,PPAR alpha,co-repressor,,,PPAR ,stabilization,Y
+"Increased, Developmental Defects",1001,AO,Increase,Developmental Defects,,,,,Increase,Y
+"Inhibition, Deiodinase 2",1002,MIE,Inhibition,Deiodinase 2,,,,,Inhibition,Y
+"Decreased, Triiodothyronine (T3) in serum",1003,KE,Decrease,Triiodothyronine,,serum,,T3,Decrease,Y
+"Reduced, Posterior swim bladder inflation",1004,KE,reduction,Posterior swim bladder,inflation,,,,Reduction,Y
+"Reduced, Swimming performance",1005,KE,reduction,Swimming performance,,,,,Reduction,Y
+"Reduced, Young of year survival",1006,KE,reduction,Young of year,survival,,,,Reduction,Y
+"Reduced, Anterior swim bladder inflation",1007,KE,reduction,Anterior swim bladder,inflation,,,,Reduction,Y
+"Inhibition, Deiodinase 1",1009,MIE,Inhibition,Deiodinase 1,,,,,Inhibition,Y
+"Increased, Inhibitory postsynaptic potential",1012,KE,Increase,postsynaptic potential,Inhibitory,,,,Increase,Y
+"Induction, Somatic muscle paralysis",1014,KE,Induction,Somatic muscle paralysis,,,,,Induction,Y
+"Increased, Neuronal synaptic inhibition",1015,KE,Increase,Neuronal synaptic,inhibition,,,,Increase,Y
+"Inhibition, Feeding",1016,KE,Inhibition,Feeding,,,,,Inhibition,Y
+"Activation, Glutamate-gated chloride channels",1018,MIE,Activation,Glutamate-gated chloride channels,,,,,Activation,Y
+"Induction, pharyngeal muscle paralysis",1019,KE,Induction,pharyngeal muscle paralysis,,,,,Induction,Y
+"Increased, induction of UDPGT's in liver",1020,KE,Increase,UDPGT's in liver,induction,,,,Increase,Y
+"Increased, T4/T3 catabolism",1021,KE,Increase,T4 catabolism,T3 catabolism,,,T4/T3,Increase,Y
+"Decreased, serum T4/T3",1022,KE,Decrease,serum T4,serum T3,,,T4/T3,Decrease,Y
+"Increased, Thyroid-stimulating hormone (TSH)",1023,KE,Increase,Thyroid-stimulating hormone,TSH,,,TSH,Increase,Y
+"Increased, Hypertrophy and proliferation (follicular cell)",1024,KE,Increase,Hypertrophy,,follicular cell,,,Increase,Y
+"Increased, Hyperplasia (follicular cells)",1025,KE,Increase,Hyperplasia,follicular cells,,,,Increase,Y
+"Increased Apoptosis, Adenomas/carcinomas (follicular cell)",1026,AO,Increase,Apoptosis,Adenomas,carcinomas,follicular cell,,Increase,Y
+"Activation of specific nuclear receptors, PPAR-gamma activation",1028,MIE,Activation,specific nuclear receptors,PPAR-gamma,,,PPAR ,Activation,Y
+"Activation of specific nuclear receptors, PPAR-gamma activation",1028,KE,Activation,specific nuclear receptors,PPAR-gamma,,,PPAR ,Activation,Y
+"Increased, adipogenesis",1029,KE,Increase,adipogenesis,,,,,Increase,Y
+"Increased, secretion of local growth factors",1032,KE,Increase,secretion,local growth factors,,,,Increase,Y
+"Increased, proliferation of mesenchymal cells",1033,KE,Increase,proliferation,mesenchymal cells,,,,Increase,Y
+"Increased, IGF-1 (mouse)",1034,KE,Increase,IGF-1,mouse,,,IGF-1,Increase,Y
+"Increased, Firbrosarcoma",1035,KE,Increase,Firbrosarcoma,,,,,Increase,Y
+"Increased, liposarcoma",1036,KE,Increase,liposarcoma,,,,,Increase,Y
+"Activation, beta-2 adrenergic receptor",1038,MIE,Activation,beta-2 adrenergic receptor,,,,,Activation,Y
+"Increased activity, beta-2 adrenergic receptor",1039,KE,Increase,beta-2 adrenergic receptor,,,,,Increase,Y
+"relaxation, smooth muscle",1040,KE,relaxation,smooth muscle,,,,,relaxation,Y
+"Proliferation/Clonal Expansion, smooth muscle",1042,KE,Proliferation,Clonal Expansion,smooth muscle,,,,Proliferation,Y
+"Hypertrophy/hyperplasia, smooth muscle",1043,KE,Hypertrophy,hyperplasia,smooth muscle,,,,Hypertrophy,Y
+"Promotion, mesovarian leiomyomas",1044,AO,Promotion,mesovarian leiomyomas,,,,,Promotion,Y
+"Decreased, Ovarian E2",1045,KE,Decrease,Ovarian E2,,,,,Decrease,Y
+"Suppression, Estrogen receptor (ER) activity",1046,KE,Suppression,Estrogen receptor activity,ER activity,,,ER,Suppression,Y
+"Increased, secretion of GnRH from hypothalamus",1047,KE,Increase,secretion of GnRH,hypothalamus,,,GnRH,Increase,Y
+"Increased, secrection of FSH from anterior pituitary",1049,KE,Increase,secrection of FSH,anterior pituitary,,,FSH,Increase,Y
+"Increased, secretion of LH from anterior pituitary",1050,KE,Increase,secretion of LH,anterior pituitary,,,LH,Increase,Y
+"Hyperplasia, ovarian stromal cells",1051,KE,Hyperplasia,ovarian stromal cells,,,,,Hyperplasia,Y
+"Promotion, ovarian adenomas",1053,AO,Promotion,ovarian adenomas,,,,,Promotion,Y
+"Promotion, ovarian granular cell tumors",1054,AO,Promotion,ovarian granular cell tumors,,,,,Promotion,Y
+"Increased, PPAR-alpha activation",1057,KE,Increase,PPAR-alpha activation,,,,PPAR ,Increase,Y
+"Decreased, bile flow",1058,KE,Decrease,bile flow,,,,,Decrease,Y
+"Increased, cholestasis",1059,KE,Increase,cholestasis,,,,,Increase,Y
+"Alteration, lipid metabolism",1060,KE,Alteration,lipid metabolism,,,,,Alteration,Y
+"prolonged, elevation of serun CCK",1061,KE,prolongation,elevation,serun CCK,,,,prolongation,Y
+"Increased, Cellular proliferation / hyperplasia of acinar cells",1062,KE,Increase,Cellular proliferation,hyperplasia,acinar cells,,,Increase,Y
+"Increased, Pancreatic acinar tumors",1063,AO,Increase,Pancreatic acinar tumors,,,,,Increase,Y
+"prepubertal increase, Estrogen receptor (ER) activity",1064,MIE,Increase,Estrogen receptor activity,ER activity,,,ER,Increase,Y
+"Activation, estrogen receptor alpha",1065,KE,Activation,estrogen receptor alpha,,,,ER,Activation,Y
+"Promotion, SIX-1 postive basal-type progenitor cells",1066,KE,prolongation,SIX-1 postive basal-type progenitor cells,,,,,prolongation,Y
+"Proliferation/Clonal Expansion, aberrant basal cells",1067,KE,prolongation,Clonal Expansion,aberrant basal cells,,,,prolongation,Y
+"squamous metaplasia, aberrant basal cells",1068,KE,prolongation,aberrant basal cells,,,,,prolongation,Y
+"Increased, Hyperplasia (glandular epithelial cells of endometrium)",1069,KE,Increase,Hyperplasia,glandular epithelial cells of endometrium,,,,Increase,Y
+"Increased, adenosquamous carcinomas of endometrium",1070,AO,Increase,adenosquamous carcinomas of endometrium,,,,,Increase,Y
+"Decreased, GnRH pulsatility/release in hypothalamus",1071,KE,Decrease,GnRH pulsatility,GnRH release,hypothalamus,,GnRH,Decrease,Y
+"Decreased, LH Surge from anterior pituitary",1072,KE,Decrease,LH Surge,anterior pituitary,,,LH,Decrease,Y
+"interruption, Ovulation",1074,KE,interruption,Ovulation,,,,,interruption,Y
+"prolonged, estrus",1075,KE,prolongation,estrus,,,,,prolongation,Y
+"Increased, circulating estrogen levels",1076,KE,Increase,estrogen levels,,,,,Increase,Y
+"Increased, prolactin exposure",1077,KE,Increase,prolactin exposure,,,,,Increase,Y
+"Increased, Adenomas/carcinomas (mammary)",1079,AO,Increase,Adenomas,carcinomas,mammary,,,Increase,Y
+"Increased, latency period",1080,KE,Increase,latency period,,,,,Increase,Y
+"Increased, lactotroph hyperplasia and hypertrophy",1081,KE,Increase,lactotroph hyperplasia,lactotroph hypertrophy,,,,Increase,Y
+"Increased, adenomas (pituitary)",1082,AO,Increase,adenomas,pituitary,,,,Increase,Y
+"Decreased, Dopaminergic activity",1083,KE,Decrease,Dopaminergic activity,,,,,Decrease,Y
+"Increased, prolactin secretion",1084,KE,Increase,prolactin secretion,,,,,Increase,Y
+"Increased, hyperplasia (mammary gland)",1085,KE,Increase,hyperplasia,mammary gland,,,,Increase,Y
+"persistent, cytotoxicity (pleura or peritoneum)",1086,KE,Persistence,cytotoxicity,pleura,peritoneum,,,Persistence,Y
+"Increased, inflammation",1087,KE,Increase,inflammation,,,,,Increase,Y
+"Increased, Oxidative Stress",1088,KE,Increase,Oxidative Stress,,,,,Increase,Y
+"Increased, Cell Proliferation (mesothelium)",1089,KE,Increase,Cell Proliferation,mesothelium,,,,Increase,Y
+"Increased, mesotheliomas",1090,AO,Increase,mesotheliomas,,,,,Increase,Y
+"Decreased, Thyroxine (T4) in tissues",1093,KE,Decrease,Thyroxine,T4,tissues,,T4,Decrease,Y
+"Increased, blood uric acid concentration",1096,KE,Increase,blood uric acid concentration,,,,,Increase,Y
+"Occurrence, renal proximal tubular necrosis",1097,KE,Occurrence,renal proximal tubular,necrosis,,,,Occurrence,Y
+"Increased, blood potassium concentration",1098,KE,Increase,blood potassium concentration,,,,,Increase,Y
+"Altered, Amphibian metamorphosis",1101,AO,Alteration,Amphibian metamorphosis,,,,,Alteration,Y
+"Occurrence, tophi (urate) deposition",1102,KE,Occurrence,tophi,urate,deposition,,,Occurrence,Y
+"Inhibition, Cyclooxygenase 1 activity",1103,MIE,Inhibition,Cyclooxygenase 1 activity,,,,,Inhibition,Y
+"Decreased, Prostaglandin F2alpha concentration, plasma ",1104,KE,Decrease,Prostaglandin F2alpha concentration,plasma ,,,,Decrease,Y
+"Occurrence, renal ischemia",1105,KE,Occurrence,renal ischemia,,,,,Occurrence,Y
+"Occurrence, cardiac arrhythmia",1106,KE,Occurrence,cardiac arrhythmia,,,,,Occurrence,Y
+"Weakened, Colony",1107,KE,weakening,Colony,,,,,weakening,Y
+"Abnormal, Role change within caste",1108,KE,abnormality,Role change within caste,,,,,abnormality,Y
+"Increased, Deformed Wing Virus levels",1109,KE,Increase,Deformed Wing Virus levels,,,,,Increase,Y
+"Increased, Energetic demands and therefore metabolic stress",1110,KE,Increase,Energetic demands,metabolic stress,,,,Increase,Y
+"Increased, Reactive oxygen species",1115,KE,Increase,Reactive oxygen species,ROS,,,ROS,Increase,Y
+"Decreased, Triiodothyronine (T3) in tissues",1116,KE,Decrease,Triiodothyronine,,tissues,,T3,Decrease,Y
+"Under carboxylated clotting factors will not assemble on cell surfaces to form clot, Failure of secondary hemostasis  ",1122,KE,Failure,secondary hemostasis  ,Under carboxylated clotting factors,,,,,Y
+"Failure in vascular repair mechanisms, Unresolved blood loss (hemorrhage)",1130,KE,Failure,vascular repair mechanisms,Unresolved blood loss,hemorrhage,,,,Y
+"Failure in gamma-glutamyl carboxylation of  clotting factors II, VII, IX and X, Under carboxylation of clotting factors (e.g., des-gamma-carboxy prothrombin) ",1131,KE,Failure,"gamma-glutamyl carboxylation of  clotting factors II, VII, IX and X",Under carboxylation of clotting factors,des-gamma-carboxy prothrombin,,,,Y
+"Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal",1132,KE,Impairment,oxygen delivery and nutrient delivery to tissue,carbon dioxide and waste product removal,Blood loss,development of anemia,,Impairment,Y
+"Hemostasis, Depletion from blood of fully functional carboxylated clotting factors",1133,KE,Depletion,Hemostasis,blood of fully functional carboxylated clotting factors,,,,Depletion,Y
+"Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone",1134,MIE,inhibition,hepatic VKOR by binding of AR at tyrosine 139,Failure,cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone,,,Inhibition,Y
+"Reduced fitness or even mortality, Acidosis, hypovolemic shock and organ dysfunction",1135,KE,Reduction,Mortality,Acidosis,hypovolemic shock,organ dysfunction,,Reduction,Y
+"Impaired recruitment , Population trajectory",1136,AO,Impairment,recruitment,Population trajectory,,,,Impairment,Y
+"Uncoupling of oxidative phosphorylation, Reduced ability to generate ATP",1138,MIE,Reduction,"Uncoupling of oxidative phosphorylation,",ATP,,,,Reduction,Y
+"Increased, water retention in foot",1139,KE,Increase,water retention in foot,,,,,Increase,Y
+"Decreased, Reproductive Success",1141,KE,Decrease,Reproductive Success,,,,,Decrease,Y
+"Decreased, Reproductive Success",1141,AO,Decrease,Reproductive Success,,,,,Decrease,Y
+"Increased, valve movement",1142,KE,Increase,valve movement,,,,,Increase,Y
+"Depletion, energy reserves",1143,KE,Depletion,energy reserves,,,,,Depletion,Y
+"Inhibition, Iodotyrosine deiodinase (IYD)",1152,MIE,Inhibition,Iodotyrosine deiodinase,IYD,,,IYD,Inhibition,Y
+"Inhibition, Deiodinase 3",1153,MIE,Inhibition,Deiodinase 3,,,,,Inhibition,Y
+"Increased, Triiodothyronine (T3) in tissues",1154,KE,Increase,Triiodothyronine,,tissues,,T3,Increase,Y
+"Inhibition, Pendrin",1155,MIE,Inhibition,Pendrin,,,,,Inhibition,Y
+"Inhibition, Dual oxidase",1156,MIE,Inhibition,Dual oxidase,,,,,Inhibition,Y
+"Activation, Hepatic nuclear receptor(s)",1157,MIE,Activation,Hepatic nuclear receptor(s),,,,,Activation,Y
+"Increased, Hepatic thyroid hormone uptake/transport",1158,KE,Increase,Hepatic thyroid hormone uptake,Hepatic thyroid hormone transport,,,,Increase,Y
+"Increased, oocyte maturation",1161,KE,Increase,oocyte maturation,,,,,Increase,Y
+"Increased, Reproductive Success",1163,KE,Increase,Reproductive Success,,,,,Increase,Y
+"Increased, Reproductive Success",1163,AO,Increase,Reproductive Success,,,,,Increase,Y
+"Increased, Population",1164,AO,Increase,Population,,,,,Increase,Y
+"Anticoagulant rodenticide interferes with carboxylation of Gla proteins in bone, Impairment of post-translational modification (carboxylation) of osteocalcin",1169,MIE,interference,Anticoagulant rodenticide,carboxylation of Gla proteins in bone,Impairment,post-translational modification (carboxylation) of osteocalcin,,interference,Y
+"modulation, Genes/proteins that regulate hepatocyte fate",1170,KE,modulation,hepatocyte fate,Genes,proteins,,,modulation,Y
+"Increase, Clonal Expansion / Cell Proliferatin to form Pre-Neoplastic Altered Hepatic Foci",1171,KE,Increase,Clonal Expansion,Cell Proliferatin,Pre-Neoplastic Altered Hepatic Foci,,,Increase,Y
+"Activation, NADPH Oxidase",1174,MIE,Activation,NADPH Oxidase,,,,,Activation,Y
+"Decreased, sodium conductance 2",1176,KE,Decrease,sodium conductance 2,,,,GABA,Decrease,Y
+"Decreased, GABA release",1179,KE,Decrease,GABA release,GABA,,,,Decrease,Y
+"Activation, Estrogen receptor",1181,MIE,Activation,Estrogen receptor,,,,ER,Activation,Y
+"Increase, Cell Proliferation (Epithelial Cells)",1182,KE,Increase,Cell Proliferation,Epithelial Cells,,,,Increase,Y
+"Decreased, Apoptosis (Epithelial Cells)",1183,KE,Decrease,Apoptosis,Epithelial Cells,,,,Decrease,Y
+"Increased, ER binding to DNA (classical pathway) ",1187,KE,Increase,ER binding to DNA,classical pathway,,,DNA,Increase,Y
+"Increased, ER binding to T.F. to DNA (non-classical pathway)",1188,KE,Increase,ER binding to T.F. to DNA,non-classical pathway,,,DNA,Increase,Y
+"Increased, Ductal Hyperplasia ",1192,AO,Increase,Ductal Hyperplasia ,,,,,Increase,Y
+"N/A, Breast Cancer",1193,AO,,Breast Cancer,,,,,,Y
+"Increase, DNA damage",1194,MIE,Increase,DNA damage,,,,DNA,Increase,Y
+"Increase, DNA damage",1194,KE,Increase,DNA damage,,,,ER/DNA,Increase,Y
+"Increase, DNA damage",1194,AO,Increase,DNA damage,,,,ER/DNA,Increase,Y
+"Suppression, IL-2 and IL-4 production",1202,KE,Suppression,IL-2 production,IL-4 production,,,DNA,Suppression,Y
+"Activation, Juvenile hormone receptor",1205,MIE,Activation,Juvenile hormone receptor,,,,,Activation,Y
+"Induction, Doublesex1 gene",1206,KE,Induction,Doublesex1 gene,,,,,Induction,Y
+"Increased, Male offspring",1208,AO,Increase,Male offspring,,,,,Increase,Y
+"Induction, Male reproductive tract",1209,KE,Induction,Male reproductive tract,,,,,Induction,Y
+"Alteration, Food-web structures",1210,AO,Alteration,Food-web structures,,,,,Alteration,Y
+"Altered gene expression specific to CAR activation, Hepatocytes",1214,KE,Alteration,gene expression specific,CAR activation,Hepatocytes,,,Activation,Y
+"TRPA1 activation, TRPA1 Receptor",1215,MIE,activation,TRPA1,TRPA1 Receptor,,,TRPA1,Activation,Y
+"Opening of calcium channel, Calcium influx",1218,KE,Opening,calcium channel,Calcium influx,,,,,Y
+Trigeminal nerve activation,1220,KE,activation,Trigeminal nerve,,,,,Activation,Y
+"SP (Substance P) release, Local increase of SP",1222,KE,release,Substance P,SP,Local increase,,,Increase,Y
+"Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea",1223,AO,,Cough,Dyspnea,nerve excitation,Airway Hyper-responsiveness,,,Y
+"Increased Respiratory irritability and Chronic Cough, ",1226,AO,Increase,Respiratory irritability,Chronic Cough,,,,Increase,Y
+"Altered, Gene Expression",1239,KE,alteration,Gene Expression,,,,,alteration,Y
+"Altered, Ca2+-calmodulin activated signal transduction",1243,KE,alteration,Ca2+-calmodulin activated signal transduction,,,,Ca2+-,alteration,Y
+"Decrease, Lung function",1250,AO,Decrease,Lung function,,,,,Decrease,Y
+Binding to (interferes with) topoisomerase II enzyme,1252,MIE,Binding,interference,topoisomerase II enzyme,,,,Binding,Y
+ MLL chromosomal translocation,1253,KE,translocation,MLL chromosomal,,,,,translocation,Y
+Infant leukaemia,1254,AO,,leukaemia,Infant,,,,,Y
+induced spawning,1255,KE,Induction,spawning,,,,,Induction,Y
+increased mantel display,1256,KE,Increase,mantel display,,,,,Increase,Y
+Induced parturition,1257,KE,Induction,parturition,,,,,Induction,Y
+Decompartmentalization,1258,MIE,Decompartmentalization,Decompartmentalization,,,,,,Y
+narcosis,1259,MIE,,narcosis,,,,,,Y
+Direct mitochondrial inhibition,1260,MIE,inhibition,mitochondrial,,,,,inhibition,Y
+Mitochondrial impairment,1261,MIE,Impairment,Mitochondrial,,,,,Impairment,Y
+Mitochondrial impairment,1261,KE,Impairment,Mitochondrial,,,,,Impairment,Y
+Apoptosis,1262,KE,,Apoptosis,,,,,Apoptosis,Y
+Apoptosis,1262,AO,,Apoptosis,,,,,Apoptosis,Y
+Necrosis,1263,AO,,Necrosis,,,,,Necrosis,Y
+"Increase, Nuclear receptor E75b gene expression",1264,KE,Increase,Nuclear receptor E75b gene expression,,,,E75b,Increase,Y
+"Increase, Fushi tarazu factor-1 gene expression",1265,KE,Increase,Fushi tarazu factor-1 gene expression,,,,,Increase,Y
+"Decrease, Circulating crustacean cardioactive peptide",1266,KE,Decrease,Circulating crustacean cardioactive peptide,,,,,Decrease,Y
+"Decrease, Ecdysis motoneuron bursts",1267,KE,Decrease,Ecdysis motoneuron bursts,,,,,Decrease,Y
+"Decrease, Excitatory postsynaptic potential",1268,KE,Decrease,Excitatory postsynaptic potential,,,,,Decrease,Y
+"Increase, COX-2 expression",1269,KE,Increase,COX-2 expression,,,,COX-2,Increase,Y
+Inactivation of PPARγ,1270,MIE,Inactivation,PPARγ,,,,PPAR ,Activation,Y
+Activation of TGF-β signaling,1271,KE,Activation,TGF-β signaling,,,,TGF-β,Activation,Y
+Collagen Deposition,1275,KE,Deposition,Collagen,,,,,Deposition,Y
+Lung fibrosis,1276,AO,,fibrosis,Lung,,,,Fibrosis,Y
+Reproductive failure,1277,AO,,reproductivity,failure,,,,,Y
+ROS formation,1278,KE,formation,ROS,,,,ROS,Formation,Y
+"Increase, Oxidative Stress / Activation, PMK-1 P38 MAPK",1279,KE,Increase,Oxidative Stress,Oxidative Activation,PMK-1 P38 MAPK,,,Increase,Y
+"Activation, HIF-1",1280,KE,Activation,HIF-1,,,,HIF-1,Activation,Y
+"Increased, DNA Damage-Repair",1281,KE,Increase,DNA Damage-Repair,,,,DNA,Increase,Y
+"Activation, JAK/STAT pathway",1282,KE,Activation,JAK pathway,STAT pathway,,, JAK/STAT,Activation,Y
+"Activation, TGF-beta pathway",1283,KE,Activation,TGF-beta pathway,,,,TGF,Activation,Y
+"Up Regulation, SREBF2",1284,KE,Up Regulation,SREBF2,,,,SREBF2,Up Regulation,Y
+"Up Regulation, Unsaturated fatty acid",1285,KE,Up Regulation,Unsaturated fatty acid,,,,,Up Regulation,Y
+"Down Regulation, GSS and GSTs gene",1286,KE,Down Regulation,GSS and GSTs gene,,,,GSS/GSTs,Down Regulation,Y
+Glutathione synthesis,1287,KE,synthesis,Glutathione,,,,,synthesis,Y
+"Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene",1288,KE,Activation,3-hydroxy-3-methylglutaryl-CoA reductase gene,,,,,Activation,Y
+Perturbation of cholesterol,1289,KE,Perturbation,cholesterol,,,,,Perturbation,Y
+Hepatotoxicity,1291,AO,,Hepatotoxicity,,,,,Toxicity,Y
+"Activation, JNK",1292,KE,Activation,JNK,,,,JNK,Activation,Y
+"Activation, FOXO",1293,KE,Activation,FOXO,,,,FOXO,Activation,Y
+"Inhibition, Wnt pathway",1294,KE,Inhibition,Wnt pathway,,,,,Inhibition,Y
+Defect of Embryogenesis,1295,KE,Defection,Embryogenesis,,,,,,Y
+"Increase, cytosolic fatty acid",1305,KE,Increase,cytosolic fatty acid,,,,,Increase,Y
+"Inhibit, serotonin transporter activity",1316,KE,Inhibition,serotonin transporter activity,,,,,Inhibition,Y
+"Decreased, serotonin transporter activity",1317,MIE,Decrease,serotonin transporter activity,,,,,Decrease,Y
+"Decreased, serotonin transporter activity",1317,KE,Decrease,serotonin transporter activity,,,,,Decrease,Y
+"Decreased, extracellular sodium (Na+) ",1318,KE,Decrease,extracellular sodium,Na+,,,Na+,Decrease,Y
+"Decreased, extracellular chloride (Cl-)",1319,KE,Decrease,extracellular chloride,Cl-,,,Cl-,Decrease,Y
+"Increased, extracellular serotonin",1320,KE,Increase,extracellular serotonin,,,,,Increase,Y
+"Increased, intracellular sodium (Na+)",1321,KE,Increase,intracellular sodium,Na+,,,Na+,Increase,Y
+"Decreased, intracellular serotonin",1323,KE,Decrease,intracellular serotonin,,,,,Decrease,Y
+"Decreased, packaged serotonin",1324,KE,Decrease,packaged serotonin,,,,,Decrease,Y
+"Decreased, synaptic release",1325,KE,Decrease,synaptic release,,,,,Decrease,Y
+"Inactivated, 5-HTR (serotonin receptors)",1328,KE,Inactivation,5-HTR,serotonin receptors,,,5-HTR,Inactivation,Y
+"Reduce expression, BDNF (Brain-derived neurotrophic factor)",1329,KE,Reduction,expression,BDNF,Brain-derived neurotrophic factor,,,Reduction,Y
+"Decreased, neuroplasticity",1330,KE,Decrease,neuroplasticity,,,,,Decrease,Y
+"Reduced, BDNF (Brain-derived neurotrophic factor)",1335,KE,Reduction,BDNF,Brain-derived neurotrophic factor,,,,Reduction,Y
+"Activation, 5-HT2A (Serotonin 2A)",1336,KE,Activation,5-HT2A,Serotonin 2A,,,,Activation,Y
+"Increase, hypertension",1343,AO,Increase,hypertension,,,,,Increase,Y
+"Increased, seizure",1344,KE,Increase,seizure,,,,,Increase,Y
+"Increased, seizure",1344,AO,Increase,seizure,,,,,Increase,Y
+"Increased, agitation",1345,AO,Increase,agitation,,,,,Increase,Y
+"Increased, depression",1346,AO,Increase,depression,,,,,Increase,Y
+"Decreased, extracellular serotonin",1347,KE,Decrease,extracellular serotonin,,,,,Decrease,Y
+"Increase, seizure",1348,AO,Increase,seizure,,,,,Increase,Y
+"Activated, presynaptic neuron 1",1349,MIE,Activation,presynaptic neuron 1,,,,,Activation,Y
+"Activated, presynaptic neuron 1",1349,KE,Activation,presynaptic neuron 1,,,,,Activation,Y
+"Increased, glutamate",1350,KE,Increase,glutamate,,,,,Increase,Y
+"Activated, NMDA receptor",1351,KE,Activation,NMDA receptor,,,,NMDA,Activation,Y
+"Activated, voltage-gated sodium channel",1352,KE,Activation,voltage-gated sodium channel,,,,,Activation,Y
+"Inhibit, voltage-gated sodium channel",1353,KE,Inhibition,voltage-gated sodium channel,,,,,Inhibition,Y
+"Treat, carbamazepine",1354,KE,Treatment,carbamazepine,,,,,Treatment,Y
+"Activated, membrane depolarization",1355,KE,Activation,membrane depolarization,,,,,Activation,Y
+"Increased, hippocampal hyperdepolarization",1362,KE,Increase,hippocampal hyperdepolarization,,,,,Increase,Y
+"Increased, hippocampal hyperdepolarization",1362,AO,Increase,hippocampal hyperdepolarization,,,,,Increase,Y
+"Increased, epilepsy",1363,AO,Increase,epilepsy,,,,,Increase,Y
+"Increase, Reactive oxygen species",1364,KE,Increase,Reactive oxygen species,,,,,Increase,Y
+"Increase, Apoptosis",1365,KE,Increase,Apoptosis,,,,,Increase,Y
+"Decrease, Oogenesis",1366,KE,Decrease,Oogenesis,,,,,Decrease,Y
+"Inhibit, gastric ulcer formation",1367,AO,Inhibition,gastric ulcer formation,,,,,Inhibition,Y
+"Inhibition, PTGS-1 (Prostaglandin-endoperoxide synthase 1)",1368,KE,Inhibition,PTGS-1,Prostaglandin-endoperoxide synthase 1,,,PTGS,Inhibition,Y
+"Activation, PTGS-1 (Prostaglandin-endoperoxide synthase 1)",1369,KE,Activation,PTGS-1,Prostaglandin-endoperoxide synthase 1,,,PTGS,Activation,Y
+"Activation, PTGS-2 (Prostaglandin-endoperoxide synthase 2)",1370,KE,Activation,PTGS-2,Prostaglandin-endoperoxide synthase 2,,,PTGS,Activation,Y
+"Inhibition, PTGS-2 (Prostaglandin-endoperoxide synthase 2)",1371,KE,Inhibition,PTGS-2,Prostaglandin-endoperoxide synthase 2,,,PTGS,Inhibition,Y
+"Increase, bicarbonate ",1372,KE,Increase,bicarbonate ,,,,,Increase,Y
+"Increase, mucous",1373,KE,Increase,mucous,,,,,Increase,Y
+"Decrease, surfactant",1382,KE,Decrease,surfactant,,,,,Decrease,Y
+"Activate, phospholipase",1383,KE,Activation,phospholipase,,,,,Activation,Y
+"Increase, ammonium (NH4+)",1384,KE,Increase,ammonium,NH4+,,,NH4+,Increase,Y
+"Activated, gastric ulcer formation",1385,AO,Activation,gastric ulcer formation,,,,,Activation,Y
+"CYP7B activity, inhibition",1386,MIE,Inhibition,CYP7B activity,,,,,Inhibition,Y
+"7α-hydroxypregnenolone synthesis in the brain, decreased",1387,KE,Decrease,7α-hydroxypregnenolone synthesis,brain,,,,Decrease,Y
+"Dopamine release in the brain, decreased",1388,KE,Decrease,Dopamine release,brain,,,,Decrease,Y
+"Locomotor activity, decreased",1389,KE,Decrease,Locomotor activity,,,,,Decrease,Y
+"Sexual behavior, decreased",1390,KE,Decrease,Sexual behavior,,,,,Decrease,Y
+Activation of Cyp2E1,1391,MIE,Activation,Cyp2E1,,,,Cyp2E1,Activation,Y
+Oxidative Stress ,1392,KE,,Oxidative Stress ,,,,,,Y
+Hepatocytotoxicity,1393,KE,,Hepatocytotoxicity,,,,,Toxicity,Y
+"Induction, persistant proliferation/sustained proliferation",1394,KE,Induction,persistant proliferation,sustained proliferation,,,,Induction,Y
+Liver Cancer,1395,AO,,Liver Cancer,,,,,Cancer,Y
+"Increased, glucocorticoid receptor activity",1396,MIE,Increase,glucocorticoid receptor activity,,,,GR,Increase,Y
+"Increased, serotonin transporter activity",1397,MIE,Increase,serotonin transporter activity,,,,,Increase,Y
+"Increased, serotonin transporter activity",1397,KE,Increase,serotonin transporter activity,,,,,Increase,Y
+"Increased, intracellular serotonin",1398,KE,Increase,intracellular serotonin,,,,,Increase,Y
+"Increased, packaged serotonin",1399,KE,Increase,packaged serotonin,,,,,Increase,Y
+"Increased, synaptic release",1400,KE,Increase,synaptic release,,,,,Increase,Y
+"Decreased, 5-HT3",1401,KE,Decrease,5-HT3,,,,5-HT3,Decrease,Y
+"Reduced, PTGS1 function",1402,MIE,Reduction,PTGS1 function,,,,PTGS,Reduction,Y
+"Reduced, platelet aggregation",1403,KE,Reduction,platelet aggregation,,,,,Reduction,Y
+"Decreased, mucosal blood flow",1404,KE,Decrease,mucosal blood flow,,,,,Decrease,Y
+"Reduced, mucosal defense",1405,KE,Reduction,mucosal defense,,,,,Reduction,Y
+"Decreased, mucous",1406,KE,Decrease,mucous,,,,,Decrease,Y
+"Decreased, bicarbonate",1407,KE,Decrease,bicarbonate,,,,,Decrease,Y
+"Reduced, PTGS2 function",1408,MIE,Reduction,PTGS2 function,,,,PTGS,Reduction,Y
+"Decreased, angiogenesis",1409,KE,Decrease,angiogenesis,,,,,Decrease,Y
+"Increased, leukocyte adherence",1410,KE,Increase,leukocyte adherence,,,,,Increase,Y
+"Increased, leukocyte activation",1411,KE,Increase,leukocyte activation,,,,,Increase,Y
+Helicobacter pylori infection,1412,MIE,Infection,Helicobacter pylori,,,,,,Y
+"Reduced, presynaptic neuron 2 activity",1413,MIE,Reduction,presynaptic neuron 2 activity,,,,,Reduction,Y
+"Decreased, GABA",1414,KE,Decrease,GABA,,,,GABA,Decrease,Y
+"Reduced, GABA-A receptor activation",1415,KE,Reduction,GABA-A receptor,activation,,,GABA,Reduction,Y
+"Decreased, intracellular chloride",1416,KE,Decrease,intracellular chloride,,,,,Decrease,Y
+NFE2/Nrf2 repression,1417,MIE,repression,NFE2,Nrf2,,,NFE2/Nrf2,Repression,Y
+"Increased, steatosis",1418,AO,Increase,steatosis,,,,,Increase,Y
+"Reduced, FXR activity",1419,KE,Reduction,FXR activity,,,,FXR,Reduction,Y
+"Reduced, SHP activity",1420,KE,Reduction,SHP activity,,,,SHP,Reduction,Y
+"Activated, LXR",1421,KE,Activation,LXR,,,,LXR,Activation,Y
+"Reduced, PPARalpha",1422,KE,Reduction,PPARalpha,,,,PPAR ,Reduction,Y
+"Reduced, HSD17B4 activity",1423,KE,Reduction,HSD17B4 activity,,,,HSD17B4,Reduction,Y
+"Reduced, fatty acid beta oxidation",1424,KE,Reduction,fatty acid beta oxidation,,,,,Reduction,Y
+Mu Opioid Receptor Agonism,1425,MIE,Agonism,Mu Opioid Receptor,,,,,Agonism,Y
+Release of G Proteins,1426,KE,Release,G Proteins,,,,,Release,Y
+Opening of G protein gated inward rectifying K channels,1427,KE,Opening,G protein gated inward rectifying K channels,,,,,Opening,Y
+Opening of G protein gated inward rectifying K channels,1427,KE,Opening,G protein gated inward rectifying K channels,,,,,Opening,Y
+Analgesia,1428,AO,,Analgesia,,,,,,Y
+Inhibition of N-type Ca ion channels,1429,KE,Inhibition,N-type Ca ion channels,,,,Ca 2+,Inhibition,Y
+Inhibition of neurotransmitter vesicle release,1430,KE,Inhibition,neurotransmitter vesicle release,,,,,Inhibition,Y
+Serotonin 1A Receptor Agonism,1431,MIE,,Agonism,Serotonin 1A Receptor,,,,Agonism,Y
+Serotonin 1A Receptor Agonism,1431,MIE,,Agonism,Serotonin 1A Receptor,,,,Agonism,Y
+Anti-depressant Activity,1432,AO,Anti-depressant,Activity,Anti-depressant,,,,Anti-depressant,Y
+"Increased CGRP, neuronal release of CGRP",1433,KE,Increase,CGRP,neuronal release,,,CGRP,Increase,Y
+Irritation of nasal mucosa inducing sneeze reflex,1434,AO,,Irritation,nasal mucosa inducing sneeze reflex,,,,,Y
+Increased neurokinin A (NKA) by neuronal cells,1435,KE,Increase,neurokinin A,,neuronal cells,,NKA,Increase,Y
+Sensing of the stressor by pulmonary cells,1437,MIE,Sensing,pulmonary cells,stressor,,,,,Y
+"Increased production of pulmonary, pro-inflammatory cytokines",1438,KE,Increase,pulmonary,pro-inflammatory cytokines,,,,Increase,Y
+Increased production of pulmonary SAA,1439,KE,Increase,pulmonary SAA,production,,,,Increase,Y
+Formation of HDL-SAA,1440,KE,Formation,HDL-SAA,,,,HDL-SAA,Formation,Y
+Increased systemic total cholesterol pool,1441,KE,Increase,cholesterol pool,,,,,Increase,Y
+Foam cell formation,1442,KE,Formation,Foam cell,,,,,Formation,Y
+Plaque progression in arteries,1443,AO,progression,Plaque,arteries,,,,progression,Y
+"Increase, Follicular atresia",1444,KE,Increase,Follicular atresia,,,,,Increase,Y
+"Increase, Lipid peroxidation",1445,KE,Increase,Lipid peroxidation,,,,,Increase,Y
+"Increase, Uncoupling of oxidative phosphorylation",1446,MIE,Increase,Uncoupling,oxidative phosphorylation,,,,Increase,Y
+"Increase, Uncoupling of oxidative phosphorylation",1446,KE,Increase,Uncoupling,oxidative phosphorylation,,,,Increase,Y
+obesity,1447,AO,,obesity,,,,,,Y
+activation of CCAAT/enhancer-binding protein alpha,1448,KE,activation,CCAAT,enhancer-binding protein alpha,,,,Activation,Y
+increased adipogenesis,1449,KE,increase,adipogenesis,,,,,Increase,Y
+decreased dopamine,1450,KE,decrease,dopamine,,,,,Decrease,Y
+decreased reward,1451,KE,decrease,reward,,,,,Decrease,Y
+decreased DNA methylation of tyrosine hydroxylase,1452,KE,decrease,DNA methylation,tyrosine hydroxylase,,,DNA,Decrease,Y
+chronic high fat diet,1454,MIE,,chronicle,high fat diet,,,,,Y
+"Increase, Differentiation of fibroblasts",1456,KE,Increase,Differentiation of fibroblasts,,,,,Increase,Y
+"Induction, Epithelial Mesenchymal Transition",1457,KE,Induction,Epithelial Mesenchymal Transition,,,,,Induction,Y
+Pulmonary fibrosis,1458,AO,,fibrosis,Pulmonary,,,,,Y
+DNA double-strand break ,1461,KE,,break ,DNA double-strand,,,DNA,,Y
+Thiol group of chemicals interact with sulfuhydryl groups of proteins to form thiol adducts,1462,MIE,Interaction,Thiol group of chemicals,sulfuhydryl groups of proteins,thiol adducts,,,Interaction,Y
+Inhibition of lysyl oxidase,1463,KE,Inhibition,lysyl oxidase,,,,,Inhibition,Y
+Reduction of collagen crosslinking,1464,KE,Reduction,collagen crosslinking,,,,,Reduction,Y
+Weak collagen matrix,1465,KE,Weak,weakening,collagen matrix,,,,Weak,Y
+Notochord distortion or malformations,1466,KE,distortion,malformation,Notochord,,,,Distortion,Y
+"Growth, reduction",1467,AO,reduction,Growth,,,,,Reduction,Y
+"Activation, Latent Transforming Growth Factor Beta 1",1468,MIE,Activation,Latent Transforming Growth Factor Beta 1,,,,,Activation,Y
+"Activation, Transforming Growth Factor beta pathway",1469,KE,Activation,Transforming Growth Factor beta pathway,,,,,Activation,Y
+"Increase, Uncoupling of photophosphorylation",1471,MIE,Increase,Uncoupling of photophosphorylation,,,,,Increase,Y
+"Decrease, Chloroplast ATP production",1472,KE,Decrease,Chloroplast ATP production,,,,,Decrease,Y
+"Decrease, Chlorophyll synthesis",1473,KE,Decrease,Chlorophyll synthesis,,,,,Decrease,Y
+"Decrease, Light harvest capacity",1474,KE,Decrease,Light harvest capacity,,,,,Decrease,Y
+"Decrease, Photosynthesis",1475,KE,Decrease,Photosynthesis,,,,,Decrease,Y
+"Decrease, Glycolysis",1476,KE,Decrease,Glycolysis,,,,,Decrease,Y
+"Decrease, Oxidative phosphorylation",1477,KE,Decrease,Oxidative phosphorylation,,,,,Decrease,Y
+"Increase, Growth inhibition",1480,AO,Increase,Growth inhibition,,,,,Increase,Y
+Inhibition of mitochondrial DNA polymerase gamma (Pol gamma),1481,MIE,Inhibition,mitochondrial DNA polymerase gamma,Pol gamma,,,DNA,Inhibition,Y
+"Depletion, mtDNA ",1482,KE,Depletion,mtDNA ,,,,,Depletion,Y
+"Dysfunction, Mitochondria ",1483,KE,Dysfunction,Mitochondria ,,,,,Dysfunction,Y
+"Binding of substrate, endocytic receptor",1486,MIE,Binding,substrate,endocytic receptor,,,,Binding,Y
+"Binding, Thiol/seleno-proteins involved in protection against oxidative stress",1487,MIE,Binding,Thiol,seleno-proteins, protection against oxidative stress,,,Binding,Y
+Glutamate dyshomeostasis,1488,KE,,dyshomeostasis,Glutamate,,,,,Y
+"N/A, Steatohepatisis",1489,AO,,Steatohepatisis,,,,,,Y
+"Inhibition, Fatty Acid Beta Oxidation",1490,MIE,Inhibition,Fatty Acid Beta Oxidation,,,,,Inhibition,Y
+"Increased, Oncotic Necrosis",1491,KE,Increase,Oncotic Necrosis,,,,,Increase,Y
+Tissue resident cell activation,1492,KE,activation,Tissue resident,,,,,Activation,Y
+Increased Pro-inflammatory mediators,1493,KE,Increase,Pro-inflammatory mediators,,,,,Increase,Y
+Leukocyte recruitment/activation,1494,KE,recruitment,activation,Leukocyte,,,,Activation,Y
+Interaction with the lung resident cell membrane components,1495,MIE,Interaction,lung resident cell membrane components,,,,,Interaction,Y
+"Increased, secretion of proinflammatory and profibrotic mediators",1496,KE,Increase,secretion of proinflammatory,,,,,Increase,Y
+"Increased, recruitment of inflammatory cells",1497,KE,Increase,recruitment of inflammatory cells,,,,,Increase,Y
+Loss of alveolar capillary membrane integrity,1498,KE,,Loss,alveolar capillary membrane integrity,,,,,Y
+"Increased, activation of T (T) helper (h) type 2 cells",1499,KE,Increase,activation,T (T) helper (h) type 2 cells,,,,Increase,Y
+"Increased, fibroblast proliferation and myofibroblast differentiation",1500,KE,Increase,fibroblast proliferation,myofibroblast differentiation,,,,Increase,Y
+"Increased, extracellular matrix deposition",1501,KE,Increase,extracellular matrix deposition,,,,,Increase,Y
+Histone deacetylase inhibition,1502,MIE,inhibition,Histone deacetylase,,,,,Inhibition,Y
+"Histone acetylation, increase",1503,KE,Increase,Histone acetylation,,,,,Increase,Y
+"Cell cycle, disrupted",1505,KE,disruption,Cell cycle,,,,,Disruption,Y
+Testicular atrophy,1506,AO,atrophy,Testicular,,,,,Atrophy,Y
+CYP2E1 Activation,1508,MIE,Activation,CYP2E1,,,,CYP2E1,Activation,Y
+Protein Adduct Formation,1509,MIE,Formation,Protein Adduct,,,,,Formation,Y
+Oxidative Stress in Brain,1510,KE,,Oxidative Stress,Brain,,,,,Y
+Lipid Peroxidation,1511,KE,,Peroxidation,Lipid,,,,,Y
+Unfolded Protein Response,1512,KE,,Unfolding,Protein Response,,,,,Y
+General Apoptosis,1513,KE,,Apoptosis,generalization,,,,,Y
+Neurodegeneration,1514,AO,,Neurodegeneration,,,,,,Y
+Spermatocyte depletion,1515,KE,,depletion,Spermatocyte,,,,,Y
+"Increase, D1 protein blockage",1516,MIE,Increase,D1 protein,blockage,,,,Increase,Y
+"Decrease, Photosystem II activity",1517,KE,Decrease,Photosystem II,activity,,,,Decrease,Y
+"Decrease, Growth",1521,KE,Decrease,Growth,,,,,Decrease,Y
+"Decrease, Growth",1521,AO,Decrease,Growth,,,,,Decrease,Y
+"Increase, Chitin synthase inhibition",1522,MIE,Increase,Chitin synthase,inhibition,,,,Increase,Y
+"Decrease, Cuticular chitin synthesis",1523,KE,Decrease,Cuticular chitin synthesis,,,,,Decrease,Y
+"Increase, Premature molting",1524,KE,Increase,Premature molting,,,,,Increase,Y
+"Increase, Sulfonylurea receptor binding",1525,MIE,Increase,Sulfonylurea receptor binding,,,,,Increase,Y
+"Increase, Opening of voltage-dependent calcium channel",1526,KE,Increase,voltage-dependent calcium channel,Opening,,,,Increase,Y
+"Increase, Cell membrane depolarization",1527,KE,Increase,Cell membrane depolarization,,,,,Increase,Y
+"Fatty Acid Beta Oxidation, Decreased",1528,KE,Decrease,Fatty Acid Beta Oxidation,,,,,Decrease,Y
+"Blockade, L-Type Calcium Channels ",1529,MIE,Blockade,L-Type Calcium Channels ,,,,,Blockade,Y
+"Decrease, Calcium currents",1530,KE,Decrease,Calcium currents,,,,,Decrease,Y
+"Decrease, Calcium binding to Troponin C",1531,KE,Decrease,Calcium binding,Troponin C,,,,Decrease,Y
+"Decrease, Cardiac contractility ",1532,KE,Decrease,Cardiac contractility ,,,,,Decrease,Y
+"Decrease, Cardiac ejection fraction ",1533,KE,Decrease,Cardiac ejection fraction ,,,,,Decrease,Y
+Heart failure ,1535,AO,, Heart failure ,,,,,,Y
+"Disruption, Intracellular calcium mobilization",1536,KE,Disruption,Intracellular calcium mobilization,,,,,Disruption,Y
+"Disruption, Sarcomere assembly",1537,KE,Disruption,Sarcomere assembly,,,,,Disruption,Y
+Decreased protection against oxidative stress,1538,KE,Decrease,protection against oxidative stress,,,,,Decrease,Y
+Endocytotic lysosomal uptake,1539,MIE,uptake,Endocytotic lysosomal,,,,,Uptake,Y
+Mitochondrial Complex III inhibition,1542,MIE,inhibition,Mitochondrial Complex III,,,,,Inhibition,Y
+Mitochondrial Complex IV inhibition,1543,MIE,inhibition,Mitochondrial Complex IV,,,,,Inhibition,Y
+Mitochondrial Complex V inhibition,1544,MIE,inhibition,Mitochondrial Complex V ,,,,,Inhibition,Y
+Decrease in mitochondrial oxidative phosphorylation,1545,KE,Decrease,mitochondrial oxidative phosphorylation,,,,,Decrease,Y
+Increased reactive oxygen species (in the mitochondria),1546,KE,Increase,reactive oxygen species,mitochondria,,,,Increase,Y
+Mitochondrial Injury,1547,KE,Injury,Mitochondrial,,,,,Injury,Y
+Necrotic Tissue,1548,AO,necrotizing,Tissue,,,,,Necrotizing,Y
+Liver Injury,1549,AO,Injury,Liver,,,,,Injury,Y
+"Increase, lung cancer",1556,AO,Increase,lung cancer,,,,,Increase,Y
+"Neural crest cell migration, reduced",1557,KE,Reduction,Neural crest cell migration,,,,,Reduction,Y
+"Collagen production, reduced",1558,KE,Reduction,Collagen production,,,,,Reduction,Y
+Facial cartilage structures are reduced in size and morphologically distorted,1559,AO,Reduction,Facial cartilage structures,morphologically distorted,,,,Reduction,Y
+Altered differentiation,1560,KE,alteration,differentiation,,,,,Alteration,Y
+Neural tube defects,1561,AO,Defect,Neural tube,,,,,Defect,Y
+Decreased Na/K ATPase activity,1562,KE,Decrease,Na ATPase activity,K ATPase activity,,,*,Decrease,Y
+Decreased proximal tubular vectorial transport,1563,KE,Decrease,proximal tubular vectorial transport,,,,,Decrease,Y
+Chemical induced Fanconi syndrome,1564,AO,Induction,Fanconi syndrome,,,,,Induction,Y
+"Inhibition, IKK complex",1574,MIE,Inhibition,IKK complex,,,,,Inhibition,Y
+"Activation, Caspase 8 pathway",1575,KE,Activation,Caspase 8 pathway,,,,,Activation,Y
+"Activation, Tissue resident cells (Kuppfer cells)",1576,KE,Activation,Tissue resident cells,Kuppfer cells,,,,Activation,Y
+"Increase, proinflammatory mediators (TNFalpha)",1579,KE,Increase,proinflammatory mediators,TNFalpha,,,,Increase,Y
+Binding of microtubule stabilizing agents (MSA) to microtubules,1580,MIE,Binding,microtubule stabilizing agents,MSA,microtubules,,,Binding,Y
+Disturbance in microtubule dynamic instability,1581,KE,Disturbance,microtubule dynamic instability,,,,,Disturbance,Y
+Impaired axonial transport,1582,KE,Impairment,axonial transport,,,,,Impairment,Y
+Sensory axonal peripheral neuropathy,1583,AO,neuropathy,Sensory axonal peripheral,,,,,Neuropathy,Y
+Interaction of α-diketones with arginine residues,1584,MIE,Interaction,α-diketones,arginine residues,,,,Interaction,Y
+Proteasomal dysfunction,1585,KE,dysfunction,Proteasomal,,,,,Dysfunction,Y
+Airway epithelial injury,1586,KE,injury,Airway epithelial,,,,,Injury,Y
+Fibroproliferative airway lesions,1587,KE,,lesion,Fibroproliferative airway,,,,,Y
+Bronchiolitis obliterans,1588,AO,,Bronchiolitis,obliterans,,,,,Y
+ROS generation from photoactivated chemicals,1592,MIE,generation,ROS,photoactivated chemicals,,,ROS,Generation,Y
+Oxidation of membrane lipids,1594,KE,Oxidation,membrane lipids,,,,,Oxidation,Y
+Oxidation/denatuation of membrane proteins,1595,KE,Oxidation,denatuation,membrane proteins,,,,Oxidation,Y
+Inflamatory events in light-exposed tissues,1599,AO,inflammation,light-exposed tissues,,,,,Inflammation,Y
+"Activation, Muscarinic Acetylcholine Receptors",1602,KE,Activation,Muscarinic Acetylcholine Receptors,,,,,Activation,Y
+Chronic kidney disease,1603,AO,,chronic,kidney disease,,,,,Y
+Inhibition of N-linked glycosylation,1604,MIE,Inhibition,N-linked glycosylation,,,,,Inhibition,Y
+Accumulation of misfolded proteins,1605,KE,Accumulation,misfolded proteins,,,,,Accumulation,Y
+Activation of hepatic stellate cells,1606,KE,Activation,hepatic stellate cells,,,,,Activation,Y
+"Increase, Necrosis",1607,KE,Increase,Necrosis,,,,,Increase,Y
+"Increase, Oxidative DNA damage",1608,KE,Increase,Oxidative DNA damage,,,,DNA,Increase,Y
+"Inhibition, Cytochrome P450 enzyme (CYP17A1) activity",1609,MIE,Inhibition,Cytochrome P450 enzyme activity,CYP17A1 activity,,,CYP17A1,Inhibition,Y
+"Reduction, 17-OH-pregnenolone conversion in DHEA",1610,KE,Reduction,17-OH-pregnenolone conversion,DHEA,,,,Reduction,Y
+"Reduction, 17-OH-progesterone conversion in androstenedione",1611,KE,Reduction,17-OH-progesterone conversion,androstenedione,,,,Reduction,Y
+"Decrease, testosterone synthesis/level",1612,KE,Decrease,testosterone synthesis,testosterone level,,,,Decrease,Y
+"Decrease, dihydrotestosterone (DHT) level",1613,KE,Decrease,dihydrotestosterone level,DHT level,,,,Decrease,Y
+"Decrease, androgen receptors (AR) activation",1614,KE,Decrease,androgen receptors activation,AR activation,,,AR,Decrease,Y
+Impaired inguinoscrotal testicular descent phase,1615,KE,Impairment,inguinoscrotal testicular descent phase,,,,,Impairment,Y
+"Malformation, cryptorchidism - maldescended testis",1616,AO,Malformation,cryptorchidism - maldescended testis,,,,,Malformation,Y
+"5α-reductase, inhibition",1617,MIE,Inhibition,5α-reductase,,,,,Inhibition,Y
+"Increase, DNA methyltransferase inhibition",1619,MIE,Increase,DNA methyltransferase inhibition,,,,DNA,Increase,Y
+"Increase, DNA hypomethylation",1620,KE,Increase,DNA hypomethylation,,,,DNA,Increase,Y
+"Increase, Gene expression",1621,KE,Increase,Gene expression,,,,,Increase,Y
+"Decrease, Transgenerational DNA methylation",1622,KE,Decrease,Transgenerational DNA methylation,,,,DNA,Decrease,Y
+"Occurrence, Focal Seizure",1623,KE,Occurrence,Focal Seizure,,,,,Occurrence,Y
+Inhibition of tyrosinase ,1627,MIE,Inhibition,tyrosinase ,,,,,Inhibition,Y
+Reduction of L-Dopaquinone,1628,KE,Reduction,L-Dopaquinone,,,,,Reduction,Y
+Reduction in melanin level,1629,KE,Reduction,melanin level,,,,,Reduction,Y
+Reduction of melanosome level,1630,KE,Reduction,melanosome level,,,,,Reduction,Y
+Reduction fo Pigmentation pattern ,1631,KE,Reduction,Pigmentation pattern ,,,,,Reduction,Y
+Increase in reactive oxygen and nitrogen species (RONS),1632,MIE,Increase,reactive oxygen and nitrogen species,RONS,,,RONS,Increase,Y
+Increase in reactive oxygen and nitrogen species (RONS),1632,KE,Increase,reactive oxygen and nitrogen species,RONS,,,RONS,Increase,Y
+"Increase, Oxidative damage to DNA",1634,MIE,Increase,Oxidative damage,DNA,,,DNA,Increase,Y
+"Increase, DNA strand breaks",1635,KE,Increase,DNA strand breaks,,,,DNA,Increase,Y
+"Increase, Chromosomal aberrations",1636,KE,Increase,Chromosomal aberrations,,,,,Increase,Y
+"Increase, Chromosomal aberrations",1636,AO,Increase,Chromosomal aberrations,,,,,Increase,Y
+Retinaldehyde dehydrogenase inhibition,1637,MIE,Inhibition,Retinaldehyde dehydrogenase,,,,,Inhibition,Y
+Decreased optical elements of the eye ,1640,KE,Decrease,optical elements,eye ,,,,Decrease,Y
+Decreased retinoic acid (RA) synthesis,1641,KE,Decrease,retinoic acid synthesis,RA synthesis,,,,Decrease,Y
+Decreased plasma RA level,1642,KE,Decrease,plasma RA level,,,,,Decrease,Y
+Increased visual impairment,1643,KE,Increase,visual impairment,,,,,Increase,Y
+Epithelial-mesenchymal transition,1650,KE,transition,Epithelial-mesenchymal,,,,,Transition,Y
+Treatment-resistant gastric cancer,1651,AO,cancer,Treatment-resistant gastric,,,,,Cancer,Y
+"Increase, S-adenosylmethionine depletion",1652,MIE,Increase,S-adenosylmethionine depletion,,,,,Increase,Y
+Binding of inhibitor to mitochondrial complex III,1653,MIE,Binding,mitochondrial complex III,inhibitor,,,,Binding,Y
+"Antagonism, Thyroid Receptor ",1656,MIE,Antagonism,Thyroid Receptor ,,,,,Antagonism,Y
+Inhibition of cystathionine beta-synthase,1657,MIE,Inhibition,cystathionine beta-synthase,,,,,Inhibition,Y
+Increased Homocysteine level ,1661,KE,Increase,Homocysteine level ,,,,,Increase,Y
+"Increased, Plasma HCY level",1665,KE,Increase,Plasma HCY level,,,,,Increase,Y
+"Induced, dysfunction of microcirculation",1666,KE,Induction,microcirculation,dysfunction,,,,Induction,Y
+"Impaired,anterior-posterior axis development",1667,AO,Impairment,anterior-posterior axis development,,,,,Impairment,Y
+Frustrated phagoytosis,1668,MIE,Frustration,phagoytosis,,,,,Frustration,Y
+"Increased, DNA damage and mutation",1669,KE,Increase,DNA damage,DNA mutation,,,DNA,Increase,Y
+Lung cancer,1670,AO,,cancer,Lung,,,,,Y
+Substance - lung surfactant interaction,1671,MIE,interaction,Substance - lung surfactant,,,,,Interaction,Y
+Disruption of lung surfactant function,1672,KE,Disruption,lung surfactant function,,,,,Disruption,Y
+Alveolar collapse,1673,KE,collapsing,Alveolar,,,,,Collapsing,Y
+Alveolar reopening,1674,KE,reopening,Alveolar,,,,,Reopening,Y
+Loss of barrier function,1675,KE,Loss,barrier function,,,,,Loss,Y
+Blood extravasation into the lungs,1676,KE,,Blood extravasation,lung,,,,,Y
+Reduced lung volume ,1677,KE,Reduction,lung volume ,,,,,Reduction,Y
+Acute inhalation toxicity,1679,AO,inhalation,Acute toxicity,,,,,inhalation,Y
+"Inhibition, TBX1",1680,MIE,Inhibition,TBX1,,,,TBX1,Inhibition,Y
+"Disruption, Neural crest cell migration",1681,KE,Disruption,Neural crest cell migration,,,,,Disruption,Y
+"Disruption, Progenitor cells of second heart field",1682,KE,Disruption,Progenitor cells,second heart field,,,,Disruption,Y
+"Impairment, Fourth pharyngeal arch development",1683,KE,Impairment,Fourth pharyngeal arch development,,,,,Impairment,Y
+"Abnormalities, Cardiac outflow tract formation",1684,KE,Abnormalities,Cardiac outflow tract formation,,,,,Abnormalities,Y
+"Anomalies, Congenital cardiac conotruncal",1685,AO,Anomalies,Congenital cardiac conotruncal,,,,,Anomalies,Y
+Direct Deposition of Energy,1686,MIE,Deposition,Energy,,,,,Deposition,Y
+"decrease, transcription of genes by AR ",1687,KE,decrease,transcription of genes,AR ,,,,Decrease,Y
+"decrease, male anogenital distance",1688,AO,decrease,male anogenital distance,,,,,Decrease,Y
+"reduction, testosterone levels ",1690,KE,Reduction,testosterone levels ,,,,,Reduction,Y
+"Antagonism,LH receptor",1691,MIE,Antagonism,LH receptor,,,,LH,Antagonism,Y
+"Reduction, Progesterone synthesis",1692,KE,Reduction,Progesterone synthesis,,,,,Reduction,Y
+"Reduction, Plasma progesterone concentration ",1693,KE,Reduction,Plasma progesterone concentration ,,,,,Reduction,Y
+"Reduction, progesterone uptake, decresed maturation ",1694,KE,Reduction,progesterone uptake,decresed maturation ,,,,Reduction,Y
+Impaired ovulation,1695,KE,Impairment,ovulation,,,,,Impairment,Y
+Decrease of egg production and cummulative fecundity,1696,KE,decrease,egg production,cummulative fecundity,,,,Decrease,Y
+"Increase, DNA methyltransferase expression",1697,KE,Increase,DNA methyltransferase expression,,,,DNA,Increase,Y
+"Increase, hypermethylation of the promotor region of gonadotropin releasing hormone receptor",1698,KE,Increase,gonadotropin releasing hormone receptor,hypermethylation,,,,Increase,Y
+"Decrease, expression of gonadotropin releasing hormone receptor",1699,KE,Decrease,expression of gonadotropin releasing hormone receptor,,,,,Decrease,Y
+Inhibition of IL-1 binding to IL-1 receptor,1700,MIE,Inhibition,IL-1 binding,IL-1 receptor,,,,Inhibition,Y
+Suppression of  T cell activation,1702,KE,Suppression,T cell activation,,,,,Suppression,Y
+Dysregulation of heart rate and vascular tone,1703,KE,Dysregulation,heart rate,vascular tone,,,,Dysregulation,Y
+Impaired coordination and movement,1705,KE,Impairment,coordination,movement,,,,Impairment,Y
+"Stimulation, TLR7/8 in dendritic cells",1706,MIE,Stimulation,TLR7/8,dendritic cells,,,TLR7/8,Stimulation,Y
+"Overproduction of IL-23, matured dendritic cells",1707,KE,Overproduction,IL-23,matured dendritic cells,,,IL-23,Overproduction,Y
+Overproduction of IL-17 from Th17 cells,1708,KE,Overproduction,IL-17,Th17 cells,,,IL-17,Overproduction,Y
+Psoriatic skin disease,1709,AO,disease,Psoriatic skin,,,,,Disease,Y
+Activation of estrogen receptor in immune cells,1710,MIE,Activation,GATA3 expression,immune cells,,,,Activation,Y
+Induction of GATA3 expression by STAT6:ER fusion protein,1711,KE,Induction,GATA3 expression,STAT6:ER fusion protein,,,,Induction,Y
+Overproduction of IL-4 from Th2 cell,1712,KE,Overproduction,IL-4,Th2 cell,,,IL-4,Overproduction,Y
+Increase of anti-single/double-stranded DNA antibody from autoreactive B cell,1713,KE,Increase,anti-single DNA antibody,autoreactive B cell,double-stranded DNA antibody,,DNA,Increase,Y
+Exacerbation of systemic lupus erythematosus,1714,AO,Exacerbation,systemic lupus erythematosus,,,,,Exacerbation,Y
+Inhibition of JAK3,1715,MIE,Inhibition,JAK3,,,,JAK3,Inhibition,Y
+Blockade of STAT5 phosphorylation,1716,KE,Blockade,STAT5 phosphorylation,,,,,Blockade,Y
+Suppression of STAT5 binding to cytokine gene promoters,1717,KE,Suppression,STAT5 binding to cytokine gene promoters,,,,,Suppression,Y
+Suppression of IL-2 production,1718,KE,Suppression,IL-2 production,,,,IL-2,Suppression,Y
+Impairment of T-cell dependent antibody response,1719,AO,Impairment,T-cell dependent antibody response,,,,,Impairment,Y
+Trypsin inhibition,1720,MIE,inhibition,Trypsin,,,,,Inhibition,Y
+Increased intestinal monitor peptide level,1721,KE,Increase,intestinal monitor peptide level,,,,,Increase,Y
+Increased blood CCK level,1722,KE,Increase,blood CCK level,,,,,Increase,Y
+Increased exocrine secretion from pancreatic acinar cells,1723,KE,Increase,exocrine secretion,pancreatic acinar cells,,,,Increase,Y
+Acinar cell proliferation,1724,KE,proliferation,Acinar cell,,,,,Proliferation,Y
+Pancreatic acinar cell tumors,1725,AO,,Pancreatic acinar cell,tumor,,,,,Y
+Enhanced viral entry and gene expression,1738,KE,enhancement,viral entry,gene expression,,,,Enhancement,Y
+Binding of S protein to ACE receptor,1739,MIE,Binding,S protein,ACE receptor,,,,Binding,Y
+ACE2 inhibition,1740,MIE,inhibition,ACE2,,,,ACE2,Inhibition,Y
+Increase plasma Ang II,1743,KE,Increase,plasma Ang II,,,,,Increase,Y
+"Increase, the risk of acute respiratory failure",1748,KE,Increase,the risk of acute respiratory failure,,,,,Increase,Y
+Increase inflammatory immune responses,1750,KE,Increase,inflammatory immune responses,,,,,Increase,Y
+Increases AngII,1752,KE,Increase,AngII,,,,,Increase,Y
+Chronic reactive oxygen species,1753,MIE,,reactive oxygen species,chronic,,,,,Y
+Sustained tissue damage / macrophage activation/ porcupine-induced Wnt secretion,1754,KE,sustainability,tissue damage,macrophage activation,porcupine-induced Wnt secretion,,,Suppression,Y
+Proliferation/ beta-catenin activation,1755,KE,Proliferation,beta-catenin activation,,,,,Activation,Y
+"Decreased, 11-ketotestosterone",1756,KE,Decrease,11-ketotestosterone,,,,,Decrease,Y
+"Reduce, Sperm count",1757,AO,Reduction,Sperm count,,,,,Reduction,Y
+"Impaired, Spermatogenesis",1758,KE,Impairment,Spermatogenesis,,,,,Impairment,Y
+"Increase, Cripto-1 expression",1759,KE,Increase,Cripto-1 expression,,,,,Increase,Y
+"Inhibition, Activin signaling",1760,KE,Inhibition,Activin signaling,,,,,Inhibition,Y
+"Inhibition, Fin regeneration",1761,KE,Inhibition,Fin regeneration,,,,,Inhibition,Y
+Urothelial cell injury/death,1762,KE,,cell death,Urothelial,cell injury,,,,Y
+Urothelial Tumor,1763,AO,,Urothelial,Tumor,,,,,Y
+"Increase, Formation of DNA photoproducts",1765,MIE,Increase,Formation of DNA photoproducts,,,,DNA,Increase,Y
+"Increase, DNA double-strand break",1766,KE,Increase,DNA double-strand break,,,,DNA,Increase,Y
+"Increase, Protein oxidation",1767,KE,Increase,Protein oxidation,,,,,Increase,Y
+"Decrease, Osmoregulation",1768,KE,Decrease,Osmoregulation,,,,,Decrease,Y
+"Increase, Body fluid overload",1769,KE,Increase,Body fluid overload,,,,,Increase,Y
+"Decrease, Mitochondrial membrane potential",1770,KE,Decrease,Mitochondrial membrane potential,,,,,Decrease,Y
+"Decrease, ATP production",1771,KE,Decrease,ATP production,,,,,Decrease,Y
+"Decrease, Neutral lipids",1772,KE,Decrease,Neutral lipids,,,,,Decrease,Y
+"Decrease, Global DNA methylation",1773,KE,Decrease,Global DNA methylation,,,,DNA,Decrease,Y
+"Increase, Caspase transcription",1774,KE,Increase,Caspase transcription,,,,,Increase,Y
+"Increase, Oocyte apoptosis",1775,KE,Increase,Oocyte apoptosis,,,,,Increase,Y
+"Increase, Ovarian somatic cell apoptosis",1776,KE,Increase,Ovarian somatic cell apoptosis,,,,,Increase,Y
+"Increase, Ovarian follicle breakdown",1777,KE,Increase,Ovarian follicle breakdown,,,,,Increase,Y
+"Decrease, Heritable DNA methylation (F3)",1778,KE,Decrease,Heritable DNA methylation,F3,,,DNA,Decrease,Y
+"Increase, Caspase transcription (F3)",1779,KE,Increase,Caspase transcription,F3,,,,Increase,Y
+"Increase, Oocyte apoptosis (F3)",1780,KE,Increase,Oocyte apoptosis,F3,,,,Increase,Y
+"Decrease, Fecundity (F3)",1781,AO,Decrease,Fecundity,F3,,,,Decrease,Y
+"Decrease, Oogenesis (F3)",1782,KE,Decrease,Oogenesis,F3,,,,Decrease,Y
+"Increase, Ovarian somatic cell apoptosis (F3)",1783,KE,Increase,Ovarian somatic cell apoptosis,F3,,,,Increase,Y
+"Increase, Ovarian follicle breakdown (F3)",1784,KE,Increase,Ovarian follicle breakdown,F3,,,,Increase,Y
+"Increase, ATP synthase inhibition",1785,MIE,Increase,ATP synthase inhibition,,,,,Increase,Y
+"increase, retained nipples in males",1786,AO,Increase,retained nipples in males,,,,,Increase,Y
+Status epilepticus,1788,KE,,epilepticus,Status,,,,,Y
+"Reduction, 17beta-estradiol synthesis by the undifferentiated gonad ",1789,KE,Reduction,17beta-estradiol synthesis,undifferentiated gonad ,,,,Reduction,Y
+"Increased, Differentiation to Testis ",1790,KE,Increase,Differentiation to Testis ,,,,,Increase,Y
+"Increased, Male Biased Sex Ratio",1791,KE,Increase,Male Biased Sex Ratio,,,,,Increase,Y
+Toll-like receptor 4 activation,1792,MIE,activation,Toll-like receptor 4,,,,,Activation,Y
+Activator protein 1 activation,1793,KE,activation,Activator protein 1,,,,,Activation,Y
+Pin-1 activation,1794,KE,activation,Pin-1,,,,,Activation,Y
+Latent Transforming growth Factor beta expression,1795,KE,beta expression,Latent Transforming growth Factor,,,,,,Y
+11β-hydroxylase inhibition,1796,MIE,inhibition,11β-hydroxylase,,,,,Inhibition,Y
+Decreased plasma 11-KT level,1797,KE,Decrease,plasma 11-KT level,,,,,Decrease,Y
+Decreased size and sperm volume,1798,KE,Decrease,sperm size,sperm volume,,,,Decrease,Y
+Inhibition of 11β-HSD ,1799,MIE,Inhibition,11β-HSD,,,,,Inhibition,Y
+metastatic breast cancer,1982,AO,,,,,,,,N
+"Decrease, Reproduction",1863,AO,,,,,,,,N
+Apoptotic cell death,1817,AO,,,,,,,,N
+Memory Loss,1941,AO,,,,,,,,N
+metastatic breast cancer,1982,AO,,,,,,,,N
+Sensory axonal peripheral neuropathy,1583,AO,,,,,,,,N
+Infant leukaemia,1254,AO,,,,,,,,N
+"Decrease, Reproduction",1863,AO,,,,,,,,N
+Apoptotic cell death,1817,AO,,,,,,,,N
+"Increased, predation",588,AO,,,,,,,,N
+"Increase, predation",623,AO,,,,,,,,N
+"Increased, Population",1164,AO,,,,,,,,N
+"Decreased, Reproductive Success",1141,AO,,,,,,,,N
+"Increased, Reproductive Success",1163,AO,,,,,,,,N
+"anogenital distance (AGD), decreased",1688,AO,,,,,,,,N
+Memory Loss,1941,AO,,,,,,,,N
+"impaired, Larval development",566,AO,,,,,,,,N
+Heart failure ,1535,AO,,,,,,,,N
+Increased Mortality,351,AO,,,,,,,,N
+"N/A, Neurodegeneration",352,AO,,,,,,,,N
+Reproductive failure,1277,AO,,,,,,,,N
+"Impairment, Learning and memory",341,AO,,,,,,,,N
+nan,n,AO,,,,,,,,N
+"N/A, Breast Cancer",1193,AO,,,,,,,,N
+Uterine adenocarcinoma (endometrioid adenocarcinoma Type I),2154,AO,,,,,,,,N
+Chronic obstructive pulmonary disease,2008,AO,,,,,,,,N
+Inflamatory events in light-exposed tissues,1599,AO,,,,,,,,N
+"Decreased sperm quantity or quality in the adult, Decreased fertility ",520,AO,,,,,,,,N
+"Tumorigenesis, Hepatocellular carcinoma",378,AO,,,,,,,,N
+"Cognitive Function, Decreased ",402,AO,,,,,,,,N
+"Accumulation, Liver lipid",455,AO,,,,,,,,N
+"N/A, Liver fibrosis",344,AO,,,,,,,,N
+"increase, Preeclampsia",1893,AO,,,,,,,,N
+"Increased, Liver Steatosis",459,AO,,,,,,,,N
+"Increase, Heritable mutations in offspring",336,AO,,,,,,,,N
+"Increase, Cancer",885,AO,,,,,,,,N
+"Reduce, Sperm count",1757,AO,,,,,,,,N
+"Decreased, Decreased fecundity ",527,AO,,,,,,,,N
+"Increase, Adenomas/carcinomas (renal tubular)",713,AO,,,,,,,,N
+"Decreased fertility, Reduced number of oocytes ovulated ",972,AO,,,,,,,,N
+"Hypospadias, increased",2082,AO,,,,,,,,N
+"Nipple retention (NR), increased",1786,AO,,,,,,,,N
+"Increase, hepatocellular adenomas and carcinomas",719,AO,,,,,,,,N
+Prostate cancer,2135,AO,,,,,,,,N
+"Decrease, Population growth rate",360,AO,,,,,,,,N
+"Decreased, Population trajectory",442,AO,,,,,,,,N
+"N/A, Impairment of reproductive capacity",337,AO,,,,,,,,N
+Testicular Cancer,1839,AO,,,,,,,,N
+Lung fibrosis,1276,AO,,,,,,,,N
+Orofacial clefting,2042,AO,,,,,,,,N
+"Decreased, Body Weight",864,AO,,,,,,,,N
+"Increased, Adenomas/carcinomas (mammary)",1079,AO,,,,,,,,N
+"Impaired recruitment , Population trajectory",1136,AO,,,,,,,,N
+"Promotion, ovarian adenomas",1053,AO,,,,,,,,N
+Urothelial Tumor,1763,AO,,,,,,,,N
+Apoptosis,1262,AO,,,,,,,,N
+Increased incidence of respiratory disease,2087,AO,,,,,,,,N
+"impaired, Fertility",406,AO,,,,,,,,N
+"Increase, Early Life Stage Mortality",947,AO,,,,,,,,N
+"Decrease, Lung function",1250,AO,,,,,,,,N
+Lung cancer,1670,AO,,,,,,,,N
+Uroporphyria,369,AO,,,,,,,,N
+"Promotion, mesovarian leiomyomas",1044,AO,,,,,,,,N
+Chronic kidney disease,1603,AO,,,,,,,,N
+Influenza A Virus (IAV) shedding and transmission,2194,AO,,,,,,,,N
+Encephalitis,1841,AO,,,,,,,,N
+Cerebrovascular disease (stroke),1875,AO,,,,,,,,N
+Hyperinflammation,1868,AO,,,,,,,,N
+"Viral infection and host-to-host transmission, proliferated",1939,AO,,,,,,,,N
+dysgeusia,1850,AO,,,,,,,,N
+Thrombosis and Disseminated Intravascular Coagulation,1846,AO,,,,,,,,N
+Exacerbation of systemic lupus erythematosus (SLE),1714,AO,,,,,,,,N
+"Occurrence, Epileptic seizure",613,AO,,,,,,,,N
+"Increase, Mutations",185,AO,,,,,,,,N
+Parkinsonian motor deficits,896,AO,,,,,,,,N
+"Increased, Oxidative damage",356,AO,,,,,,,,N
+Neural tube defects,1561,AO,,,,,,,,N
+"Increase, Aneuploid offspring",728,AO,,,,,,,,N
+"Increase, Mortality",350,AO,,,,,,,,N
+"Cholestasis, Pathology",357,AO,,,,,,,,N
+"Increased, mesotheliomas",1090,AO,,,,,,,,N
+"Altered, Amphibian metamorphosis",1101,AO,,,,,,,,N
+"Increase, Allergic Respiratory Hypersensitivity Response",313,AO,,,,,,,,N
+"sensitisation, skin",827,AO,,,,,,,,N
+"N/A, Reproductive failure",253,AO,,,,,,,,N
+"Reduced, Reproductive Success",675,AO,,,,,,,,N
+Neurodegeneration,1514,AO,,,,,,,,N
+Liver Cancer,1395,AO,,,,,,,,N
+"Increase, Site of Contact Nasal Tumors",872,AO,,,,,,,,N
+"Increase, Adenomas/carcinomas (bronchioloalveolar)",736,AO,,,,,,,,N
+"Increase, Leydig cell tumors",745,AO,,,,,,,,N
+"Increase, Vascular disrupting effects",2161,AO,,,,,,,,N
+Acute Myeloid Leukemia,1955,AO,,,,,,,,N
+"Increase, lung cancer",1556,AO,,,,,,,,N
+"Occurrence, Bone Loss",2091,AO,,,,,,,,N
+Occurrence of Cataracts,2083,AO,,,,,,,,N
+"Reduction, Cumulative fecundity and spawning",78,AO,,,,,,,,N
+"Occurrence, Vascular Remodeling ",2069,AO,,,,,,,,N
+Decrease of egg production and cummulative fecundity,1696,AO,,,,,,,,N
+"Increased, Developmental Defects",1001,AO,,,,,,,,N
+"Decrease, Fecundity",328,AO,,,,,,,,N
+"Decrease, Fecundity (F3)",1781,AO,,,,,,,,N
+Multi Organ Failure involving Acute Respiratory Distress Syndrome,1843,AO,,,,,,,,N
+"Increased, adenosquamous carcinomas of endometrium",1070,AO,,,,,,,,N
+"Thromboinflammation, Increased ",1916,AO,,,,,,,,N
+"Decrease, Growth",1521,AO,,,,,,,,N
+"Increase, Adenomas/carcinomas (follicular cell)",741,AO,,,,,,,,N
+obesity,1447,AO,,,,,,,,N
+"Increase, Papillomas/carcinomas (squamous cells)",779,AO,,,,,,,,N
+"skewed, sex ratio",417,AO,,,,,,,,N
+Metabolically unhealthy Obesity,2129,AO,,,,,,,,N
+Insulin resistance,2018,AO,,,,,,,,N
+"Impaired, Reproduction",1991,AO,,,,,,,,N
+"Reduced, survival",592,AO,,,,,,,,N
+Neurological disorder,2150,AO,,,,,,,,N
+"N/A, Steatohepatisis",1489,AO,,,,,,,,N
+"Inhibit, gastric ulcer formation",1367,AO,,,,,,,,N
+"Increased, Disease susceptibility",323,AO,,,,,,,,N
+"Increased, adenomas (pituitary)",1082,AO,,,,,,,,N
+"Activated, gastric ulcer formation",1385,AO,,,,,,,,N
+Sudden cardiac death,1964,AO,,,,,,,,N
+"Decreased, survival",636,AO,,,,,,,,N
+Testicular atrophy,1506,AO,,,,,,,,N
+Facial cartilage structures are reduced in size and morphologically distorted,1559,AO,,,,,,,,N
+"Decrease, Fertility",330,AO,,,,,,,,N
+Necrotic Tissue,1548,AO,,,,,,,,N
+Immune mediated hepatitis,1820,AO,,,,,,,,N
+"Impairment, T-cell dependent antibody response",984,AO,,,,,,,,N
+"Increase, Endometrial adenocarcinomas",773,AO,,,,,,,,N
+"Decrease, Number of worker bees",572,AO,,,,,,,,N
+"Increase, DNA damage",1194,AO,,,,,,,,N
+Gestational diabetes mellitus,1953,AO,,,,,,,,N
+Treatment-resistant gastric cancer,1651,AO,,,,,,,,N
+"Malformation, cryptorchidism - maldescended testis",1616,AO,,,,,,,,N
+Chemical induced Fanconi syndrome,1564,AO,,,,,,,,N
+"Impaired,anterior-posterior axis development",1667,AO,,,,,,,,N
+Impairment of T-cell dependent antibody response,1719,AO,,,,,,,,N
+"Growth, reduction",1467,AO,,,,,,,,N
+"Occurrence, Kidney toxicity",814,AO,,,,,,,,N
+Liver Injury,1549,AO,,,,,,,,N
+transposition of the great arteries,1970,AO,,,,,,,,N
+"Increase risk, microcephaly",1978,AO,,,,,,,,N
+"Increased, Male offspring",1208,AO,,,,,,,,N
+"Increased, Kidney Failure",759,AO,,,,,,,,N
+Pulmonary fibrosis,1458,AO,,,,,,,,N
+"Decline, Population trajectory",679,AO,,,,,,,,N
+"N/A, Liver Steatosis",345,AO,,,,,,,,N
+"Increased, agitation",1345,AO,,,,,,,,N
+"Increased, depression",1346,AO,,,,,,,,N
+"Decreased sperm quantity / quality in the adult, Decreased fertility ",505,AO,,,,,,,,N
+"Decreased Cholesterol, Decreased sperm quantity and/or quality in the adult testis",646,AO,,,,,,,,N
+"Decreased fertility in the adult, Decreased sperm quantity and/or quality in the adult testis",543,AO,,,,,,,,N
+"Increase, seizure",1348,AO,,,,,,,,N
+Analgesia,1428,AO,,,,,,,,N
+"Increased, seizure",1344,AO,,,,,,,,N
+"Increased, steatosis",1418,AO,,,,,,,,N
+"Death/Failure, Colony",563,AO,,,,,,,,N
+"N/A, Cyanosis occurs",321,AO,,,,,,,,N
+Hypertension,952,AO,,,,,,,,N
+Hepatotoxicity,1291,AO,,,,,,,,N
+"Formation, Liver fibrosis",840,AO,,,,,,,,N
+"Increased, Pancreatic acinar tumors",1063,AO,,,,,,,,N
+"Decreased, Viable Offspring",2147,AO,,,,,,,,N
+"Increased, epilepsy",1363,AO,,,,,,,,N
+Pyroptosis,1967,AO,,,,,,,,N
+impaired olfactory function (anosmia) ,1873,AO,,,,,,,,N
+Myocardial Infarction,1934,AO,,,,,,,,N
+Anti-depressant Activity,1432,AO,,,,,,,,N
+"Increased, amputations",591,AO,,,,,,,,N
+"Reduced, feeding 1",587,AO,,,,,,,,N
+"Increase, hypertension",1343,AO,,,,,,,,N
+Psoriatic skin disease,1709,AO,,,,,,,,N
+Atherosclerosis,1443,AO,,,,,,,,N
+"Insulin resistance, increased",2119,AO,,,,,,,,N
+"Formation, Hepatocellular and Bile duct tumors",856,AO,,,,,,,,N
+"Anomalies, Congenital cardiac conotruncal",1685,AO,,,,,,,,N
+Periventricular heterotopia formation,2095,AO,,,,,,,,N
+Pancreatic acinar cell tumors,1725,AO,,,,,,,,N
+"Loss, Cochlear function",319,AO,,,,,,,,N
+"Increase, Adenomas/carcinomas (urothelial)",797,AO,,,,,,,,N
+"impaired, Learning and memory",637,AO,,,,,,,,N
+"Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea",1223,AO,,,,,,,,N
+Bronchiolitis obliterans,1588,AO,,,,,,,,N
+"Promotion, ovarian granular cell tumors",1054,AO,,,,,,,,N
+Necrosis,1263,AO,,,,,,,,N
+Dysfunction of respiratory system,2088,AO,,,,,,,,N
+"irregularities, ovarian cycle",405,AO,,,,,,,,N
+"decreased, Intellectual Quotient",2121,AO,,,,,,,,N
+Metabolic syndrome,2145,AO,,,,,,,,N
+"Altered, Reproductive behaviour",363,AO,,,,,,,,N
+"Decreased, population 1",765,AO,,,,,,,,N
+"Promotion, Ovarian Cancer ",2092,AO,,,,,,,,N
+"Increased, Ductal Hyperplasia ",1192,AO,,,,,,,,N
+"Decline, Population",361,AO,,,,,,,,N
+"Increased, hippocampal hyperdepolarization",1362,AO,,,,,,,,N
+"impaired, Hive thermoregulation",568,AO,,,,,,,,N
+"Increase, Chromosomal aberrations",1636,AO,,,,,,,,N
+"Malformation, Male reproductive tract",348,AO,,,,,,,,N
+Irritation of nasal mucosa inducing sneeze reflex,1434,AO,,,,,,,,N
+"increased, Economic Burden",2122,AO,,,,,,,,N
+"Decreased, Population size",997,AO,,,,,,,,N
+"Altered, Larval development",339,AO,,,,,,,,N
+"Alteration, Food-web structures",1210,AO,,,,,,,,N
+"Increased Respiratory irritability and Chronic Cough, ",1226,AO,,,,,,,,N
+"Impaired development of, Reproductive organs",364,AO,,,,,,,,N
+"Inhibition, Feeding",1016,AO,,,,,,,,N
+Inadequate DNA repair,155,KE,,,,,,,,N
+Activation of Cyp2E1,1391,KE,,,,,,,,N
+DNA double-strand break ,1461,KE,,,,,,,,N
+"Decrease, Photosystem II efficiency",1862,KE,,,,,,,,N
+"Releasing, Apoptosis-Inducing Factor (AIF)",2031,KE,,,,,,,,N
+"Increased, serotonin (5-HT) ",626,KE,,,,,,,,N
+"Increased, muscular waves in foot",625,KE,,,,,,,,N
+"Increased, valve movement",1142,KE,,,,,,,,N
+"Decrease, dihydrotestosterone (DHT) level",1613,KE,,,,,,,,N
+Mitochondrial dysfunction,1816,KE,,,,,,,,N
+"Abnormal, Roll change within caste",564,KE,,,,,,,,N
+"Downregulation, ACE2",1787,KE,,,,,,,,N
+Acetylcholine accumulation in synapses,10,KE,,,,,,,,N
+Peptide Oxidation,209,KE,,,,,,,,N
+"Increase, intracellular calcium",1339,KE,,,,,,,,N
+"Increase, Inflammation",149,KE,,,,,,,,N
+Epigenetic modification process,2152,KE,,,,,,,,N
+Activation of inflammation pathway,2009,KE,,,,,,,,N
+Oxidation of membrane lipids,1594,KE,,,,,,,,N
+"Increased, Oxidative Stress",1088,KE,,,,,,,,N
+"Increased, Induced Mutations in Critical Genes",376,KE,,,,,,,,N
+"Induction, Upregulation of glucuronyltransferase activity",295,KE,,,,,,,,N
+"Induction, CYP1A2/CYP1A5",850,KE,,,,,,,,N
+"Suppression, VLDL secretion",450,KE,,,,,,,,N
+"Up Regulation, CYP1A1",80,KE,,,,,,,,N
+"dimerization, AHR/ARNT",944,KE,,,,,,,,N
+"Activation, AKT2",484,KE,,,,,,,,N
+"Increased, Estrogen receptor (ER) activity",748,KE,,,,,,,,N
+"Decreased, Binding of NE to NE receptors on GnRH neurons",848,KE,,,,,,,,N
+"Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)",708,KE,,,,,,,,N
+"Altered, Action Potential",698,KE,,,,,,,,N
+"Altered, Transcription of genes by the androgen receptor",286,KE,,,,,,,,N
+"Decrease, androgen receptor activation",1614,KE,,,,,,,,N
+"Increase, cell proliferation (hepatocytes)",716,KE,,,,,,,,N
+"Increased, Differentiation to Testis ",1790,KE,,,,,,,,N
+"Increase, Gonadotropins concentration in plasma",2137,KE,,,,,,,,N
+"Reduction, Gonadotropins, circulating concentrations",129,KE,,,,,,,,N
+"Alteration, Wnt pathway",310,KE,,,,,,,,N
+"Increased, Reactive oxygen species",1115,KE,,,,,,,,N
+"Decrease, Smoothend relocation and activation ",2044,KE,,,,,,,,N
+"stabilization, PPAR alpha co-repressor",1000,KE,,,,,,,,N
+"Decreased, Dopaminergic activity",1083,KE,,,,,,,,N
+"Under carboxylated clotting factors will not assemble on cell surfaces to form clot, Failure of secondary hemostasis  ",1122,KE,,,,,,,,N
+"Decreased, Ovarian E2",1045,KE,,,,,,,,N
+"Cell cycle, disrupted",1505,KE,,,,,,,,N
+Urothelial cell injury/death,1762,KE,,,,,,,,N
+Mitochondrial impairment,1261,KE,,,,,,,,N
+Oxidative Stress ,1392,KE,,,,,,,,N
+"Reduction, Plasma 17beta-estradiol concentrations",219,KE,,,,,,,,N
+"reduction in ovarian granulosa cells synthesis of estradiol, Reduced steroidogenic production of estradiol in granulosa cells",965,KE,,,,,,,,N
+"Reduction, 17beta-estradiol synthesis by the undifferentiated gonad ",1789,KE,,,,,,,,N
+"Activation, AhR",18,KE,,,,,,,,N
+"Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway",17,KE,,,,,,,,N
+"Altered gene expression, NF-kB dependent Interleukin-6 pathway",1921,KE,,,,,,,,N
+"Altered gene expression, NRF2 dependent antioxidant pathway",1917,KE,,,,,,,,N
+"Altered gene expression, TGF-β dependent fibrosis pathway",1920,KE,,,,,,,,N
+"prolonged, Depolarization of neuronal membrane",599,KE,,,,,,,,N
+"Increased activity, beta-2 adrenergic receptor",1039,KE,,,,,,,,N
+"N/A, Mitochondrial dysfunction 1",177,KE,,,,,,,,N
+"Overactivation, NMDARs",388,KE,,,,,,,,N
+Decreased protection against oxidative stress,1538,KE,,,,,,,,N
+"Oxidation, Glutathione (To be considered with MIE)",926,KE,,,,,,,,N
+Influenza A virus (IAV) cell entry,2159,KE,,,,,,,,N
+"Dysregulation, ACE2 expression and activity",1854,KE,,,,,,,,N
+Neuroinflammation,188,KE,,,,,,,,N
+SARS-CoV-2 cell entry ,1738,KE,,,,,,,,N
+Induction of GATA3 expression,1711,KE,,,,,,,,N
+"Disrupted binding, laminin-beta1-integrin receptors with laminin",2110,KE,,,,,,,,N
+"Reduction, Ionotropic GABA receptor chloride channel conductance",64,KE,,,,,,,,N
+"Increase, Cell membrane depolarization",1527,KE,,,,,,,,N
+"Increase, Ca++ (intracellular)",50,KE,,,,,,,,N
+Reduced complex sphingolipids,2024,KE,,,,,,,,N
+"Disruption, Microtubule dynamics",720,KE,,,,,,,,N
+"Decrease, Cuticular chitin content",1523,KE,,,,,,,,N
+"Decrease, Digestion of old cuticle",996,KE,,,,,,,,N
+"Activation of specific nuclear receptors, Transcriptional change",288,KE,,,,,,,,N
+"Decreased, Calcium influx",52,KE,,,,,,,,N
+"Inhibition, NMDARs",195,KE,,,,,,,,N
+"Increase, Regenerative cell proliferation (hepatocytes)",787,KE,,,,,,,,N
+"persistent, cytotoxicity (pleura or peritoneum)",1086,KE,,,,,,,,N
+"Increased, glutamate",1350,KE,,,,,,,,N
+"Displacement, Serum thyroxine (T4) from carrier protein",1830,KE,,,,,,,,N
+"Altered gene expression specific to CAR activation, Hepatocytes",1214,KE,,,,,,,,N
+"Increased, secretion of proinflammatory mediators",1496,KE,,,,,,,,N
+"Activation, Keratinocytes",826,KE,,,,,,,,N
+"Decreased, Prostaglandin F2alpha concentration, plasma ",1104,KE,,,,,,,,N
+"Reduction, Prostaglandin E2 concentration",243,KE,,,,,,,,N
+"Decrease, Ovulation",488,KE,,,,,,,,N
+"Reduced, Prostaglandin F2alpha concentration, plasma ",671,KE,,,,,,,,N
+"Reduced, Ability to attract spawning mates",674,KE,,,,,,,,N
+"Reduced, Prostaglandin E2 concentration, hypothalamus",687,KE,,,,,,,,N
+Oxidative Stress in Brain,1510,KE,,,,,,,,N
+"Increase, Cell death",1825,KE,,,,,,,,N
+"Increase, Necrosis (terminal bronchiolar cells)",733,KE,,,,,,,,N
+"Increase, Regenerative cell proliferation (tubular epithelial cells)",710,KE,,,,,,,,N
+"Decreased, Glucose oxidase enzyme activity",578,KE,,,,,,,,N
+"Decreased, Testosterone binding to androgen receptor (hypothalamus)",743,KE,,,,,,,,N
+"Decrease, palatal shelf outgrowth",2041,KE,,,,,,,,N
+"Decrease, Sonic Hedgehog second messenger production",2043,KE,,,,,,,,N
+"Reduction, Testosterone synthesis in Leydig cells",413,KE,,,,,,,,N
+"Decreased, Triiodothyronine (T3)",1003,KE,,,,,,,,N
+Activation of PPAR,2165,KE,,,,,,,,N
+Increase in reactive oxygen and nitrogen species (RONS),1632,KE,,,,,,,,N
+"Increase, DNA strand breaks",1635,KE,,,,,,,,N
+Increased Modified Proteins,2081,KE,,,,,,,,N
+"Increase, Reactive Oxygen Species production",257,KE,,,,,,,,N
+"Increase, Reactive oxygen species",1364,KE,,,,,,,,N
+"Reduction, Angiogenesis",28,KE,,,,,,,,N
+"Decrease, Global DNA methylation",1773,KE,,,,,,,,N
+"Increase, DNA double-strand break",1766,KE,,,,,,,,N
+"Decrease, dopa decarboxylase",2052,KE,,,,,,,,N
+"Thyroid hormone synthesis, Decreased",277,KE,,,,,,,,N
+increased MyD88 activation,1897,KE,,,,,,,,N
+"Activation, estrogen receptor alpha",1065,KE,,,,,,,,N
+"Increase, Nuclear receptor E75b gene expression",1264,KE,,,,,,,,N
+"Increase, goblet cell number",2117,KE,,,,,,,,N
+"Disruption, Lysosome",898,KE,,,,,,,,N
+Endothelial cell dysfunction ,1913,KE,,,,,,,,N
+"Activation of specific nuclear receptors, PPAR-gamma activation",1028,KE,,,,,,,,N
+"Increased, Vitellogenin synthesis",418,KE,,,,,,,,N
+"Increased, recruitment of inflammatory cells",1497,KE,,,,,,,,N
+"Decreased, Mitochondrial fatty acid beta-oxidation",179,KE,,,,,,,,N
+"Increase, Cell Proliferation (Epithelial Cells)",1182,KE,,,,,,,,N
+"Increased, Kisspeptin signalling",1985,KE,,,,,,,,N
+"Reduction, Vitellogenin synthesis in liver",285,KE,,,,,,,,N
+"Decreased, Sodium conductance 1",585,KE,,,,,,,,N
+"Increase, Protein oxidation",1767,KE,,,,,,,,N
+"Decrease, Mitochondrial membrane potential",1770,KE,,,,,,,,N
+"Increased, Lipid peroxidation",1445,KE,,,,,,,,N
+"Increase, Oxidative DNA damage",1608,KE,,,,,,,,N
+"Release, Cytokine",87,KE,,,,,,,,N
+"Activation, PI3K",1310,KE,,,,,,,,N
+"Inhibition, PTGS-1 (Prostaglandin-endoperoxide synthase 1)",1368,KE,,,,,,,,N
+Repressed expression of steroidogenic enzymes ,495,KE,,,,,,,,N
+"Decrease, Acyl-CoA dehydrogenases",1834,KE,,,,,,,,N
+"Inhibition, Nuclear factor kappa B (NF-kB)",202,KE,,,,,,,,N
+"Increase, Cripto-1 expression",1759,KE,,,,,,,,N
+"Increased, Chloride conductance",761,KE,,,,,,,,N
+"Increased, Neuronal synaptic inhibition",1015,KE,,,,,,,,N
+"Depletion, GSH",130,KE,,,,,,,,N
+"Decreased, GnRH pulsatility/release in hypothalamus",1071,KE,,,,,,,,N
+Repression of Gbx2 expression,1902,KE,,,,,,,,N
+"Increase, ammonium (NH4+)",1384,KE,,,,,,,,N
+"Increased, Hepatic thyroid hormone uptake/transport",1158,KE,,,,,,,,N
+Inhibition of rapid delayed rectifying potassium current ,2100,KE,,,,,,,,N
+"Decrease, histaminergic neuron excitation",633,KE,,,,,,,,N
+"Histone acetylation, increase",1503,KE,,,,,,,,N
+"Neural crest cell migration, reduced",1557,KE,,,,,,,,N
+"Decreased, mevalonate",805,KE,,,,,,,,N
+"Increased, Plasma tyrosine",775,KE,,,,,,,,N
+Increased Angiotensin II ,1752,KE,,,,,,,,N
+"Increased, secretion of GnRH from hypothalamus",1047,KE,,,,,,,,N
+Premature initiation of meiosis in fetal male germ cells,1889,KE,,,,,,,,N
+Tissue resident cell activation,1492,KE,,,,,,,,N
+"Decreased, Prolactin",747,KE,,,,,,,,N
+Increased intracelluar Iron accumulation,2149,KE,,,,,,,,N
+"Increase, Energetic demands and therefore metabolic stress",573,KE,,,,,,,,N
+"Decrease, GLUT4",1949,KE,,,,,,,,N
+Porcupine-induced Wnt secretion and Wnt signaling activation,1754,KE,,,,,,,,N
+Cortisol and 11β-(OH) testosterone decreased,1835,KE,,,,,,,,N
+"Reduction, 17-OH-pregnenolone conversion in DHEA",1610,KE,,,,,,,,N
+"Increased, Leutinizing hormone (LH)",791,KE,,,,,,,,N
+"Decreased, all-trans retinoic acid (atRA) concentration",1881,KE,,,,,,,,N
+Increase plasma Ang II,1743,KE,,,,,,,,N
+"Interference, nuclear localization of NFAT",979,KE,,,,,,,,N
+"Inhibition, NADH-ubiquinone oxidoreductase  (complex I)",887,KE,,,,,,,,N
+"7α-hydroxypregnenolone synthesis in the brain, decreased",1387,KE,,,,,,,,N
+Increased Homocysteine level ,1661,KE,,,,,,,,N
+"Increase, cytosolic fatty acid",1305,KE,,,,,,,,N
+Inhibition of Plxna2,1885,KE,,,,,,,,N
+"Production, Critical Metabolites (CGA 330050 and CGA 265307)",77,KE,,,,,,,,N
+Blockade of STAT5 phosphorylation,1716,KE,,,,,,,,N
+Inhibition of lysyl oxidase,1463,KE,,,,,,,,N
+"Depletion, mtDNA ",1482,KE,,,,,,,,N
+"Increase, Oxidative Stress",1969,KE,,,,,,,,N
+Accumulation of misfolded proteins,1605,KE,,,,,,,,N
+Decrease of Thyroidal iodide,425,KE,,,,,,,,N
+"Increase, Cytotoxicity",768,KE,,,,,,,,N
+"Altered, Photoreceptor patterning",1640,KE,,,,,,,,N
+Reduction of L-Dopaquinone,1628,KE,,,,,,,,N
+Disruption of sodium channel gating kinetics,1977,KE,,,,,,,,N
+"Displacement, Serum thyroxine (T4) from transthyretin",958,KE,,,,,,,,N
+"Increase, Tissue Degeneration, Necrosis & Atrophy ",868,KE,,,,,,,,N
+"Increased, Inhibitory postsynaptic potential",1012,KE,,,,,,,,N
+"Activation, JAK/STAT pathway",1282,KE,,,,,,,,N
+"Induction, Doublesex1 gene",1206,KE,,,,,,,,N
+" Thyroxine (T4) in serum, Decreased",281,KE,,,,,,,,N
+"Inhibition, Mitochondrial Electron Transport Chain Complexes",105,KE,,,,,,,,N
+"N/A, Unknown",294,KE,,,,,,,,N
+"Decrease, knickkopf gene",2059,KE,,,,,,,,N
+"Decrease, Calcium currents",1530,KE,,,,,,,,N
+"Increase, Differentiation of fibroblasts",1456,KE,,,,,,,,N
+Alveolar collapse,1673,KE,,,,,,,,N
+"Reduction, Progesterone synthesis",1692,KE,,,,,,,,N
+"Up Regulation, CD36",54,KE,,,,,,,,N
+"Reduced, BDNF (Brain-derived neurotrophic factor)",1335,KE,,,,,,,,N
+Disturbance in microtubule dynamic instability,1581,KE,,,,,,,,N
+"Decrease, Adenosine triphosphate pool",1771,KE,,,,,,,,N
+Decrease in mitochondrial oxidative phosphorylation,1545,KE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Increased COUP-TFII in fetal Leydig cells",655,KE,,,,,,,,N
+"Decreased Cholesterol, Decreased Testosterone Production by Adult Leydig Cells",645,KE,,,,,,,,N
+"Apoptosis of adult Leydig cells, Decreased testosterone by adult Leydig cells",525,KE,,,,,,,,N
+"Decreased steroidogenesis, Decreased Activity of Steroidogenic Enzymes in Adult Leydig cells",647,KE,,,,,,,,N
+"Activated, presynaptic neuron 1",1349,KE,,,,,,,,N
+Release of G Proteins,1426,KE,,,,,,,,N
+ROS formation,1278,KE,,,,,,,,N
+"Disruption, Membrane integrity",169,KE,,,,,,,,N
+"Inhibit, serotonin transporter activity",1316,KE,,,,,,,,N
+"Reduced, FXR activity",1419,KE,,,,,,,,N
+"Activation, SHP",480,KE,,,,,,,,N
+"Desensitization, Nicotinic acetylcholine receptor",663,KE,,,,,,,,N
+"Abnormal, Role change within caste",1108,KE,,,,,,,,N
+"Increased, Energetic demands and therefore metabolic stress",1110,KE,,,,,,,,N
+"Inhibition, FoxA2",471,KE,,,,,,,,N
+"Activation, SREBF1",457,KE,,,,,,,,N
+"Activation, HIF1α",2162,KE,,,,,,,,N
+"Reduced, platelet aggregation",1403,KE,,,,,,,,N
+"Decreased, angiogenesis",1409,KE,,,,,,,,N
+"Increased, blood uric acid concentration",1096,KE,,,,,,,,N
+"Altered regulation, Alpha hemoglobin",21,KE,,,,,,,,N
+"Cilia Beat Frequency, Decreased",1908,KE,,,,,,,,N
+"Cystic Fibrosis Transmembrane Regulator Function, Decreased",1906,KE,,,,,,,,N
+"FOXJ1 Protein, Decreased",1911,KE,,,,,,,,N
+"KE1 : S-Glutathionylation, eNOS",927,KE,,,,,,,,N
+"Accumulation, Fatty acid",327,KE,,,,,,,,N
+Activation of TGF-β signaling,1271,KE,,,,,,,,N
+"Up Regulation, SREBF2",1284,KE,,,,,,,,N
+"Damage, Lipid bilayer",829,KE,,,,,,,,N
+Endoplasmic reticulum stress,2017,KE,,,,,,,,N
+"Increased, PPAR-alpha activation",1057,KE,,,,,,,,N
+"Decreased, cholesterol",807,KE,,,,,,,,N
+"Increased, adipogenesis",1029,KE,,,,,,,,N
+"Decrease, Steroidogenic acute regulatory protein (STAR)",266,KE,,,,,,,,N
+"Increase, Phenotypic enzyme activity",1170,KE,,,,,,,,N
+"Increase, Luteinizing hormone (LH) ",414,KE,,,,,,,,N
+"Decreased, GABA",1414,KE,,,,,,,,N
+"Increased, HIF-1 heterodimer",799,KE,,,,,,,,N
+Cell injury/death,55,KE,,,,,,,,N
+"Weakened, Colony",1107,KE,,,,,,,,N
+"Decreased, PPAR-gamma activation",233,KE,,,,,,,,N
+"Disturbance, Lysosomal function",831,KE,,,,,,,,N
+"Decreased, LH Surge",531,KE,,,,,,,,N
+"Decrease, ATP production",1472,KE,,,,,,,,N
+"Dysfunction, Mitochondria ",1483,KE,,,,,,,,N
+"Increased, serotonin transporter activity",1397,KE,,,,,,,,N
+"Increased, intracellular serotonin",1398,KE,,,,,,,,N
+"Increased, extracellular serotonin",1320,KE,,,,,,,,N
+"Decreased, sodium conductance 2",1176,KE,,,,,,,,N
+"Increased, Atrioventricular block and bradycardia",444,KE,,,,,,,,N
+"Decreased, intracellular serotonin",1323,KE,,,,,,,,N
+Maturation of TNF/iNOS-Producing Dendritic Cells,1822,KE,,,,,,,,N
+"Superoxide generation, increased",2120,KE,,,,,,,,N
+"Increased, estrogens ",1973,KE,,,,,,,,N
+"Suppression, Immune system",403,KE,,,,,,,,N
+"N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects",139,KE,,,,,,,,N
+"Disruption, Neural crest cell migration",1681,KE,,,,,,,,N
+liver dysfunction,2034,KE,,,,,,,,N
+"Decreased, thyroid hormone binding to thyroid hormone receptor",2104,KE,,,,,,,,N
+"Hippocampal gene expression, Altered ",756,KE,,,,,,,,N
+"Activation, JNK",1292,KE,,,,,,,,N
+Increased intestinal monitor peptide level,1721,KE,,,,,,,,N
+"Decreased, Triiodothyronine (T3) in tissues",1116,KE,,,,,,,,N
+"Increased, Triiodothyronine (T3) in tissues",1154,KE,,,,,,,,N
+"Increase, Glycolysis",2070,KE,,,,,,,,N
+"Increase, Cytosolic calcium",2064,KE,,,,,,,,N
+"Increase, Mitochondrial swelling",2072,KE,,,,,,,,N
+"Altered, cholesterol metabolism",2115,KE,,,,,,,,N
+"Increase, Cytotoxicity (urothelial cells)",794,KE,,,,,,,,N
+"Abnormal, Foraging activity and behavior",560,KE,,,,,,,,N
+"Increased, Deformed Wing Virus levels",1109,KE,,,,,,,,N
+"Opening of calcium channel, Calcium influx",1218,KE,,,,,,,,N
+"Decreased, Synthesis of NE",528,KE,,,,,,,,N
+Proteasomal dysfunction,1585,KE,,,,,,,,N
+"Decreased,  plasma 11-ketotestosterone level",1756,KE,,,,,,,,N
+ MLL chromosomal translocation,1253,KE,,,,,,,,N
+"Decrease, Photosynthesis",1475,KE,,,,,,,,N
+"Decreased, anxiety",627,KE,,,,,,,,N
+"Increased, water retention in foot",1139,KE,,,,,,,,N
+"Increased, oocyte maturation",1161,KE,,,,,,,,N
+"Increase, cilia movement",621,KE,,,,,,,,N
+"Reduced, Brood care",565,KE,,,,,,,,N
+Angiotensin (1-7) levels diminished,1935,KE,,,,,,,,N
+Increased Cholinergic Signaling,39,KE,,,,,,,,N
+"Activation, Muscarinic Acetylcholine Receptors",1602,KE,,,,,,,,N
+"Disruption, neurotransmitter release",2151,KE,,,,,,,,N
+"Increase, Mitochondrial Dysfunction",1968,KE,,,,,,,,N
+"Expression of factors ruling proliferation, modified",2153,KE,,,,,,,,N
+Oxidation/denatuation of membrane proteins,1595,KE,,,,,,,,N
+"Metabolism of AFB1, Production of Reactive Electrophiles",409,KE,,,,,,,,N
+"Increased, Clearance of thyroxine from serum",961,KE,,,,,,,,N
+"Inhibition, Mitochondrial fatty acid beta-oxidation",451,KE,,,,,,,,N
+"reduced dimerization, ARNT/HIF1-alpha",945,KE,,,,,,,,N
+"Increase, Vitellogenin mRNA",2046,KE,,,,,,,,N
+"Decreased, GnRH cfos activity",529,KE,,,,,,,,N
+"Increase, Cytotoxicity (renal tubular cell)",709,KE,,,,,,,,N
+"Increased, cardiac arrthymia",699,KE,,,,,,,,N
+"Granulosa cell proliferation of gonadotropin-independent follicles, Reduced",1800,KE,,,,,,,,N
+"decrease, transcription of genes by AR ",1687,KE,,,,,,,,N
+"Increase, Preneoplastic foci (hepatocytes)",774,KE,,,,,,,,N
+"Increase, Androgen receptor",2134,KE,,,,,,,,N
+"Increased, Male Biased Sex Ratio",1791,KE,,,,,,,,N
+"Reduction,Testosterone concentration in plasma",2138,KE,,,,,,,,N
+"Reduction, Testosterone synthesis by ovarian theca cells",274,KE,,,,,,,,N
+"Feminisation or incomplete development, Primary and accessory male sex organs",240,KE,,,,,,,,N
+"Increased activation, Nuclear factor kappa B (NF-kB)",1172,KE,,,,,,,,N
+"Decrease, GLI1/2 translocation to nucleus ",2028,KE,,,,,,,,N
+"Decreased, PPARalpha transactivation of gene expression",858,KE,,,,,,,,N
+"Increased, prolactin secretion",1084,KE,,,,,,,,N
+"Failure in vascular repair mechanisms, Unresolved blood loss (hemorrhage)",1130,KE,,,,,,,,N
+"Suppression, Estrogen receptor (ER) activity",1046,KE,,,,,,,,N
+"Altered, Thyroid hormone-dependent gene expression",1829,KE,,,,,,,,N
+"Increase, Regenerative cell proliferation (urothelial cells)",795,KE,,,,,,,,N
+"Reduction, 17beta-estradiol synthesis by ovarian granulosa cells",3,KE,,,,,,,,N
+"Reduced Estradiol in Circulation, Reduced steroidogenic production of estradiol in granulosa cells leading to decreased estradiol in circulation",966,KE,,,,,,,,N
+"Increase, slincR expression",2021,KE,,,,,,,,N
+"Increase, COX-2 expression",1269,KE,,,,,,,,N
+"Altered gene expression, P53 dependent apoptosis pathway",1923,KE,,,,,,,,N
+"Increased, Reactive metabolites production",1922,KE,,,,,,,,N
+"Increased, Interleukin-6 production",1933,KE,,,,,,,,N
+"Increase, Cell Proliferation",870,KE,,,,,,,,N
+"Induction, Epithelial Mesenchymal Transition",1457,KE,,,,,,,,N
+"Oxidation, Uroporphyrinogen",844,KE,,,,,,,,N
+"Overactivation, Neuronotransmitter release",600,KE,,,,,,,,N
+"relaxation, smooth muscle",1040,KE,,,,,,,,N
+"Increased, Intracellular Calcium overload",389,KE,,,,,,,,N
+Influenza A Virus production increased,2192,KE,,,,,,,,N
+"Gut microbiota, alteration",1954,KE,,,,,,,,N
+blood brain barrier disruption ,1874,KE,,,,,,,,N
+"Interferon-I antiviral response, antagonized by SARS-CoV-2",1901,KE,,,,,,,,N
+Increase of Th2 cells producing IL-4,1712,KE,,,,,,,,N
+"Decreased, neural progenitor cell adhesion to laminin",2111,KE,,,,,,,,N
+"Reduction, Neuronal synaptic inhibition",669,KE,,,,,,,,N
+"Disruption, Mitochondrial electron transport chain",178,KE,,,,,,,,N
+Affected folate transporter,2025,KE,,,,,,,,N
+"Disorganization, Meiotic Spindle",721,KE,,,,,,,,N
+"Increase, Premature molting",1524,KE,,,,,,,,N
+"Bile accumulation, Pathological condition",214,KE,,,,,,,,N
+"Increased, inflammation",1087,KE,,,,,,,,N
+"decreased, Bcl-2 expression",2123,KE,,,,,,,,N
+"Increased, Free serum thyroxine (T4)",959,KE,,,,,,,,N
+"Activation, Dendritic Cells",398,KE,,,,,,,,N
+"Occurrence, renal ischemia",1105,KE,,,,,,,,N
+"Reduction, Ca and HCO3 transport to shell gland",49,KE,,,,,,,,N
+"Reduced, Prostaglandins, ovary",685,KE,,,,,,,,N
+"Reduced, Prostaglandin F2alpha synthesis, ovary  ",672,KE,,,,,,,,N
+"Reduced, Pheromone release",678,KE,,,,,,,,N
+"Reduced, Gonadotropin releasing hormone, hypothalamus",689,KE,,,,,,,,N
+Lipid Peroxidation,1511,KE,,,,,,,,N
+Hepatocytotoxicity,1393,KE,,,,,,,,N
+"Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)",734,KE,,,,,,,,N
+"Increase, Hyperplasia (tubular epithelial cells)",784,KE,,,,,,,,N
+"Decreased, Hydrogen peroxide production",579,KE,,,,,,,,N
+"Increase, Hyperplasia (Leydig cells)",744,KE,,,,,,,,N
+"Decrease, Cell proliferation",1821,KE,,,,,,,,N
+"Decrease, testosterone levels ",1690,KE,,,,,,,,N
+"Reduced, Anterior swim bladder inflation",1007,KE,,,,,,,,N
+"Reduced, Posterior swim bladder inflation",1004,KE,,,,,,,,N
+Altered Signaling Pathways,2066,KE,,,,,,,,N
+"Increase, Oxidative damage to DNA",1634,KE,,,,,,,,N
+"Increase, Follicular atresia",1444,KE,,,,,,,,N
+"Increase, Oocyte apoptosis",1775,KE,,,,,,,,N
+"Increase, Programmed cell death",1864,KE,,,,,,,,N
+"Altered, Meiotic chromosome dynamics",752,KE,,,,,,,,N
+"Increase, D1 protein deactivation",1861,KE,,,,,,,,N
+"Impairment, Endothelial network",110,KE,,,,,,,,N
+"Increase, Caspase transcription",1774,KE,,,,,,,,N
+"Decrease, Heritable DNA methylation (F3)",1778,KE,,,,,,,,N
+"Increase, Defects in tanning of new cuticle",2053,KE,,,,,,,,N
+"NLRP3 inflammasome activity, increased",1895,KE,,,,,,,,N
+"Promotion, SIX-1 postive basal-type progenitor cells",1066,KE,,,,,,,,N
+"Increase, Fushi tarazu factor-1 gene expression",1265,KE,,,,,,,,N
+"Increase, Mucin production",962,KE,,,,,,,,N
+"Increase, DNA methyltransferase expression",1697,KE,,,,,,,,N
+increase oxidation of the di-copper moiety of the hemocyanin active site ,2073,KE,,,,,,,,N
+activation of CCAAT/enhancer-binding protein alpha,1448,KE,,,,,,,,N
+"Increase, Regenerative cell proliferation (forestomach epithelial cells)",781,KE,,,,,,,,N
+"Increase, Plasma vitellogenin concentrations",220,KE,,,,,,,,N
+"Decreased, Apoptosis (Epithelial Cells)",1183,KE,,,,,,,,N
+"Decreased, Gonadotropins",1986,KE,,,,,,,,N
+"Reduction, Plasma vitellogenin concentrations",221,KE,,,,,,,,N
+"Reduced, swimming speed",586,KE,,,,,,,,N
+Decrease of neuronal network function,386,KE,,,,,,,,N
+"Increase, Abnormal osmoregulation",1768,KE,,,,,,,,N
+"Decrease, Oxidative phosphorylation",1477,KE,,,,,,,,N
+"Decrease, Neutral lipids",1772,KE,,,,,,,,N
+"Increase, Apoptosis",1365,KE,,,,,,,,N
+"Activation, AKT",1299,KE,,,,,,,,N
+"Activation, PTGS-1 (Prostaglandin-endoperoxide synthase 1)",1369,KE,,,,,,,,N
+"Increased apoptosis, decreased fetal/adult Leydig Cells ",496,KE,,,,,,,,N
+"Decreased, Mitochondrial Fatty Acid Beta Oxidation",860,KE,,,,,,,,N
+"Suppression, Inflammatory cytokines",152,KE,,,,,,,,N
+"Inhibition, Activin signaling",1760,KE,,,,,,,,N
+"hyperpolarisation, neuron",763,KE,,,,,,,,N
+"Decreased, LH Surge from anterior pituitary",1072,KE,,,,,,,,N
+"foxi1 expression, increased",1903,KE,,,,,,,,N
+"Activate, phospholipase",1383,KE,,,,,,,,N
+Prolongation of Action Potential Duration,1961,KE,,,,,,,,N
+"N/A, sedation",634,KE,,,,,,,,N
+"Collagen production, reduced",1558,KE,,,,,,,,N
+"Altered, Gene Expression",1239,KE,,,,,,,,N
+"Increase, Cytotoxicity (corneal cells)",776,KE,,,,,,,,N
+Increased Ang II type 1 receptor (AT1R),1852,KE,,,,,,,,N
+"Increased, secretion of LH from anterior pituitary",1050,KE,,,,,,,,N
+"Activation, Caspase 8 pathway",1575,KE,,,,,,,,N
+Activation of ER stress,1815,KE,,,,,,,,N
+Suppression of  T cell activation,1702,KE,,,,,,,,N
+Decrease (loss of) fetal male germ cells,1890,KE,,,,,,,,N
+Increased Pro-inflammatory mediators,1493,KE,,,,,,,,N
+Neuronal dysfunction,191,KE,,,,,,,,N
+"Increased, Appetite and hunger",574,KE,,,,,,,,N
+Diminished protective oxidative stress response,1869,KE,,,,,,,,N
+"Decrease, Glucose uptake",1951,KE,,,,,,,,N
+beta-catenin activation,1755,KE,,,,,,,,N
+"Reduction, 17-OH-progesterone conversion in androstenedione",1611,KE,,,,,,,,N
+Disrupted meiotic initiation of fetal oogonia of the ovary,1882,KE,,,,,,,,N
+"Reduction, NFAT/AP-1 complex formation",981,KE,,,,,,,,N
+"Dopamine release in the brain, decreased",1388,KE,,,,,,,,N
+"Increased, Plasma HCY level",1665,KE,,,,,,,,N
+Overexpression of rasl11b,1886,KE,,,,,,,,N
+"Induction, Liver “Dysfunctional” Changes by CGA 330050",164,KE,,,,,,,,N
+Suppression of STAT5 binding to cytokine gene promoters,1717,KE,,,,,,,,N
+Reduction of collagen crosslinking,1464,KE,,,,,,,,N
+Unfolded Protein Response,1512,KE,,,,,,,,N
+"Disruption, Progenitor cells of second heart field",1682,KE,,,,,,,,N
+Decreased retinoic acid (RA) synthesis,1641,KE,,,,,,,,N
+Reduction in melanin level,1629,KE,,,,,,,,N
+"Disruption, action potential",1983,KE,,,,,,,,N
+"Decreased, oligodendrocyte differentiation",2116,KE,,,,,,,,N
+Activation of Tumor Protein 53,1974,KE,,,,,,,,N
+"Induction, Somatic muscle paralysis",1014,KE,,,,,,,,N
+"Activation, TGF-beta pathway",1283,KE,,,,,,,,N
+"Induction, Male reproductive tract",1209,KE,,,,,,,,N
+"Increased, Serum creatinine",813,KE,,,,,,,,N
+"Decrease, Chitin laminar organization",2060,KE,,,,,,,,N
+"Decrease, Calcium binding to Troponin C",1531,KE,,,,,,,,N
+Loss of alveolar capillary membrane integrity,1498,KE,,,,,,,,N
+"Reduction, Plasma progesterone concentration ",1693,KE,,,,,,,,N
+"Increase, FA Influx",115,KE,,,,,,,,N
+"Reduce expression, BDNF (Brain-derived neurotrophic factor)",1329,KE,,,,,,,,N
+"Decreased, neuroplasticity",1330,KE,,,,,,,,N
+Impaired axonial transport,1582,KE,,,,,,,,N
+Increased reactive oxygen species (in the mitochondria),1546,KE,,,,,,,,N
+"Decrease, Mitochondrial ATP production",40,KE,,,,,,,,N
+"Decreased number and function of adult Leydig cells, Decreased COUP-TFII stem Leydig cells",656,KE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Dysgenesis of fetal Leydig cells",657,KE,,,,,,,,N
+"decreased testosterone by fetal Leydig cells, Dysgenesis of fetal Leydig cells",660,KE,,,,,,,,N
+"Glucocorticoid Receptor mediated alterations in steriodogenic enzymes, Decreased testosterone by adult Leydig cells",651,KE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Dysgensis of fetal Leydig cells",540,KE,,,,,,,,N
+"Decreased steroidogenesis, Increased Apoptosis of Adult Leydig Cells",648,KE,,,,,,,,N
+Inhibition of N-type Ca ion channels,1429,KE,,,,,,,,N
+Opening of G protein gated inward rectifying K channels,1427,KE,,,,,,,,N
+"Increase, Oxidative Stress / Activation, PMK-1 P38 MAPK",1279,KE,,,,,,,,N
+"Decreased, serotonin transporter activity",1317,KE,,,,,,,,N
+"Reduced, SHP activity",1420,KE,,,,,,,,N
+"Activation, PPARα",227,KE,,,,,,,,N
+"Accumulation, Damaged mitochondrial DNA",570,KE,,,,,,,,N
+"Altered, Ca2+-calmodulin activated signal transduction",1243,KE,,,,,,,,N
+"Activation, ChREBP",66,KE,,,,,,,,N
+Activation Sema6A,2163,KE,,,,,,,,N
+"Decreased, mucosal blood flow",1404,KE,,,,,,,,N
+"Increased, leukocyte adherence",1410,KE,,,,,,,,N
+"Occurrence, renal proximal tubular necrosis",1097,KE,,,,,,,,N
+"Propagation, Oxidative stress",211,KE,,,,,,,,N
+"Mucociliary Clearance, Decreased",1909,KE,,,,,,,,N
+"Airway Surface Liquid Height, Decreased ",1907,KE,,,,,,,,N
+"Motile Cilia Number/Length, Decreased",1912,KE,,,,,,,,N
+"KE2 : Decrease, GTPCH-1",935,KE,,,,,,,,N
+"Decreased, HSD17B10 expression",140,KE,,,,,,,,N
+"Up Regulation, Unsaturated fatty acid",1285,KE,,,,,,,,N
+"Decreased, bile flow",1058,KE,,,,,,,,N
+"Increased, secretion of local growth factors",1032,KE,,,,,,,,N
+"Reduction, Cholesterol transport in mitochondria",447,KE,,,,,,,,N
+"Hyperplasia, Leydig cell",415,KE,,,,,,,,N
+"Activated, NMDA receptor",1351,KE,,,,,,,,N
+"Reduced, GABA-A receptor activation",1415,KE,,,,,,,,N
+"Decreased, Aromatase (Cyp19a1) mRNA",800,KE,,,,,,,,N
+"Alteration, lipid metabolism",1060,KE,,,,,,,,N
+"Decrease, Chlorophyll synthesis",1473,KE,,,,,,,,N
+"Increase, Opening of voltage-dependent calcium channel",1526,KE,,,,,,,,N
+Increased SARS-CoV-2 production,1847,KE,,,,,,,,N
+"Increased, packaged serotonin",1399,KE,,,,,,,,N
+"Decreased, extracellular serotonin",1347,KE,,,,,,,,N
+"Decreased, GABA release",1179,KE,,,,,,,,N
+Respiratory distress/arrest,445,KE,,,,,,,,N
+"Decreased, packaged serotonin",1324,KE,,,,,,,,N
+"Increase, IL-23 from matured dendritic cells",1707,KE,,,,,,,,N
+"Transcription of acute phase proteins, Increased",1438,KE,,,,,,,,N
+"Increased, Viral susceptibility",576,KE,,,,,,,,N
+"Changes/Inhibition, Cellular Homeostasis and Apoptosis",853,KE,,,,,,,,N
+"Decrease, Oogenesis",1366,KE,,,,,,,,N
+"Increase, Global DNA methylation",1827,KE,,,,,,,,N
+"Decreased, myelin basic protein expression in oligodendrocytes",2105,KE,,,,,,,,N
+"Decrease, Serum thyroid hormone (T4/T3)",771,KE,,,,,,,,N
+"Hippocampal anatomy, Altered ",757,KE,,,,,,,,N
+Activator protein 1 activation,1793,KE,,,,,,,,N
+Increased blood CCK level,1722,KE,,,,,,,,N
+"Increased, Thyroid-stimulating hormone (TSH)",1023,KE,,,,,,,,N
+Decreased Na/K ATPase activity,1562,KE,,,,,,,,N
+"Decrease, Glucose pool",2071,KE,,,,,,,,N
+"Increased, HIF-1 alpha transcription",802,KE,,,,,,,,N
+Loss of drebrin,2078,KE,,,,,,,,N
+Trigeminal nerve activation,1220,KE,,,,,,,,N
+Airway epithelial injury,1586,KE,,,,,,,,N
+"Impaired, Spermatogenesis",1758,KE,,,,,,,,N
+Increase Chromosomal Aberrations,1554,KE,,,,,,,,N
+"Decreased, sheltering",629,KE,,,,,,,,N
+induced spawning,1255,KE,,,,,,,,N
+increased mantel display,1256,KE,,,,,,,,N
+Induced parturition,1257,KE,,,,,,,,N
+Hyperphosphorylation of Tau,1943,KE,,,,,,,,N
+Angiotensin II degradation reduced,1936,KE,,,,,,,,N
+Impaired coordination and movement,1705,KE,,,,,,,,N
+"Occurrence, Focal Seizure",1623,KE,,,,,,,,N
+"Activation, FOXO",1293,KE,,,,,,,,N
+"Increased, Motility",1241,KE,,,,,,,,N
+"Increase, Hyperplasia (glandular epithelial cells of endometrium)",772,KE,,,,,,,,N
+Epithelial-mesenchymal transition,1650,KE,,,,,,,,N
+"Damaging, Mitochondria",176,KE,,,,,,,,N
+"Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)",491,KE,,,,,,,,N
+"reduced production, VEGF",948,KE,,,,,,,,N
+"Delay, Ovarian maturation",2047,KE,,,,,,,,N
+"Decreased, GnRH pulsatility/release",530,KE,,,,,,,,N
+"Decrease, GLI1/2 target gene expression",2040,KE,,,,,,,,N
+"Fatty Acid Beta Oxidation, Decreased",1528,KE,,,,,,,,N
+"Increased, hyperplasia (mammary gland)",1085,KE,,,,,,,,N
+"Failure in gamma-glutamyl carboxylation of  clotting factors II, VII, IX and X, Under carboxylation of clotting factors (e.g., des-gamma-carboxy prothrombin) ",1131,KE,,,,,,,,N
+systemic inflammatory response syndrome,1844,KE,,,,,,,,N
+"Increase, Hyperplasia (urothelial)",796,KE,,,,,,,,N
+"Decreased positive estrogenic feedback on hypothalamus, Reduced estradiol in circulation decreases estrogen concentration at hypothalamus",967,KE,,,,,,,,N
+"Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development",309,KE,,,,,,,,N
+"Decrease, sox9 expression",2020,KE,,,,,,,,N
+"Altered, Cardiovascular development/function",317,KE,,,,,,,,N
+"Increased, DNA damage and mutation",1669,KE,,,,,,,,N
+"Increased, extracellular matrix deposition",1501,KE,,,,,,,,N
+"Inhibition, UROD",845,KE,,,,,,,,N
+"Overactivation, muscle contraction",601,KE,,,,,,,,N
+"Proliferation/Clonal Expansion, smooth muscle",1042,KE,,,,,,,,N
+Glutamate dyshomeostasis,1488,KE,,,,,,,,N
+Immune mechanisms antagonized by viral proteins,2180,KE,,,,,,,,N
+Imbalanced salty and sweet taste responses,1856,KE,,,,,,,,N
+"Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)",1851,KE,,,,,,,,N
+Increase of anti-DNA antibody from autoreactive B cell,1713,KE,,,,,,,,N
+"Disturbed, radial glia cell alignment and migration",2112,KE,,,,,,,,N
+"Generation, Amplified excitatory postsynaptic potential (EPSP)",682,KE,,,,,,,,N
+Activation of calpain signalling,2038,KE,,,,,,,,N
+decreased folate uptake,2026,KE,,,,,,,,N
+Reduced levels of BDNF,381,KE,,,,,,,,N
+"increased, Bax expression",2124,KE,,,,,,,,N
+"Activation/Proliferation, T-cells",272,KE,,,,,,,,N
+"Reduction, Eggshell thickness",106,KE,,,,,,,,N
+"Reduced, Spawning behavior",673,KE,,,,,,,,N
+"Decreased, Prostaglandin F2alpha synthesis, ovary  ",681,KE,,,,,,,,N
+"Reduced, Luteinizing hormone (LH), plasma ",690,KE,,,,,,,,N
+"Induction, persistent proliferation/sustained proliferation",1394,KE,,,,,,,,N
+"Increase, Hyperplasia (terminal bronchiolar cells)",735,KE,,,,,,,,N
+"Reduced, Antiseptic incorporated in food",580,KE,,,,,,,,N
+"Increased, Luteinizing hormone (LH) ",754,KE,,,,,,,,N
+"Reduced, Swimming performance",1005,KE,,,,,,,,N
+Abnormal expression of NO,2166,KE,,,,,,,,N
+"Increase, Pollen abnormal",1965,KE,,,,,,,,N
+"Insufficiency, Vascular",298,KE,,,,,,,,N
+"Increase, Ovarian somatic cell apoptosis",1776,KE,,,,,,,,N
+"Increase, Caspase transcription (F3)",1779,KE,,,,,,,,N
+"Increase,  impairment of cuticle sclerotization",2054,KE,,,,,,,,N
+"Proliferation/Clonal Expansion, aberrant basal cells",1067,KE,,,,,,,,N
+"Decrease, Circulating ecdysis triggering hormone",988,KE,,,,,,,,N
+"Increase, hypermethylation of the promotor region of gonadotropin releasing hormone receptor",1698,KE,,,,,,,,N
+"Platelet activation, Increased",1914,KE,,,,,,,,N
+"Decreased, oxygen binding capacity by hemocyanin",2074,KE,,,,,,,,N
+increased adipogenesis,1449,KE,,,,,,,,N
+"Increase, Hyperplasia (forestomach epithelial cells)",782,KE,,,,,,,,N
+"Increased, renal vitellogenin deposition",419,KE,,,,,,,,N
+Increased adipocyte size,2127,KE,,,,,,,,N
+"Increase, Vitellogenin synthesis in liver",307,KE,,,,,,,,N
+"Decreased, Androgen and Progestin ",1987,KE,,,,,,,,N
+"Increase, Body fluid overload",1769,KE,,,,,,,,N
+"Activation, mTORC1",1300,KE,,,,,,,,N
+"Activation, PTGS-2 (Prostaglandin-endoperoxide synthase 2)",1370,KE,,,,,,,,N
+"Accumulation, Triglyceride",291,KE,,,,,,,,N
+"Decreased, Lymphocytes",168,KE,,,,,,,,N
+"Inhibition, Fin regeneration",1761,KE,,,,,,,,N
+"N/A, Ataxia, paralysis, or hyperactivity",764,KE,,,,,,,,N
+"interruption, Ovulation",1074,KE,,,,,,,,N
+"prolonged, estrus",1075,KE,,,,,,,,N
+"six1b expression, increased",1904,KE,,,,,,,,N
+"Decrease, surfactant",1382,KE,,,,,,,,N
+Prolongation of QT interval,1962,KE,,,,,,,,N
+"Decreased, locomotion",635,KE,,,,,,,,N
+Altered differentiation,1560,KE,,,,,,,,N
+"Decreased, Testosterone",808,KE,,,,,,,,N
+"Increase, Inflammation (corneal cells)",777,KE,,,,,,,,N
+"Increased, Steroidogenic acute regulatory protein (StAR) ",1972,KE,,,,,,,,N
+"Decreased, Progesterone from corpus luteum",749,KE,,,,,,,,N
+"Abnormal, Glucose homeostasis",1952,KE,,,,,,,,N
+Decreased plasma Cortisol level,1836,KE,,,,,,,,N
+"Decrease, testosterone synthesis/level",1612,KE,,,,,,,,N
+"Decrease, Bioactivation of testosterone",792,KE,,,,,,,,N
+Reduced size of the ovarian follicle pool ,1883,KE,,,,,,,,N
+"Suppression, IL-2 and IL-4 production",1202,KE,,,,,,,,N
+"Locomotor activity, decreased",1389,KE,,,,,,,,N
+"Sexual behavior, decreased",1390,KE,,,,,,,,N
+"Induced, dysfunction of microcirculation",1666,KE,,,,,,,,N
+"Inhibition, Inducible Nitric Oxide Synthase by Metabolite CGA 265307",147,KE,,,,,,,,N
+Suppression of IL-4 production,1718,KE,,,,,,,,N
+Weak collagen matrix,1465,KE,,,,,,,,N
+"Increased, Induction of pyruvate dehydrogenase (PDH)",726,KE,,,,,,,,N
+Decreased plasma RA level,1642,KE,,,,,,,,N
+"Impaired, Proteostasis",889,KE,,,,,,,,N
+"Thyroxine (T4) in neuronal tissue, Decreased ",280,KE,,,,,,,,N
+Reduction of melanosome level,1630,KE,,,,,,,,N
+Altered neurotransmission in development,2005,KE,,,,,,,,N
+Hypomyelination,2107,KE,,,,,,,,N
+"Increase, Cytotoxicity (epithelial cells)",780,KE,,,,,,,,N
+"Increased, Uptake of thyroxine into tissue",960,KE,,,,,,,,N
+"Increase, Respiratory or Squamous Metaplasia",869,KE,,,,,,,,N
+Decreased spermatogenesis ,1798,KE,,,,,,,,N
+"Occurrence, Cystic dilatation (renal tubule)",823,KE,,,,,,,,N
+"Decrease, Prevent chitin degradation by chitinases",2061,KE,,,,,,,,N
+"Decrease, Cardiac contractility ",1532,KE,,,,,,,,N
+"Accumulation, Collagen",68,KE,,,,,,,,N
+Reduced tidal volume ,1677,KE,,,,,,,,N
+"Reduction, progesterone uptake, decresed maturation ",1694,KE,,,,,,,,N
+"Inactivated, 5-HTR (serotonin receptors)",1328,KE,,,,,,,,N
+Mitochondrial Injury,1547,KE,,,,,,,,N
+"Direct effects of Corticosterone on steroidogenesis, Decreased testosterone by adult Leydig cells",652,KE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Decreased COUP-TFII stem Leydig cells",541,KE,,,,,,,,N
+"Decreased steroidogenesis, Alterations in the Leydig Cell Cytoskeleton",649,KE,,,,,,,,N
+Inhibition of neurotransmitter vesicle release,1430,KE,,,,,,,,N
+"Activation, HIF-1",1280,KE,,,,,,,,N
+"Decreased, extracellular sodium (Na+) ",1318,KE,,,,,,,,N
+"Activated, LXR",1421,KE,,,,,,,,N
+"Decreased, DHB4/HSD17B4",482,KE,,,,,,,,N
+"Accelerated, Aging",571,KE,,,,,,,,N
+"Down Regulation, CPT1A",472,KE,,,,,,,,N
+"Increased, De Novo FA synthesis",458,KE,,,,,,,,N
+"Activation, Dll4-Notch pathway",2164,KE,,,,,,,,N
+increased，Vascular endothelial dysfunction,1928,KE,,,,,,,,N
+"Reduced, mucosal defense",1405,KE,,,,,,,,N
+"Increased, leukocyte activation",1411,KE,,,,,,,,N
+"Increased, blood potassium concentration",1098,KE,,,,,,,,N
+"Increase, Necrosis",1607,KE,,,,,,,,N
+"Damaging, Red blood cells; hemolysis",250,KE,,,,,,,,N
+"KE3 : Decrease, Tetrahydrobiopterin",934,KE,,,,,,,,N
+Collagen Deposition,1275,KE,,,,,,,,N
+"Down Regulation, GSS and GSTs gene",1286,KE,,,,,,,,N
+"Injury, Mitochondria",832,KE,,,,,,,,N
+Non-alcoholic fatty liver disease,2019,KE,,,,,,,,N
+"Increased, cholestasis",1059,KE,,,,,,,,N
+"Increased, proliferation of mesenchymal cells",1033,KE,,,,,,,,N
+"Increase, Clonal Expansion of Altered Hepatic Foci",1171,KE,,,,,,,,N
+"Increase proliferation, Leydig cell ",416,KE,,,,,,,,N
+"Increased, intracellular sodium (Na+)",1321,KE,,,,,,,,N
+"Decreased, intracellular chloride",1416,KE,,,,,,,,N
+General Apoptosis,1513,KE,,,,,,,,N
+"Decrease, Light harvest capacity",1474,KE,,,,,,,,N
+"Sustentacular cells, decrease ",1870,KE,,,,,,,,N
+Increased inflammatory immune responses,1750,KE,,,,,,,,N
+"Increased, synaptic release",1400,KE,,,,,,,,N
+"N/A, hypoxia",590,KE,,,,,,,,N
+"Decreased, synaptic release",1325,KE,,,,,,,,N
+Th17 cell migration and inflammation induction,1708,KE,,,,,,,,N
+Systemic acute phase response,1439,KE,,,,,,,,N
+"impaired, Development",577,KE,,,,,,,,N
+"Alterations, Cellular proliferation / hyperplasia",854,KE,,,,,,,,N
+"Impairment, Fourth pharyngeal arch development",1683,KE,,,,,,,,N
+Activated ANG/Tie2 pathway,2170,KE,,,,,,,,N
+"Impaired, oligodendrocyte maturation",2106,KE,,,,,,,,N
+Brain thyroid hormone (T4/T3) decreased,2093,KE,,,,,,,,N
+"Hippocampal Physiology, Altered",758,KE,,,,,,,,N
+Pin-1 activation,1794,KE,,,,,,,,N
+Increased exocrine secretion from pancreatic acinar cells,1723,KE,,,,,,,,N
+"Increased, Thyroxine (T4) in serum",1828,KE,,,,,,,,N
+"SP (Substance P) release, Local increase of SP",1222,KE,,,,,,,,N
+Increased microRNA expression,1980,KE,,,,,,,,N
+"Decreased, Neuronal network function in adult brain",618,KE,,,,,,,,N
+"Decrease, Leaf development",1479,KE,,,,,,,,N
+"Depletion, energy reserves",1143,KE,,,,,,,,N
+Dysfunctional Autophagy,1945,KE,,,,,,,,N
+"Induced, Angiotensin (Ang) II accumulation",1741,KE,,,,,,,,N
+Dysregulation of heart rate and vascular tone,1703,KE,,,,,,,,N
+"Inhibition, Wnt pathway",1294,KE,,,,,,,,N
+"Increased, Migration (Endothelial Cells)",1190,KE,,,,,,,,N
+Genomic instability,1896,KE,,,,,,,,N
+Fibroblast proliferation and differentiation,2012,KE,,,,,,,,N
+"Increased, glycolipid levels",2079,KE,,,,,,,,N
+"Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts",493,KE,,,,,,,,N
+"Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)",216,KE,,,,,,,,N
+"abnormal, placental labyrinth vasculature morphology",1891,KE,,,,,,,,N
+"Increase, Body volume of female adults",2048,KE,,,,,,,,N
+"Increase, Hyperplasia (renal tubular cells)",767,KE,,,,,,,,N
+"Reduction, the ratio of 17beta-estradiol/11-Keto Testosterone in plasma ",2139,KE,,,,,,,,N
+"Decreased, Ketogenesis (production of ketone bodies)",861,KE,,,,,,,,N
+"Increased, latency period",1080,KE,,,,,,,,N
+"Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal",1132,KE,,,,,,,,N
+"Increased, secrection of FSH from anterior pituitary",1049,KE,,,,,,,,N
+Increase cell proliferation,1555,KE,,,,,,,,N
+"Activation, Macrophages",1198,KE,,,,,,,,N
+"Decreased Kisspeptin release from neurons in AVPV, Decreased hypothalamic estrogen reduces kisspeptinergic neuron response ",968,KE,,,,,,,,N
+"Accumulation, Highly carboxylated porphyrins",846,KE,,,,,,,,N
+"Increased, Ataxia, paralysis, or hyperactivity",602,KE,,,,,,,,N
+"Hypertrophy/hyperplasia, smooth muscle",1043,KE,,,,,,,,N
+Synaptic dysfunction,1944,KE,,,,,,,,N
+Influenza A Virus (IAV) budding,2193,KE,,,,,,,,N
+"Intestinal barrier, disruption",1931,KE,,,,,,,,N
+Toll Like Receptor (TLR) Dysregulation,1848,KE,,,,,,,,N
+Impaired gustatory nerve,1849,KE,,,,,,,,N
+"Decreased, radial glia cell density",2113,KE,,,,,,,,N
+"Occurrence, A paroxysmal depolarizing shift",616,KE,,,,,,,,N
+Increased sphingolipid-1-phosphate,2033,KE,,,,,,,,N
+"Altered, Chromosome number",723,KE,,,,,,,,N
+"Aberrant, Dendritic morphology",382,KE,,,,,,,,N
+"Activation, Microglia",1998,KE,,,,,,,,N
+"N/A, Gap",119,KE,,,,,,,,N
+"Reduced, Maturation inducing steroid, plasma",691,KE,,,,,,,,N
+Activation of MMP-2 MMP-9,2167,KE,,,,,,,,N
+"Increase, Mutations in Critical Genes",876,KE,,,,,,,,N
+"Increase, Pro-Inflammatory Mediators",2097,KE,,,,,,,,N
+Altered Bone Cell Homeostasis,2089,KE,,,,,,,,N
+"Increase, Ovarian follicle breakdown",1777,KE,,,,,,,,N
+"Increase, Oocyte apoptosis (F3)",1780,KE,,,,,,,,N
+"Increase, Ovarian somatic cell apoptosis (F3)",1783,KE,,,,,,,,N
+"Increase,  pigmentation",2055,KE,,,,,,,,N
+"squamous metaplasia, aberrant basal cells",1068,KE,,,,,,,,N
+"Decrease, Circulating crustacean cardioactive peptide",1266,KE,,,,,,,,N
+"Decrease, expression of gonadotropin releasing hormone receptor",1699,KE,,,,,,,,N
+"Neutrophil activation, Increased ",1915,KE,,,,,,,,N
+"Cognitive, sensed as hypoxic/low oxygen environment",2075,KE,,,,,,,,N
+decreased dopamine,1450,KE,,,,,,,,N
+"Increased, glomerular rupture and renal hemorrhaging",421,KE,,,,,,,,N
+Increased adipocyte numbers,2128,KE,,,,,,,,N
+"Increase, Renal pathology due to VTG deposition",252,KE,,,,,,,,N
+"Decreased, Maturation Inducing Steroid Surge by Granulosa cells",1988,KE,,,,,,,,N
+"Inhibition, PTGS-2 (Prostaglandin-endoperoxide synthase 2)",1371,KE,,,,,,,,N
+"Reduction, fetal/adult testosterone ",446,KE,,,,,,,,N
+"Induction, IKB inhibitory protein",145,KE,,,,,,,,N
+"eya1 expression, inhibited",1905,KE,,,,,,,,N
+Torsades de Pointes,1963,KE,,,,,,,,N
+Spermatocyte depletion,1515,KE,,,,,,,,N
+"malformed, Male reproductive tract",809,KE,,,,,,,,N
+"Increase, Regenerative cell proliferation (corneal cells)",778,KE,,,,,,,,N
+Increased Sodium-sensitive hypertension,1855,KE,,,,,,,,N
+"Activation, Tissue resident cells (Kuppfer cells)",1576,KE,,,,,,,,N
+Immune cell activation,1818,KE,,,,,,,,N
+Leukocyte recruitment/activation,1494,KE,,,,,,,,N
+Decreased proximal tubular vectorial transport,1563,KE,,,,,,,,N
+"Increased, Oncotic Necrosis",1491,KE,,,,,,,,N
+"Decreased, Eye size",1878,KE,,,,,,,,N
+"Induction, Sustained Hepatotoxicity",270,KE,,,,,,,,N
+"Increase, Hypertrophy and proliferation (follicular cell)",739,KE,,,,,,,,N
+Notochord distortion or malformations,1466,KE,,,,,,,,N
+Activation of hepatic stellate cells,1606,KE,,,,,,,,N
+"Increase, Oxidative metabolism",769,KE,,,,,,,,N
+"Altered, Visual function",1643,KE,,,,,,,,N
+Reduction fo Pigmentation pattern ,1631,KE,,,,,,,,N
+"Altered, white brain matter",2108,KE,,,,,,,,N
+Premature cell differentiation,1979,KE,,,,,,,,N
+"Occurrence, Cytoplasmic vacuolization (podocyte)",824,KE,,,,,,,,N
+"Weak, Procuticle protection",2062,KE,,,,,,,,N
+"Decrease, Cardiac ejection fraction ",1533,KE,,,,,,,,N
+"Activation, Transforming Growth Factor beta pathway",1469,KE,,,,,,,,N
+Impaired ovulation,1695,KE,,,,,,,,N
+"Activation, SREBP-1c",264,KE,,,,,,,,N
+"Increase, Cardiac remodelling",2084,KE,,,,,,,,N
+"Increased, DNA Damage-Repair",1281,KE,,,,,,,,N
+"Decreased, extracellular chloride (Cl-)",1319,KE,,,,,,,,N
+"Reduced, PPARalpha",1422,KE,,,,,,,,N
+"Overwhelmed, Mitochondrial DNA repair mechanisms",664,KE,,,,,,,,N
+"Down Regulation, HMGCS2",474,KE,,,,,,,,N
+"Increased, Triglyceride formation",454,KE,,,,,,,,N
+Angiogenesis dysfunction,2181,KE,,,,,,,,N
+"Decreased, mucous",1406,KE,,,,,,,,N
+"Occurrence, tophi (urate) deposition",1102,KE,,,,,,,,N
+"Formation, Formation of hemoglobin adducts",118,KE,,,,,,,,N
+"KE4 : Uncoupling, eNOS",932,KE,,,,,,,,N
+"Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity",8,KE,,,,,,,,N
+Glutathione synthesis,1287,KE,,,,,,,,N
+"Occurrence, Cytoplasmic vacuolization (hepatocyte)",833,KE,,,,,,,,N
+"Inhibition, Fatty acid oxidation ",2065,KE,,,,,,,,N
+"Increased, IGF-1 (mouse)",1034,KE,,,,,,,,N
+"Activated, voltage-gated sodium channel",1352,KE,,,,,,,,N
+"Activated, membrane depolarization",1355,KE,,,,,,,,N
+"Activation, Stellate cells",265,KE,,,,,,,,N
+"olfactory sensory neurons, decrease ",1871,KE,,,,,,,,N
+"Increased, activation of T (T) helper (h) type 2 cells",1499,KE,,,,,,,,N
+"Abnormalities, Cardiac outflow tract formation",1684,KE,,,,,,,,N
+"Altered, retinal layer structure",1877,KE,,,,,,,,N
+Latent Transforming growth Factor beta expression,1795,KE,,,,,,,,N
+Acinar cell proliferation,1724,KE,,,,,,,,N
+"Decrease, elavl3 ",2196,KE,,,,,,,,N
+"Occurrence, (Micro)vascular dysfunction",2096,KE,,,,,,,,N
+"Increased CGRP, neuronal release of CGRP",1433,KE,,,,,,,,N
+Decreased SIRT1 expression,1981,KE,,,,,,,,N
+"Increased, foot detachment",624,KE,,,,,,,,N
+"Accumulation, Cytosolic toxic Tau oligomers",1942,KE,,,,,,,,N
+Hyperactivation of ACE/Ang-II/AT1R axis,1853,KE,,,,,,,,N
+Defect of Embryogenesis,1295,KE,,,,,,,,N
+"Increased, Invasion",1196,KE,,,,,,,,N
+"increase, placental insufficiency",1892,KE,,,,,,,,N
+"Increase, sex ratio (F/M)",2049,KE,,,,,,,,N
+"Delayed, Ovulation",532,KE,,,,,,,,N
+"Not Increased, Circulating Ketone Bodies",862,KE,,,,,,,,N
+"Hemostasis, Depletion from blood of fully functional carboxylated clotting factors",1133,KE,,,,,,,,N
+Pulmonary epithelial injury,2085,KE,,,,,,,,N
+"Decreased GnRH Release, Decreased Kisspeptin stimulation of GnRH neurons ",969,KE,,,,,,,,N
+Coagulation,1845,KE,,,,,,,,N
+"Disturbed, cortical architecture",2114,KE,,,,,,,,N
+"Decreased, Nitric Oxide",193,KE,,,,,,,,N
+Histone deacetylase inhibition,1502,KE,,,,,,,,N
+"Production, Reactive oxygen species",249,KE,,,,,,,,N
+Decrease of synaptogenesis,385,KE,,,,,,,,N
+"Increased, Cell Proliferation (mesothelium)",1089,KE,,,,,,,,N
+"Occurrence, cardiac arrhythmia",1106,KE,,,,,,,,N
+"Reduced, Maturation inducing steroid receptor signalling, oocyte",692,KE,,,,,,,,N
+"Reduced, Food storage",561,KE,,,,,,,,N
+Activation of angiopoietin like protein 4,2168,KE,,,,,,,,N
+"Increase, Neural Remodeling",2098,KE,,,,,,,,N
+"Increase, Bone Remodeling",2090,KE,,,,,,,,N
+"Altered, Nitric Oxide Levels",2067,KE,,,,,,,,N
+"Decrease, Oogenesis (F3)",1782,KE,,,,,,,,N
+"Increase, Ovarian follicle breakdown (F3)",1784,KE,,,,,,,,N
+"Increase, Incomplete ecdysis",990,KE,,,,,,,,N
+"Increased, Hyperplasia (glandular epithelial cells of endometrium)",1069,KE,,,,,,,,N
+"Decrease, Ecdysis motoneuron bursts",1267,KE,,,,,,,,N
+"Platelet-neutrophil interactions, Increased ",1857,KE,,,,,,,,N
+"Increase, hemocyanin mRNA",2076,KE,,,,,,,,N
+decreased reward,1451,KE,,,,,,,,N
+"Increased, nephropathy",422,KE,,,,,,,,N
+Increased fat mass,2125,KE,,,,,,,,N
+Impaired insulin signaling,2144,KE,,,,,,,,N
+"Increased, ER binding to DNA (classical pathway) ",1187,KE,,,,,,,,N
+"Impaired, Oocyte maturation and ovulation",1989,KE,,,,,,,,N
+Abnormal lipid metabolism,1995,KE,,,,,,,,N
+"Increase, bicarbonate ",1372,KE,,,,,,,,N
+"Induction, pharyngeal muscle paralysis",1019,KE,,,,,,,,N
+"Increased, circulating estrogen levels",1076,KE,,,,,,,,N
+"Increase, proinflammatory mediators (TNFalpha)",1579,KE,,,,,,,,N
+IFNγ signaling,1819,KE,,,,,,,,N
+decreased oocyte maturation,1837,KE,,,,,,,,N
+"Induction, Sustained Cell Proliferation",269,KE,,,,,,,,N
+"Increase, Hyperplasia (follicular cells)",740,KE,,,,,,,,N
+Degeneration of dopaminergic neurons of the nigrostriatal pathway,890,KE,,,,,,,,N
+Altered function of the brain,2022,KE,,,,,,,,N
+Secondary genotoxicity,2006,KE,,,,,,,,N
+"Occurrence, Cytoplasmic vacuolization (Renal tubule)",818,KE,,,,,,,,N
+"Decrease, New cuticle secretion",2063,KE,,,,,,,,N
+"Disruption, Intracellular calcium mobilization",1536,KE,,,,,,,,N
+"Activation, FAS",116,KE,,,,,,,,N
+"Reduced, HSD17B4 activity",1423,KE,,,,,,,,N
+"Activation, LXR alpha",483,KE,,,,,,,,N
+"Up Regulation, SCD-1",462,KE,,,,,,,,N
+"Decreased, bicarbonate",1407,KE,,,,,,,,N
+"Down Regulation, Gulcose-6-phosphate dehydrogenase",131,KE,,,,,,,,N
+"KE6 : Depletion, Nitric Oxide",933,KE,,,,,,,,N
+"Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene",1288,KE,,,,,,,,N
+"Occurrence, Ballooning degeneration (hepatocyte)",835,KE,,,,,,,,N
+"prolonged, elevation of serun CCK",1061,KE,,,,,,,,N
+"Increased, Firbrosarcoma",1035,KE,,,,,,,,N
+"Decrease, Translocator protein (TSPO)",289,KE,,,,,,,,N
+"Treat, carbamazepine",1354,KE,,,,,,,,N
+"Decrease, Glycolysis",1476,KE,,,,,,,,N
+Olfactory epithelium degeneration,1872,KE,,,,,,,,N
+"Increased, fibroblast proliferation and myofibroblast differentiation",1500,KE,,,,,,,,N
+Activated BMP/TGF-beta pathway,2171,KE,,,,,,,,N
+"Abnormal, neuroblast migration",2094,KE,,,,,,,,N
+"Decrease, sox10",2197,KE,,,,,,,,N
+Increased neurokinin A (NKA) by neuronal cells,1435,KE,,,,,,,,N
+Fibroproliferative airway lesions,1587,KE,,,,,,,,N
+"Increased, locomotion",622,KE,,,,,,,,N
+ADAM17 expression induction,1937,KE,,,,,,,,N
+Status epilepticus,1788,KE,,,,,,,,N
+"Increase, angiogenesis",1376,KE,,,,,,,,N
+"Depletion, Ectoplasmic specialization (ES)",2142,KE,,,,,,,,N
+"Increase, developmental abnormalities",2050,KE,,,,,,,,N
+"Decreased, Cortical granule release/distribution upon fertilization",533,KE,,,,,,,,N
+"Increased, Catabolism of Muscle Protein",863,KE,,,,,,,,N
+"Reduced fitness or even mortality, Acidosis, hypovolemic shock and organ dysfunction",1135,KE,,,,,,,,N
+"Hyperplasia, ovarian stromal cells",1051,KE,,,,,,,,N
+"Activation, Fibroblasts",1197,KE,,,,,,,,N
+"Decreased LH release from Anterior Pituitary, Decreased GnRH stimulation of Anterior Pituitary Gonadotrophs",970,KE,,,,,,,,N
+"Decreased, Long-term potentiation (LTP)",166,KE,,,,,,,,N
+"Reduced, Meiotic prophase I/metaphase I transition, oocyte",694,KE,,,,,,,,N
+"Upregulated, Spindle assembly checkpoint protein Mad2-oocyte",695,KE,,,,,,,,N
+Activation of Angiogenic cytokines,2169,KE,,,,,,,,N
+"Increase, Endothelial Dysfunction",2068,KE,,,,,,,,N
+"Increase,  delay in oviposition",2056,KE,,,,,,,,N
+"Decrease, Excitatory postsynaptic potential",1268,KE,,,,,,,,N
+"Increase, pulmonate breathing",2077,KE,,,,,,,,N
+decreased DNA methylation of tyrosine hydroxylase,1452,KE,,,,,,,,N
+increased lipid accumulation,2130,KE,,,,,,,,N
+"Increased, ER binding to T.F. to DNA (non-classical pathway)",1188,KE,,,,,,,,N
+"Increased, Oocyte Atresia",1990,KE,,,,,,,,N
+"Increase, mucous",1373,KE,,,,,,,,N
+"Increased, prolactin exposure",1077,KE,,,,,,,,N
+"Increased, lactotroph hyperplasia and hypertrophy",1081,KE,,,,,,,,N
+"altered, inner ear development",1930,KE,,,,,,,,N
+"Hyperplasia, ovarian epithelium",1052,KE,,,,,,,,N
+Increase in inflammation,1633,KE,,,,,,,,N
+Impaired inguinoscrotal testicular descent phase,1615,KE,,,,,,,,N
+"Formation, Liver tumor",347,KE,,,,,,,,N
+Decrease of GABAergic interneurons,851,KE,,,,,,,,N
+"Decreased, Glomerular filtration",819,KE,,,,,,,,N
+"Disruption, Sarcomere assembly",1537,KE,,,,,,,,N
+"Activation, SCD-1",258,KE,,,,,,,,N
+"Inhibit, voltage-gated sodium channel",1353,KE,,,,,,,,N
+"Reduced, fatty acid beta oxidation",1424,KE,,,,,,,,N
+"Inhibition, SREBP1c",878,KE,,,,,,,,N
+"Increase, RBC congestion in liver",246,KE,,,,,,,,N
+"KE7 : Impaired, Vasodilation",937,KE,,,,,,,,N
+Perturbation of cholesterol,1289,KE,,,,,,,,N
+"Occurrence, Cytoplasmic vacuolization (kupffer cell)",837,KE,,,,,,,,N
+"Increased, Cellular proliferation / hyperplasia of acinar cells",1062,KE,,,,,,,,N
+"Increased, liposarcoma",1036,KE,,,,,,,,N
+Impaired mechanotransduction of pericytes,1946,KE,,,,,,,,N
+"Decreased, 5-HT3",1401,KE,,,,,,,,N
+"Activation, 5-HT2A (Serotonin 2A)",1336,KE,,,,,,,,N
+Activated Wnt/Frizzled pathway,2172,KE,,,,,,,,N
+"Decrease, mbp",2198,KE,,,,,,,,N
+"Antagonism, Estrogen receptor",112,KE,,,,,,,,N
+ACE2 increased shedding,1938,KE,,,,,,,,N
+"Increased, tumor growth",1971,KE,,,,,,,,N
+Pulmonary inflammation,2010,KE,,,,,,,,N
+"Impaired, blood testis barrier",2080,KE,,,,,,,,N
+"Increased, FA Influx",465,KE,,,,,,,,N
+"Altered, Formation of cortical envelope",534,KE,,,,,,,,N
+prostatic intraepithelial neoplasia,2136,KE,,,,,,,,N
+"Osteoporosis and vascular calcification, Bone deterioration",1151,KE,,,,,,,,N
+Airway inflammation,2086,KE,,,,,,,,N
+"Ovulation of oocytes Reduced, Delayed, or Blocked, Decrease or delay in LH surge required for ovulation ",971,KE,,,,,,,,N
+"Increase, the risk of acute respiratory failure",1748,KE,,,,,,,,N
+"Reduced, Presynaptic release of glutamate",383,KE,,,,,,,,N
+"Increased, cyclic adenosine monophosphate",693,KE,,,,,,,,N
+"Increased, Chromosome misseggregation",696,KE,,,,,,,,N
+"Decrease, Abdominal muscle contraction",993,KE,,,,,,,,N
+decreased methylation of dopamine transporter promoter,1453,KE,,,,,,,,N
+Increased pro-inflammatory cytokine expression,2132,KE,,,,,,,,N
+"Increased, Proliferation (Endothelial cells) ",1189,KE,,,,,,,,N
+"Increase, mucosal blood flow",1374,KE,,,,,,,,N
+"Hyperplasia, Mammary gland",1078,KE,,,,,,,,N
+"Reduced, Hearing",1008,KE,,,,,,,,N
+"Decreased, Renal plasma flow",820,KE,,,,,,,,N
+"Synthesis, De Novo FA",89,KE,,,,,,,,N
+"Activation, MTTP",879,KE,,,,,,,,N
+"Up Regulation, FAS",463,KE,,,,,,,,N
+"Increase, Liver and splenic hemosiderosis",161,KE,,,,,,,,N
+"KE8 : Increase, Vascular Resistance",951,KE,,,,,,,,N
+Glutathione homeostasis,1290,KE,,,,,,,,N
+"Induction, Microvesicular fat",838,KE,,,,,,,,N
+"Increased, hemagiosarcoma",1037,KE,,,,,,,,N
+"Increased, RDX dose",1357,KE,,,,,,,,N
+Pericyte dysfunction,1947,KE,,,,,,,,N
+"Activate, PLC (Phospholipase C)",1337,KE,,,,,,,,N
+Emphysema,2011,KE,,,,,,,,N
+"Up Regulation, LDLR (low density lipoprotein receptor)",466,KE,,,,,,,,N
+"Abnormal, Sperm penetration (polyspermy)",535,KE,,,,,,,,N
+"Decrease, E2 blood concentrations at hypothalamus",1056,KE,,,,,,,,N
+"Decrease,  hatching of egg",2057,KE,,,,,,,,N
+"Increase, platelet aggregation",1375,KE,,,,,,,,N
+"Decreased, Sodium reabsorption",821,KE,,,,,,,,N
+"Increased, intracellular chloride (Cl-)",1322,KE,,,,,,,,N
+"Increased, ApoB100",880,KE,,,,,,,,N
+"Decreased, Ketogenesis",477,KE,,,,,,,,N
+"N/A, Methemoglobinemia, decreased hemoglobin, hematocrit, red blood cell number",173,KE,,,,,,,,N
+"KE5 : Decrease, AKT/eNOS activity",973,KE,,,,,,,,N
+"Formation, Mallory body",839,KE,,,,,,,,N
+"Decrease, Leaf cell mitosis",1478,KE,,,,,,,,N
+Increased ACE2 expression,1948,KE,,,,,,,,N
+"Increase, inositol triphosphate",1338,KE,,,,,,,,N
+Activated AKT/ERK/PI3K pathway,2173,KE,,,,,,,,N
+Airway remodeling,2013,KE,,,,,,,,N
+"Increased, LDL uptake",467,KE,,,,,,,,N
+"Altered, Chromosome number (polyploid) zygote",536,KE,,,,,,,,N
+"Increased, Non-genomic signaling",1191,KE,,,,,,,,N
+"Decreased, Renal ability to dilute urine",825,KE,,,,,,,,N
+"Inactive, membrane depolarization",1356,KE,,,,,,,,N
+"Increased, Triglyceride",881,KE,,,,,,,,N
+"Occurrence, Cytoplasmic vacuolization (Bile duct cell)",836,KE,,,,,,,,N
+Inhibition VEGF/VEGFR pathway,2174,KE,,,,,,,,N
+"Decrease, leukocyte adherence",1377,KE,,,,,,,,N
+"Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)",470,KE,,,,,,,,N
+"Activate, calmodulin",1340,KE,,,,,,,,N
+Acetylcholinesterase (AchE) Inhibition,12,MIE,,,,,,,,N
+Binding to (interferes with) topoisomerase II enzyme,1252,MIE,,,,,,,,N
+"Increase, Oxygen-evolving complex damage",1865,MIE,,,,,,,,N
+"Activation, PARP1",2030,MIE,,,,,,,,N
+"Inhibition, 5-hydroxytryptamine transporter (5-HTT; SERT)",619,MIE,,,,,,,,N
+"Inhibition, 5α-reductase",1617,MIE,,,,,,,,N
+Binding to ACE2,1739,MIE,,,,,,,,N
+"Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2",2146,MIE,,,,,,,,N
+Non-coding RNA expression profile alteration,2007,MIE,,,,,,,,N
+ROS generation from photoactivated chemicals,1592,MIE,,,,,,,,N
+"Formation, Pro-mutagenic DNA Adducts",373,MIE,,,,,,,,N
+systemic inflammation leading to hepatic steatosis,486,MIE,,,,,,,,N
+"Increase, Alcohol dehydrogenase",2045,MIE,,,,,,,,N
+"Alkylation, DNA",97,MIE,,,,,,,,N
+"Inhibition, Antgonism of NE receptor",849,MIE,,,,,,,,N
+"Increased, Binding of chemicals to 2u (serum)",714,MIE,,,,,,,,N
+"impaired, ion channels",697,MIE,,,,,,,,N
+"Antagonism, Androgen receptor",26,MIE,,,,,,,,N
+"Activation, Androgen receptor",785,MIE,,,,,,,,N
+"Agonism, Androgen receptor",25,MIE,,,,,,,,N
+"N/A, Androgen receptor, Antagonism",27,MIE,,,,,,,,N
+"Antagonism, Smoothened receptor",2027,MIE,,,,,,,,N
+"Binding of antagonist, PPAR alpha",998,MIE,,,,,,,,N
+"Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone",1134,MIE,,,,,,,,N
+Decompartmentalization,1258,MIE,,,,,,,,N
+"reduction in ovarian granulosa cells, Aromatase (Cyp19a1)",408,MIE,,,,,,,,N
+"Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol",964,MIE,,,,,,,,N
+"Inhibition, Aromatase",36,MIE,,,,,,,,N
+"modulation, sodium channel",598,MIE,,,,,,,,N
+"Activation, beta-2 adrenergic receptor",1038,MIE,,,,,,,,N
+"Binding of agonist, Ionotropic glutamate receptors",875,MIE,,,,,,,,N
+"Binding, Thiol/seleno-proteins involved in protection against oxidative stress",1487,MIE,,,,,,,,N
+Influenza A Virus (IAV) binds sialic acid glycan receptor,2158,MIE,,,,,,,,N
+Induced dysregulation of ACE2 ,1740,MIE,,,,,,,,N
+Binding to estrogen receptor (ER)-α in immune cells,1710,MIE,,,,,,,,N
+"Binding, extracellular matrix protein laminin",2109,MIE,,,,,,,,N
+"Binding at picrotoxin site, iGABAR chloride channel",667,MIE,,,,,,,,N
+"Bulky DNA adducts, increase",1879,MIE,,,,,,,,N
+Activation of metabotropic glutamate receptor,2036,MIE,,,,,,,,N
+"Inhibition, Ca++ ATPase",51,MIE,,,,,,,,N
+Inhibition of Ceramide Synthase ,2023,MIE,,,,,,,,N
+"Binding, Tubulin",718,MIE,,,,,,,,N
+"Inhibition, Chitin synthase 1",1522,MIE,,,,,,,,N
+"Inhibition, Chitinase ",1806,MIE,,,,,,,,N
+"Inhibition, Chitobiase",1807,MIE,,,,,,,,N
+"Inhibition, Bile Salt Export Pump (ABCB11)",41,MIE,,,,,,,,N
+"Binding of antagonist, NMDA receptors",201,MIE,,,,,,,,N
+"Increase, Cytotoxicity (hepatocytes)",786,MIE,,,,,,,,N
+Ryanodine receptor activation,2186,MIE,,,,,,,,N
+"Binding, Thyroid binding globulin in serum",1831,MIE,,,,,,,,N
+"Binding, Transthyretin in serum",957,MIE,,,,,,,,N
+"Activation, Constitutive androstane receptor",715,MIE,,,,,,,,N
+"Covalent Binding, Protein",396,MIE,,,,,,,,N
+"Inhibition, Cyclooxygenase 1 activity",1103,MIE,,,,,,,,N
+"Inhibition, Cyclooxygenase activity",79,MIE,,,,,,,,N
+CYP2E1 Activation,1508,MIE,,,,,,,,N
+"Inhibition, cytochrome oxidase",1840,MIE,,,,,,,,N
+"Increase, Cytotoxicity (club cells)",770,MIE,,,,,,,,N
+"Increase, Cytotoxicity (tubular epithelial cells)",783,MIE,,,,,,,,N
+"Decreased, Androgen receptor activity",742,MIE,,,,,,,,N
+"Fibrinolysis, decreased",1866,MIE,,,,,,,,N
+"Inhibition, Deiodinase 1",1009,MIE,,,,,,,,N
+"Inhibition, Deiodinase 2",1002,MIE,,,,,,,,N
+peroxisome proliferator activated receptor promoter demethylation,228,MIE,,,,,,,,N
+Deposition of Energy,1686,MIE,,,,,,,,N
+Deposition of Ionizing Energy,1550,MIE,,,,,,,,N
+"Inhibition, VegfR2",305,MIE,,,,,,,,N
+"Increase, DNA methyltransferase inhibition",1619,MIE,,,,,,,,N
+"Decrease, Tyrosine",2051,MIE,,,,,,,,N
+"Inhibition, Dual oxidase",1156,MIE,,,,,,,,N
+Prolonged TLR9 activation,1842,MIE,,,,,,,,N
+"prepubertal increase, Estrogen receptor (ER) activity",1064,MIE,,,,,,,,N
+"Increase, Ecdysone receptor agonism",103,MIE,,,,,,,,N
+"Activation, EGFR",941,MIE,,,,,,,,N
+Endocytotic lysosomal uptake,1539,MIE,,,,,,,,N
+"Agonism, Estrogen receptor",111,MIE,,,,,,,,N
+Estrogen receptor alpha inactivation,2126,MIE,,,,,,,,N
+"Activation, Estrogen receptor",1181,MIE,,,,,,,,N
+"Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel ",593,MIE,,,,,,,,N
+"Increase, Formation of DNA photoproducts",1765,MIE,,,,,,,,N
+Frustrated phagocytosis,1668,MIE,,,,,,,,N
+protein-coupled estrogen receptor 1 (GPER) activation,2029,MIE,,,,,,,,N
+"Glucocorticoid Receptor Agonist, Activation",494,MIE,,,,,,,,N
+"Activation, Glucocorticoid Receptor",122,MIE,,,,,,,,N
+"Activation, Glutamate-gated chloride channel",760,MIE,,,,,,,,N
+"Activation, Glutamate-gated chloride channels",1018,MIE,,,,,,,,N
+"Conjugation, GSH",2131,MIE,,,,,,,,N
+GSK3beta inactivation,1647,MIE,,,,,,,,N
+Helicobacter pylori infection,1412,MIE,,,,,,,,N
+"Activation, Hepatic nuclear receptor(s)",1157,MIE,,,,,,,,N
+hERG channel blockade,2099,MIE,,,,,,,,N
+"Antagonism, Histamine Receptor (H2)",638,MIE,,,,,,,,N
+"Inhibition, HMG-CoA reductase",804,MIE,,,,,,,,N
+"Suppression, HNF4alpha",461,MIE,,,,,,,,N
+"Inhibition, 4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme",766,MIE,,,,,,,,N
+"Inhibition, IKK complex",1574,MIE,,,,,,,,N
+benzoquinone imine and acylglucuronide metabolites,1814,MIE,,,,,,,,N
+Impaired IL-1R1 signaling in T cell,1700,MIE,,,,,,,,N
+Increased (ectopic) all-trans retinoic acid concentration,1888,MIE,,,,,,,,N
+"Increase, Dopaminergic activity",746,MIE,,,,,,,,N
+Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron ,2148,MIE,,,,,,,,N
+"Increase, TNF",1950,MIE,,,,,,,,N
+Increases in cellular reactive oxygen species,1940,MIE,,,,,,,,N
+11β-hydroxylase inhibition,1796,MIE,,,,,,,,N
+"Inhibition, Cytochrome P450 enzyme (CYP17A1) activity",1609,MIE,,,,,,,,N
+"Inhibition, 5α-reductase activity",790,MIE,,,,,,,,N
+Inhibition of ALDH1A (RALDH),1880,MIE,,,,,,,,N
+"Inhibition, Calcineurin Activity",980,MIE,,,,,,,,N
+"Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)",888,MIE,,,,,,,,N
+"CYP7B activity, inhibition",1386,MIE,,,,,,,,N
+Inhibition of cystathionine beta-synthase,1657,MIE,,,,,,,,N
+"Inhibition, Fatty Acid Beta Oxidation",1490,MIE,,,,,,,,N
+Inhibition of Fyna,1884,MIE,,,,,,,,N
+"Inhibition, Na+/I- symporter (NIS)",424,MIE,,,,,,,,N
+Inhibition of JAK3,1715,MIE,,,,,,,,N
+Thiol group of chemicals interact with sulfuhydryl groups of proteins to form thiol adducts,1462,MIE,,,,,,,,N
+Inhibition of mitochondrial DNA polymerase gamma (Pol gamma),1481,MIE,,,,,,,,N
+Inhibition of N-linked glycosylation,1604,MIE,,,,,,,,N
+"Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme",724,MIE,,,,,,,,N
+Retinaldehyde dehydrogenase inhibition,1637,MIE,,,,,,,,N
+"Thyroperoxidase, Inhibition",279,MIE,,,,,,,,N
+Inhibition of tyrosinase ,1627,MIE,,,,,,,,N
+Substance interaction with the lung resident cell membrane components,1495,MIE,,,,,,,,N
+"Decrease, Intracellular pH",867,MIE,,,,,,,,N
+"Inhibition, Iodotyrosine deiodinase (IYD)",1152,MIE,,,,,,,,N
+"Activation, ionotropic GABA Receptor chloride channel",762,MIE,,,,,,,,N
+"Activation, Juvenile hormone receptor",1205,MIE,,,,,,,,N
+"Activation, 5HT2c",9,MIE,,,,,,,,N
+"Decrease, 20-hydroxyecdysone",2058,MIE,,,,,,,,N
+"Blockade, L-Type Calcium Channels ",1529,MIE,,,,,,,,N
+"Activation, Latent Transforming Growth Factor Beta 1",1468,MIE,,,,,,,,N
+Inhibition of lung surfactant function,1672,MIE,,,,,,,,N
+"Antagonism,LH receptor",1691,MIE,,,,,,,,N
+"Activation, LXR",167,MIE,,,,,,,,N
+"Increased, glucocorticoid receptor activity",1396,MIE,,,,,,,,N
+Binding of microtubule stabilizing agents (MSA) to microtubules,1580,MIE,,,,,,,,N
+"Increase, Mitochondrial ATP synthase antagonism",1785,MIE,,,,,,,,N
+"Increase, Mitochondrial complex III antagonism",1542,MIE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Increased corticosterone",653,MIE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Alterations in the fetal testis proteome",661,MIE,,,,,,,,N
+"Decreased Cholesterol, Decreased De Novo Biosynthesis of Choleseterol",642,MIE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Increased estradiol",658,MIE,,,,,,,,N
+"Stimulation of adult Leydig cells via the Adrenal Corticosterone, Increased Glucocorticoid",650,MIE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Hypermethylation in the fetal testis",662,MIE,,,,,,,,N
+"Decreased steroidogenesis, Proteomic alterations in the adult Leydig cell",640,MIE,,,,,,,,N
+Mu Opioid Receptor Agonism,1425,MIE,,,,,,,,N
+"Activation, NADPH Oxidase",1174,MIE,,,,,,,,N
+"Accumulation, Biological membranes",46,MIE,,,,,,,,N
+NFE2/Nrf2 repression,1417,MIE,,,,,,,,N
+"Activation, NRF2",478,MIE,,,,,,,,N
+"Activation, Nicotinic acetylcholine receptor",559,MIE,,,,,,,,N
+"Activation, PXR/SXR",245,MIE,,,,,,,,N
+"Suppression, Constitutive androstane receptor, NR1l3",456,MIE,,,,,,,,N
+"Reduced, PTGS1 function",1402,MIE,,,,,,,,N
+"Reduced, PTGS2 function",1408,MIE,,,,,,,,N
+"Inhibition, organic anion transporter 1 (OAT1)",877,MIE,,,,,,,,N
+"N/A, Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III)",213,MIE,,,,,,,,N
+"Inhibition, Pendrin",1155,MIE,,,,,,,,N
+"Decreased, PPAR-alpha activation",231,MIE,,,,,,,,N
+Inactivation of PPARγ,1270,MIE,,,,,,,,N
+"Inhibition, Phospholipase A",828,MIE,,,,,,,,N
+"Reduced, presynaptic neuron 2 activity",1413,MIE,,,,,,,,N
+"Inhibition, Prolyl hydroxylases",798,MIE,,,,,,,,N
+"Alkylation, Protein",244,MIE,,,,,,,,N
+"Binding of substrate, endocytic receptor",1486,MIE,,,,,,,,N
+"Increase, Uncoupling of photophosphorylation",1471,MIE,,,,,,,,N
+"Increase, Sulfonylurea receptor binding",1525,MIE,,,,,,,,N
+Serotonin 1A Receptor Agonism,1431,MIE,,,,,,,,N
+"Inhibition, sodium channel",584,MIE,,,,,,,,N
+"Stimulation, TLR7/8",1706,MIE,,,,,,,,N
+"Succinate dehydrogenase, inhibited",2118,MIE,,,,,,,,N
+Inhibition of Sulfotransferase E1 (SULT1E1),2155,MIE,,,,,,,,N
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes",165,MIE,,,,,,,,N
+"Inhibition, TBX1",1680,MIE,,,,,,,,N
+"Antagonism, Thyroid Receptor ",1656,MIE,,,,,,,,N
+Toll-like receptor 4 activation,1792,MIE,,,,,,,,N
+Trypsin inhibition,1720,MIE,,,,,,,,N
+"Inhibition, Deiodinase 3",1153,MIE,,,,,,,,N
+"Decrease, Coupling of oxidative phosphorylation",1446,MIE,,,,,,,,N
+"Unknown, MIE",1114,MIE,,,,,,,,N
+"modulation, Unknown",801,MIE,,,,,,,,N
+"Activation, Pregnane-X receptor, NR1l2",239,MIE,,,,,,,,N
+"Increase, Urinary bladder calculi",793,MIE,,,,,,,,N
+"Increase, CNS Neural cell death",2195,MIE,,,,,,,,N
+"TRPA1 activation, TRPA1 Receptor",1215,MIE,,,,,,,,N
+"Inhibition, Inhibition of Dopamine-beta-hydroxylase",526,MIE,,,,,,,,N
+Interaction of α-diketones with arginine residues,1584,MIE,,,,,,,,N
+Inhibition of 11β-HSD ,1799,MIE,,,,,,,,N
+"Disruption, Estrogen receptor",2141,MIE,,,,,,,,N
+"Increased, gene expression of AR",2143,MIE,,,,,,,,N
+"Uncoupling of oxidative phosphorylation, Reduced ability to generate ATP",1138,MIE,,,,,,,,N
+Direct mitochondrial inhibition,1260,MIE,,,,,,,,N
+Inositol triphosphate receptor activation,2037,MIE,,,,,,,,N
+Protein Adduct Formation,1509,MIE,,,,,,,,N
+"Bradykinin system, hyperactivated",1867,MIE,,,,,,,,N
+chronic high fat diet,1454,MIE,,,,,,,,N
+Chronic reactive oxygen species,1753,MIE,,,,,,,,N
+Mitochondrial Complex IV inhibition,1543,MIE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists",654,MIE,,,,,,,,N
+"Decreased Cholesterol, Decreased Uptake of Lipoproteins",643,MIE,,,,,,,,N
+"Decreased testosterone by the fetal Leydig cells, Activation by other estradiol agonists",659,MIE,,,,,,,,N
+"Activation, NR1H4",479,MIE,,,,,,,,N
+"Inhibition, PPAR alpha",468,MIE,,,,,,,,N
+"Decreased, PPAR-beta activation",232,MIE,,,,,,,,N
+"Anticoagulant rodenticide interferes with carboxylation of Gla proteins in bone, Impairment of post-translational modification (carboxylation) of osteocalcin",1169,MIE,,,,,,,,N
+narcosis,1259,MIE,,,,,,,,N
+Mitochondrial Complex V inhibition,1544,MIE,,,,,,,,N
+"Decreased Cholesterol, Decreased Transport of Cholesterol to the Inner Mitochondrial Membrane",644,MIE,,,,,,,,N
+Inhibition GABAA receptor,2039,MIE,,,,,,,,N
+"Opening, voltage-gated calcium channels",2187,MIE,,,,,,,,N
+Binding of inhibitor to mitochondrial complex III,1653,MIE,,,,,,,,N
+Binding of inhibitor to mitochondrial complex IV,1654,MIE,,,,,,,,N
+Binding of inhibitor to mitochondrial complex V,1655,MIE,,,,,,,,N

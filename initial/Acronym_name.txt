@@ -1,0 +1,39 @@
+Acetylcholine	Ach
+Acetylcholinesterase	AchE
+Androgen receptor	AR
+Bile Salt Export Pump	ABCB11
+Ionotropic GABA receptor	GABA
+Estrogen receptor	ER
+Glucocorticoid Receptor	GR
+Long-term potentiation	LTP
+NMDA receptors	NMDARs
+Nuclear factor kappa B	NF-kB
+Plasma vitellogenin	VTG
+Pregnane-X receptor	PXR
+Reactive oxygen species	ROS
+VTG deposition	VTG
+Reactive oxygen species production	ROS
+Steroidogenic acute regulatory protein	STAR
+Thyroxine	T4
+Vitellogenin	VTG
+Translocator protein	TSPO
+Altered Hepatic Foci	AHF
+Ether-a-go-go	ERG
+5-hydroxytryptamine transporter	5-HTT
+excitatory postsynaptic potential	EPSP
+Luteinizing hormone		LH
+Pyruvate dehydrogenase kinase	PDK
+pyruvate dehydrogenase	PDH
+Thyroid-stimulating hormone	TSH
+ionotropic GABA Receptor chloride channel	GABA
+4-hydroxyphenyl-pyruvate dioxygenase	HPPD
+HIF-1 heterodimer	HIF-1
+organic anion transporter 1	OAT1
+Triiodothyronine	T3
+Iodotyrosine deiodinase	IYD
+TRPA1 Receptor	TRPA1
+reactive oxygen and nitrogen species	rons
+peroxisome proliferator activated receptor	PPAR
+Reactive oxygen species production	ROS production
+excitatory postsynaptic potential	EPSP
+neurokinin A	NKA

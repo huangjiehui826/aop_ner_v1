@@ -1,0 +1,1154 @@
+﻿17beta-estradiol
+ovarian granulosa cell
+reduction
+3-hydroxyacyl-coa dehydrogenase type-2 activity
+decrease
+5ht2c
+activation
+acetylcholine
+synapsis
+accumulation
+acetylcholinesterase
+inhibition
+ahr
+alpha hemoglobin
+altered regulation
+androgen receptor
+agonism
+antagonism
+angiogenesis
+aromatase
+cholinergic signaling
+increase
+mitochondrial atp
+bile salt export pump
+abcb11
+biological membrane
+ca and hco3
+shell gland
+ca++ intracellular
+ca++ atpase
+calcium influx
+cd36
+up regulation
+cell injury
+cell death
+injury/death
+ionotropic gaba receptor
+chloride channel
+chrebp
+collagen
+covalent binding
+lysine residue
+critical metabolite
+cga 330050
+cga 265307
+production
+cumulative fecundity
+spawning
+cyclooxygenase
+cytokine
+release
+dna
+alkylation
+ecdysone receptor
+eggshell thickness
+endothelial network
+impairment
+estrogen receptor
+fa influx
+fa
+hemoglobin adduct
+formation
+gap
+
+glucocorticoid receptor
+gonadotropin
+circulating
+gulcose-6-phosphate dehydrogenase
+down regulation
+hepatotoxicity
+hepatopathy
+hsd17b10 expression
+ikb inhibitory protein
+induction
+nitric oxide synthase
+inflammation
+inflammatory cytokine
+chemokines
+cytoprotective gene pathway
+suppression
+inadequate dna repair
+dysfunctional
+liver
+long term ahr receptor
+long-term potentiation
+lxr
+lymphocyte
+membrane integrity
+disruption
+mitochondrion
+damage
+mitochondrial dysfunction 1
+mitochondrial electron transport chain
+mitochondrial fatty acid beta-oxidation
+mutation
+neuroinflammation
+nitric oxide
+nmdars
+nmda receptor
+nuclear factor kappa b
+peptide oxidation
+oxidative stress
+propagation
+oxidation
+parent compound
+free radical
+reactive metabolite
+bile
+pathological
+pck1
+glycolysis
+gluconeogenesis
+plasma
+plasma vitellogenin
+pparα
+peroxisome proliferator activated receptor
+demethylation
+ppar-alpha
+ppar-beta
+ppar-gamma
+pregnane-x receptor
+nr1l2
+incomplete development
+male sex organ
+feminisation
+prostaglandin e2 concentration
+protein
+pxr
+sxr
+rbc
+reactive oxygen specie
+red blood cell
+hemolysis
+renal pathology
+vtg deposition
+reproductive failure
+reactive oxygen specie production
+scd-1
+srebp-1c
+stellate cell
+steroidogenic acute regulatory protein
+star
+sustained cell proliferation
+sustained hepatotoxicity
+proliferation
+t-cells
+testosterone
+ovarian theca cell
+thyroid hormone
+thyroperoxidase
+thyroxine
+t4
+neuronal tissue
+serum
+vitellogenin
+transcription gene of ar
+ar
+specific nuclear receptor
+transcriptional change
+translocator protein
+triglyceride
+unknown
+upregulation
+glucuronyltransferase activity
+vascular
+insufficiency
+vegfr2
+oocyte growth
+development
+wnt pathway
+alteration
+allergic respiratory hypersensitivity response
+cardiovascular development
+cardiovascular function
+cochlear function
+loss
+cyanosis occurs
+disease susceptibility
+fatty acid
+fecundity
+fertility
+heritable mutation
+offspring
+reproductive capacity
+larval development
+learning
+memory
+liver fibrosis
+liver steatosis
+liver tumor
+male reproductive tract
+malformation
+mortality
+neurodegeneration
+degeneration
+oxidative damage
+pathology
+cholestasis
+population trajectory
+population
+decline
+reproductive behaviour
+uroporphyria
+pro-mutagenic dna adduct
+induced mutation
+critical gene
+hepatocellular carcinoma
+tumorigenesis
+bdnf
+dendritic morphology
+aberration
+synaptogenesis
+neuronal network function
+overactivation
+intracellular calcium overload
+dendritic cell
+th glucuronide
+biliary
+cognitive function
+immune system
+ovarian cycle
+irregularities
+cyp19a1
+afb1
+reactive electrophiles
+leydig cell
+luteinizing hormone
+hyperplasia
+sex ratio
+skewness
+renal vitellogenin
+glomerular rupture
+renal hemorrhaging
+nephropathy
+na+ symporter
+ni
+i- symporter
+thyroidal iodide
+atrioventricular block
+bradycardia
+respiratory distress
+arrest
+testosterone level
+cholesterol
+vldl secretion
+liver lipid
+constitutive androstane receptor
+nr1l3
+srebf1
+de novo fa
+hnf4alpha
+ppar alpha
+foxa2
+cpt1a
+hmgcs2
+nrf2
+nr1h4
+shp
+dhb4
+hsd17b4
+lxr alpha
+akt2
+hepatic steatosis
+ovulation
+cell proliferation
+altered hepatic focus
+ahf
+clonal expansion
+steroidogenic enzyme
+repressed expression
+apoptosis
+adult leydig cell
+sperm quantity
+sperm quality
+dopamine-beta-hydroxylase
+ne
+gnrh cfo
+gnrh pulsatility
+gnrh release
+lh surge
+cortical granule
+fertilization
+fetal leydig cell
+dysgensis
+coup-tfii
+nicotinic acetylcholine receptor
+foraging
+abnormality
+food storage
+failure
+colony
+death
+caste
+roll
+brood care
+impairement
+hive thermoregulation
+mitochondrial dna
+aging
+acceleration
+worker bee
+energetic demand
+metabolic stress
+appetite
+hunger
+viral
+glucose oxidase enzyme
+hydrogen peroxide
+antiseptic
+food
+sodium channel
+sodium conductance 1
+swimming speed
+feeding 1
+predation
+hypoxia
+amputation
+survival
+ether-a-go-go
+modulation
+depolarization
+neuronal membrane
+prolongation
+neuronotransmitter
+muscle contraction
+ataxia
+paralysis
+hyperactivity
+epileptic seizure
+occurrence
+a paroxysmal depolarizing
+neuronal network
+adult brain
+5-hydroxytryptamine transporter
+cilium movement
+locomotion
+foot detachment
+muscular wave
+serotonin
+anxiety
+sheltering
+histaminergic neuron
+excitation
+sedation
+h2
+steroidogenesis
+proteomic
+choleseterol
+lipoprotein
+inner mitochondrial membrane
+adult testis
+leydig cell cytoskeleton
+glucocorticoid
+adrenal corticosterone
+corticosterone
+glucocorticoid receptor agonist
+coup-tfii stem leydig cell
+dysgenesis
+estradiol
+estradiol agonist
+fetal testis proteome
+fetal testis
+desensitization
+overwhelm
+picrotoxin site
+igabar chloride channel
+binding
+neuronal synaptic
+prostaglandin f2alpha
+ovary
+spawning behavior
+attract spawning mate
+reproductive success
+pheromone
+amplification
+excitatory postsynaptic potential
+generation
+prostaglandin
+hypothalamus
+prostaglandin e2
+hormone
+maturation inducing
+steroid
+oocyte
+steroid receptor
+meiotic metaphase i
+meiotic prophase i
+assembly
+spindle
+mad2-oocyte
+upregulatation
+ion channel
+action potential
+cardiac arrthymia
+alpha2u microglobulin
+proximal tubular epithelium
+cytotoxicity
+renal tubular cell
+regenerative cell
+tubular epithelial cell
+adenoma
+carcinoma
+renal tubular
+2u
+mitogenic cell
+hepatocytes
+tubulin
+hepatocellular
+microtubule dynamic
+disorganization
+chromosome
+pyruvate dehydrogenase kinase
+pyruvate dehydrogenase
+aneuploid offspring
+necrosis
+terminal bronchiolar cell
+terminal bronchiolar epithelial cell
+bronchioloalveolar
+uptake
+inorganic iodide
+hypertrophy
+follicular cell
+leydig cell tumor
+dopaminergic
+prolactin
+progesterone from corpus luteum
+meiotic chromosome dynamic
+thyroid-stimulating hormone
+hippocampal gene
+hippocampal anatomy
+hippocampal physiology
+kidney failure
+glutamate-gated chloride channel
+conductance
+chloride
+neuron
+hyperpolarisation
+population 1
+4-hydroxyphenyl-pyruvate dioxygenase
+oxidative metabolism
+club cell
+serum thyroid hormone
+t3
+endometrial adenocarcinoma
+preneoplastic focus
+plasma tyrosine
+corneal cell
+papilloma
+squamous cell
+epithelial cell
+forestomach epithelial cell
+incorporation
+active iodide
+iodotyrosine
+5α-reductase
+leutinizing hormone
+bioactivation of testosterone
+urinary bladder calculus
+urothelial cell
+urothelial
+prolyl hydroxylases
+hif-1 heterodimer
+mrna
+hif-1 alpha
+hmg-coa reductase
+mevalonate
+serum creatinine
+kidney
+glomerular
+renal plasma flow
+sodium reabsorption
+cystic dilatation
+renal tubule
+keratinocytes
+skin
+sensitisation
+phospholipase a
+lipid bilayer
+lysosomal function
+disturbance
+injury
+cytoplasmic vacuolization
+hepatocyte
+vacuolization
+ballooning degeneration
+kupffer cell
+uroporphyrinogen
+urod
+highly carboxylated porphyrin
+binding of ne
+ne receptor
+gnrh neuron
+antgonism
+cyp1a2
+cyp1a5
+gabaergic interneurons
+cellular homeostasis
+cellular apoptosis
+cellular proliferation
+cellular hyperplasia
+bile duct tumor
+pparalpha transactivation
+gene expression
+ketogenesis
+production of ketone body
+circulating ketone body
+catabolism
+muscle protein
+body weight
+intracellular ph
+tissue degeneration
+tissue necrosis
+tissue atrophy
+respiratory
+squamous metaplasia
+contact nasal tumor
+agonist receptor
+ionotropic glutamate receptor
+organic anion transporter 1
+srebp1c
+cancer
+nadh-ubiquinone oxidoreductase
+complex i
+inhibitor
+proteostasis
+dopaminergic neuron
+nigrostriatal pathway
+parkinsonian motor deficit
+lysosome
+ciliated epithelial cell
+transdifferentiation
+metaplasia
+goblet cell
+sp1
+glutathione
+enos
+s-glutathionylation
+uncoupling
+depletion
+tetrahydrobiopterin
+gtpch-1
+vasodilation
+egfr
+arnt
+dimerization
+hif1-alpha
+early life stage
+vegf
+hypertension
+transthyretin
+serum thyroxine
+displacement
+free serum thyroxine
+clearance
+aromatase enzyme
+estradiol in circulation
+decreased estradiol in circulation
+delay
+blocking
+ovulation of oocyte
+nfat
+nuclear localization
+calcineurin activity
+complex formation
+ap-1
+t-cell dependent antibody response
+susceptibility
+infection
+circulating ecdysis triggering hormone
+antagonist
+co-repressor
+stabilization
+developmental defect
+deiodinase 2
+triiodothyronine
+posterior swim bladder
+inflation
+swimming performance
+young of year
+anterior swim bladder
+deiodinase 1
+postsynaptic potential
+inhibitory
+somatic muscle paralysis
+feeding
+pharyngeal muscle paralysis
+udpgt's in liver
+t4 catabolism
+t3 catabolism
+serum t4
+serum t3
+tsh
+adipogenesis
+secretion
+local growth factor
+mesenchymal cell
+igf-1
+mouse
+firbrosarcoma
+liposarcoma
+beta-2 adrenergic receptor
+smooth muscle
+relaxation
+mesovarian leiomyoma
+promotion
+ovarian e2
+estrogen receptor activity
+er activity
+secretion of gnrh
+secrection of fsh
+anterior pituitary
+secretion of lh
+ovarian stromal cell
+ovarian adenoma
+ovarian granular cell tumor
+ppar-alpha activation
+bile flow
+lipid metabolism
+elevation
+serun cck
+acinar cell
+pancreatic acinar tumor
+estrogen receptor alpha
+aberrant basal cell
+adenosquamous carcinoma of endometrium
+interruption
+estrus
+estrogen level
+prolactin exposure
+mammary
+latency period
+lactotroph hyperplasia
+lactotroph hypertrophy
+pituitary
+dopaminergic activity
+prolactin secretion
+mammary gland
+pleura
+peritoneum
+persistence
+mesothelium
+mesothelioma
+tissue
+blood uric acid concentration
+renal proximal tubular
+blood potassium concentration
+amphibian metamorphosis
+tophus
+urate
+deposition
+cyclooxygenase 1 activity
+prostaglandin f2alpha concentration
+renal ischemia
+cardiac arrhythmia
+weakening
+role change within caste
+deformed wing virus level
+ro
+secondary hemostasis
+under carboxylated clotting factor
+vascular repair mechanism
+unresolved blood loss
+hemorrhage
+des-gamma-carboxy prothrombin
+blood loss
+development of anemia
+hemostasis
+acidosis
+hypovolemic shock
+organ dysfunction
+recruitment
+uncoupling of oxidative phosphorylation
+atp
+water retention in foot
+valve movement
+energy reserve
+iodotyrosine deiodinase
+iyd
+deiodinase 3
+pendrin
+dual oxidase
+hepatic nuclear receptor
+hepatic thyroid hormone uptake
+hepatic thyroid hormone transport
+oocyte maturation
+anticoagulant rodenticide
+interference
+hepatocyte fate
+gene
+cell proliferatin
+pre-neoplastic altered hepatic focus
+nadph oxidase
+sodium conductance 2
+gaba release
+gaba
+er binding to dna
+classical pathway
+non-classical pathway
+ductal hyperplasia
+breast cancer
+dna damage
+il-2 production
+il-4 production
+juvenile hormone receptor
+doublesex1 gene
+male offspring
+food-web structure
+gene expression specific
+car activation
+trpa1
+trpa1 receptor
+calcium channel
+trigeminal nerve
+substance p
+sp
+local increase
+cough
+dyspnea
+nerve excitation
+airway hyper-responsiveness
+respiratory irritability
+chronic cough
+ca2+-calmodulin activated signal transduction
+lung function
+topoisomerase ii enzyme
+mll chromosomal
+translocation
+leukaemia
+infant
+mantel display
+parturition
+decompartmentalization
+narcosis
+mitochondrial
+circulating crustacean cardioactive peptide
+ecdysis motoneuron burst
+cox-2 expression
+pparγ
+tgf-β signaling
+fibrosis
+lung
+reproductivity
+oxidative activation
+pmk-1 p38 mapk
+hif-1
+dna damage-repair
+jak pathway
+stat pathway
+tgf-beta pathway
+srebf2
+unsaturated fatty acid
+g and gsts gene
+synthesis
+3-hydroxy-3-methylglutaryl-coa reductase gene
+perturbation
+toxicity
+jnk
+foxo
+embryogenesis
+cytosolic fatty acid
+serotonin transporter activity
+extracellular sodium
+na+
+extracellular chloride
+cl-
+extracellular serotonin
+intracellular sodium
+intracellular serotonin
+packaged serotonin
+synaptic release
+5-htr
+serotonin receptor
+inactivation
+expression
+brain-derived neurotrophic factor
+neuroplasticity
+5-ht2a
+serotonin 2a
+seizure
+agitation
+depression
+presynaptic neuron 1
+glutamate
+voltage-gated sodium channel
+carbamazepine
+treatment
+membrane depolarization
+hippocampal hyperdepolarization
+epilepsy
+oogenesis
+gastric ulcer formation
+ptgs-1
+prostaglandin-endoperoxide synthase 1
+ptgs-2
+prostaglandin-endoperoxide synthase 2
+bicarbonate
+mucous
+surfactant
+phospholipase
+ammonium
+nh4+
+cyp7b activity
+7α-hydroxypregnenolone synthesis
+brain
+dopamine release
+locomotor activity
+sexual behavior
+cyp2e1
+hepatocytotoxicity
+persistant proliferation
+sustained proliferation
+liver cancer
+glucocorticoid receptor activity
+5-ht3
+ptgs1 function
+platelet aggregation
+mucosal blood flow
+mucosal defense
+ptgs2 function
+leukocyte adherence
+leukocyte activation
+helicobacter pylorus
+presynaptic neuron 2 activity
+gaba-a receptor
+intracellular chloride
+nfe2
+repression
+steatosis
+fxr activity
+shp activity
+pparalpha
+hsd17b4 activity
+fatty acid beta oxidation
+mu opioid receptor
+g protein
+opening
+analgesia
+n-type ca ion channel
+neurotransmitter vesicle release
+serotonin 1a receptor
+activity
+anti-depressant
+cgrp
+neuronal release
+irritation
+neurokinin a
+pulmonary cell
+stressor
+pulmonary
+pro-inflammatory cytokine
+pulmonary saa
+hdl-saa
+cholesterol pool
+foam cell
+plaque
+artery
+progression
+follicular atresia
+lipid peroxidation
+oxidative phosphorylation
+obesity
+ccaat
+enhancer-binding protein alpha
+dopamine
+reward
+dna methylation
+tyrosine hydroxylase
+chronicle
+high fat diet
+differentiation of fibroblast
+epithelial mesenchymal transition
+break
+dna double-strand
+thiol group of chemical
+sulfuhydryl group of protein
+thiol adduct
+interaction
+lysyl oxidase
+collagen crosslinking
+collagen matrix
+weak
+notochord
+distortion
+growth
+uncoupling of photophosphorylation
+chloroplast atp production
+chlorophyll synthesis
+light harvest capacity
+photosynthesis
+growth inhibition
+mitochondrial dna polymerase gamma
+pol gamma
+mtdna
+dysfunction
+substrate
+endocytic receptor
+thiol
+seleno-proteins
+protection against oxidative stress
+dyshomeostasis
+steatohepatisis
+oncotic necrosis
+tissue resident
+pro-inflammatory mediator
+leukocyte
+secretion of proinflammatory
+recruitment of inflammatory cell
+alveolar capillary membrane integrity
+fibroblast proliferation
+myofibroblast differentiation
+extracellular matrix deposition
+histone deacetylase
+histone acetylation
+cell cycle
+testicular
+atrophy
+protein adduct
+peroxidation
+lipid
+unfolding
+protein response
+generalization
+spermatocyte
+d1 protein
+blockage
+photosystem ii
+chitin synthase
+cuticular chitin synthesis
+premature molting
+sulfonylurea receptor binding
+voltage-dependent calcium channel
+cell membrane depolarization
+l-type calcium channel
+blockade
+calcium current
+calcium binding
+troponin c
+cardiac contractility
+cardiac ejection fraction
+heart failure
+intracellular calcium mobilization
+sarcomere assembly
+endocytotic lysosomal
+mitochondrial complex iii
+mitochondrial complex iv
+mitochondrial complex v
+mitochondrial oxidative phosphorylation
+necrotizing
+lung cancer
+neural crest cell migration
+collagen production
+facial cartilage structure
+morphologically distorted
+differentiation
+neural tube
+defect
+na atpase activity
+k atpase activity
+proximal tubular vectorial transport
+fanconi syndrome
+ikk complex
+caspase 8 pathway
+tissue resident cell
+kuppfer cell
+proinflammatory mediator
+tnfalpha
+microtubule stabilizing agent
+msa
+microtubule
+microtubule dynamic instability
+axonial transport
+sensory axonal peripheral
+neuropathy
+α-diketones
+arginine residue
+proteasomal
+airway epithelial
+lesion
+fibroproliferative airway
+bronchiolitis
+obliterans
+photoactivated chemical
+membrane lipid
+denatuation
+membrane protein
+light-exposed tissue
+muscarinic acetylcholine receptor
+chronic
+kidney disease
+n-linked glycosylation
+misfolded protein
+hepatic stellate cell
+oxidative dna damage
+cytochrome p450 enzyme activity
+cyp17a1 activity
+17-oh-pregnenolone conversion
+dhea
+17-oh-progesterone conversion
+androstenedione
+testosterone synthesis
+dihydrotestosterone level
+dht level
+androgen receptor activation
+ar activation
+inguinoscrotal testicular descent phase
+cryptorchidism - maldescended testis
+dna methyltransferase inhibition
+dna hypomethylation
+transgenerational dna methylation
+focal seizure
+tyrosinase
+l-dopaquinone
+melanin level
+melanosome level
+pigmentation pattern
+ron
+dna strand break
+chromosomal aberration
+retinaldehyde dehydrogenase
+optical element
+eye
+retinoic acid synthesis
+ra synthesis
+plasma ra level
+visual impairment
+epithelial-mesenchymal
+transition
+treatment-resistant gastric
+s-adenosylmethionine depletion
+thyroid receptor
+cystathionine beta-synthase
+homocysteine level
+plasma hcy level
+microcirculation
+anterior-posterior axis development
+phagoytosis
+frustration
+dna mutation
+substance - lung surfactant
+lung surfactant function
+alveolar
+collapsing
+reopening
+barrier function
+blood extravasation
+lung volume
+acute toxicity
+inhalation
+tbx1
+progenitor cell
+second heart field
+fourth pharyngeal arch development
+cardiac outflow tract formation
+abnormalities
+congenital cardiac conotruncal
+anomalies
+energy
+transcription of gene
+male anogenital distance
+lh receptor
+progesterone synthesis
+plasma progesterone concentration
+progesterone uptake
+decresed maturation
+egg production
+cummulative fecundity
+dna methyltransferase expression
+gonadotropin releasing hormone receptor
+hypermethylation
+il-1 binding
+il-1 receptor
+t cell activation
+heart rate
+vascular tone
+dysregulation
+coordination
+movement
+tlr7/8
+stimulation
+il-23
+matured dendritic cell
+overproduction
+il-17
+th17 cell
+psoriatic skin
+disease
+gata3 expression
+immune cell
+stat6:er fusion protein
+il-4
+th2 cell
+anti-single dna antibody
+autoreactive b cell
+double-stranded dna antibody
+systemic lupus erythematosus
+exacerbation
+jak3
+stat5 phosphorylation
+trypsin
+intestinal monitor peptide level
+blood cck level
+exocrine secretion
+pancreatic acinar cell
+tumor
+viral entry
+enhancement
+s protein
+ace receptor
+ace2
+plasma ang ii
+inflammatory immune response
+angii
+tissue damage
+macrophage activation
+porcupine-induced wnt secretion
+beta-catenin activation
+11-ketotestosterone
+sperm count
+spermatogenesis
+cripto-1 expression
+activin signaling
+fin regeneration
+formation of dna photoproducts
+dna double-strand break
+protein oxidation
+osmoregulation
+body fluid overload
+mitochondrial membrane potential
+atp production
+neutral lipid
+global dna methylation
+caspase transcription
+oocyte apoptosis
+ovarian somatic cell apoptosis
+ovarian follicle breakdown
+heritable dna methylation
+f3
+atp synthase inhibition
+retained nipple in male
+epilepticus
+status
+17beta-estradiol synthesis
+undifferentiated gonad
+differentiation to testis
+male biased sex ratio
+toll-like receptor 4
+activator protein 1
+pin-1
+latent transforming growth factor
+11β-hydroxylase
+plasma 11-kt level
+sperm size
+sperm volume
+11β-hsd
